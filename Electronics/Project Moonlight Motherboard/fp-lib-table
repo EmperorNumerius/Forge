@@ -10,4 +10,5 @@
   (lib (name "GCM155R71H104KE02J")(type "KiCad")(uri "${KIPRJMOD}/Modules/GCM155R71H104KE02J")(options "")(descr ""))
   (lib (name "B4B-XH-A")(type "KiCad")(uri "${KIPRJMOD}/Modules/B4B-XH-A")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Modules/A750MV477M1VAAE018/footprints.pretty")(options "")(descr ""))
+  (lib (name "IRFH7440TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Modules/IRFH7440TRPBF")(options "")(descr ""))
 )

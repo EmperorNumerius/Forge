@@ -10,4 +10,6 @@
   (lib (name "GCM155R71H104KE02J")(type "KiCad")(uri "${KIPRJMOD}/Modules/GCM155R71H104KE02J/GCM155R71H104KE02J.kicad_sym")(options "")(descr ""))
   (lib (name "B4B-XH-A")(type "KiCad")(uri "${KIPRJMOD}/Modules/B4B-XH-A/B4B-XH-A.kicad_sym")(options "")(descr ""))
   (lib (name "A750MV477M1VAAE018")(type "KiCad")(uri "${KIPRJMOD}/Modules/A750MV477M1VAAE018/A750MV477M1VAAE018.kicad_sym")(options "")(descr ""))
+  (lib (name "IRFH7440TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Modules/IRFH7440TRPBF/IRFH7440TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "test")(type "KiCad")(uri "${KIPRJMOD}/Modules/IRFH7440TRPBF/test.kicad_sym")(options "")(descr ""))
 )

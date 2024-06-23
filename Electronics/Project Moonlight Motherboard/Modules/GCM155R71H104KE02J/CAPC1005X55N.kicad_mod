@@ -29,4 +29,9 @@
     (solder_mask_margin 0.102) (tstamp e65b3129-1a55-4519-8fce-ab399a01f305))
   (pad "2" smd rect (at 0.432 0) (size 0.54 0.6) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 491db6b0-67d0-452b-9676-d826dd3731bf))
+  (model "${KIPRJMOD}/Modules/GCM155R71H104KE02J/GCM155R71H104KE02J.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
