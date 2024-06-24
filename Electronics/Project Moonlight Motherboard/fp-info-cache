@@ -1,4 +1,4 @@
-21762825357403851
+21764544601258658
 AO3400A
 SOT95P280X125-3N
 
@@ -54576,8 +54576,8 @@ TRANS_FDMS86202
 
 
 0
-5
-5
+8
+8
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -83229,6 +83229,13 @@ rotary encoder
 0
 7
 6
+SSD1306
+128x64OLED
+
+
+0
+4
+4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf

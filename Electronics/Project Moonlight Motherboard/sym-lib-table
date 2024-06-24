@@ -12,4 +12,7 @@
   (lib (name "A750MV477M1VAAE018")(type "KiCad")(uri "${KIPRJMOD}/Modules/A750MV477M1VAAE018/A750MV477M1VAAE018.kicad_sym")(options "")(descr ""))
   (lib (name "IRFH7440TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Modules/IRFH7440TRPBF/IRFH7440TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "test")(type "KiCad")(uri "${KIPRJMOD}/Modules/IRFH7440TRPBF/test.kicad_sym")(options "")(descr ""))
+  (lib (name "NHD-C12832A1Z")(type "KiCad")(uri "${KIPRJMOD}/Modules/NHD-C12832A1Z/NHD-C12832A1Z.kicad_sym")(options "")(descr ""))
+  (lib (name "PEC11H-4015F-S0016")(type "KiCad")(uri "${KIPRJMOD}/Modules/PEC11H-4015F-S0016/PEC11H-4015F-S0016.kicad_sym")(options "")(descr ""))
+  (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "${KIPRJMOD}/Modules/SSD1306-128x64/SSD1306-128x64_OLED.lib")(options "")(descr ""))
 )

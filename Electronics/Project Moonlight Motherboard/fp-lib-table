@@ -11,4 +11,5 @@
   (lib (name "B4B-XH-A")(type "KiCad")(uri "${KIPRJMOD}/Modules/B4B-XH-A")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Modules/A750MV477M1VAAE018/footprints.pretty")(options "")(descr ""))
   (lib (name "IRFH7440TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Modules/IRFH7440TRPBF")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/Modules/SSD1306-128x64/SSD1306.pretty")(options "")(descr ""))
 )
