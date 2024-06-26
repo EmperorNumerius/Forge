@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forge Editor</title>
+  <style>
+    #container {
+      width: 800px;
+      height: 600px;
+    }
+  </style>
+</head>
+<body>
+  <div id="container"></div>
+  <script src="https://unpkg.com/monaco-editor/min/vs/loader.js"></script>
+  <script src="openscad.js"></script>
+  <script>
+    require.config({ paths: { 'vs': 'https://unpkg.com/monaco-editor/min/vs' }});
+    require(['vs/editor/editor.main'], function() {
+      monaco.editor.create(document.getElementById('container'), {
+        value: '',
+        language: 'openscad'
+      });
+    });
+  </script>
+</body>
+</html>
