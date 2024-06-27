@@ -15,4 +15,5 @@
   (lib (name "NHD-C12832A1Z")(type "KiCad")(uri "${KIPRJMOD}/Modules/NHD-C12832A1Z/NHD-C12832A1Z.kicad_sym")(options "")(descr ""))
   (lib (name "PEC11H-4015F-S0016")(type "KiCad")(uri "${KIPRJMOD}/Modules/PEC11H-4015F-S0016/PEC11H-4015F-S0016.kicad_sym")(options "")(descr ""))
   (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "${KIPRJMOD}/Modules/SSD1306-128x64/SSD1306-128x64_OLED.lib")(options "")(descr ""))
+  (lib (name "RC0603FR-131KL")(type "KiCad")(uri "${KIPRJMOD}/Modules/RC0603FR-131KL/RC0603FR-131KL.kicad_sym")(options "")(descr ""))
 )
