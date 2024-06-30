@@ -8722,13 +8722,13 @@
 		(uuid "067c4274-2189-4bb3-b8f1-6a0caff9910f")
 	)
 	(junction
-		(at 304.8477 39.8689)
+		(at 284.7579 34.3709)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "132185a6-0a3f-4732-89ec-d4d3d98d6f43")
 	)
 	(junction
-		(at 393.065 73.66)
+		(at 372.9752 68.162)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "22a4e883-55bf-46f6-9001-82586f7e1cfe")
@@ -8740,19 +8740,19 @@
 		(uuid "2a9613ef-1c03-4930-8c38-07b76d25e16c")
 	)
 	(junction
-		(at 184.9265 249.3561)
+		(at 399.9267 164.2557)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "308b7964-8fef-4978-8810-29c7a979fac3")
 	)
 	(junction
-		(at 222.3451 194.2974)
+		(at 327.9172 179.6429)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d2df54a-e102-43a3-9727-cdc38818764a")
 	)
 	(junction
-		(at 304.8477 90.6689)
+		(at 284.7579 85.1709)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f376462-628d-454c-bc3e-e36a617fff30")
@@ -8764,19 +8764,19 @@
 		(uuid "40e1b940-736d-44e9-9af2-af3c8293fa28")
 	)
 	(junction
-		(at 222.3451 191.7574)
+		(at 327.9172 177.1029)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4cda4b10-8add-4738-a3c4-0558e07d9bac")
 	)
 	(junction
-		(at 394.97 40.64)
+		(at 374.8802 35.142)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54aa422a-dc0a-4a4b-b53d-3ec486d6e8d3")
 	)
 	(junction
-		(at 231.8701 191.7574)
+		(at 337.4422 177.1029)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63b638f4-4643-4c0c-8e06-9a2b1d244b01")
@@ -8806,25 +8806,25 @@
 		(uuid "72f2a7e9-91fe-432a-a6e6-7fdd9db927ef")
 	)
 	(junction
-		(at 394.97 91.44)
+		(at 374.8802 85.942)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7616d48d-4ba8-41eb-8e75-d287c0bbeaf9")
 	)
 	(junction
-		(at 211.5501 191.7574)
+		(at 317.1222 177.1029)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85897b33-6237-4117-ad09-b03b02452886")
 	)
 	(junction
-		(at 211.5501 194.2974)
+		(at 317.1222 179.6429)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "883aa16b-4b2b-49ff-9277-35eabe1a9b32")
 	)
 	(junction
-		(at 151.9065 249.3561)
+		(at 373.8605 163.8385)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b3e549f-1baf-4ad6-a30a-8c81f3462f56")
@@ -8836,7 +8836,7 @@
 		(uuid "9b67a86a-1ffb-489b-8432-7df70f321794")
 	)
 	(junction
-		(at 211.5501 189.2174)
+		(at 317.1222 174.5629)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0138059-49f6-43cf-b293-183a8af3ca0e")
@@ -8848,25 +8848,25 @@
 		(uuid "a3d346c0-14c7-4a29-ad9a-e78fd386ca5e")
 	)
 	(junction
-		(at 167.1837 43.9404)
+		(at 269.694 159.9609)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae74c22b-885b-4f4f-9b51-ca40f849f3de")
 	)
 	(junction
-		(at 393.065 124.46)
+		(at 372.9752 118.962)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5275eb1-5f9f-4175-a9b8-c16f13e62fc7")
 	)
 	(junction
-		(at 202.0251 194.2974)
+		(at 307.5972 179.6429)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b8898531-bce9-4701-ac9c-ff59e8442c63")
 	)
 	(junction
-		(at 231.8701 194.2974)
+		(at 337.4422 179.6429)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0250e9a-1a55-4c19-b2b0-09be1a13c796")
@@ -8878,13 +8878,13 @@
 		(uuid "c19959fd-87ab-43e2-8b62-4c158697b7c3")
 	)
 	(junction
-		(at 302.9427 72.8889)
+		(at 282.8529 67.3909)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c45ddaa9-ac40-44db-8e19-5a6d372e0083")
 	)
 	(junction
-		(at 167.1837 68.0704)
+		(at 269.694 184.0909)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf3f3f5a-2841-439b-b4ad-de23cf3efde5")
@@ -8896,7 +8896,7 @@
 		(uuid "d0273278-9857-45c5-aecc-72a2b25d15e4")
 	)
 	(junction
-		(at 302.9427 123.6889)
+		(at 282.8529 118.1909)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d82bf5c9-95bb-4274-a40c-5a7accb654ec")
@@ -8914,19 +8914,19 @@
 		(uuid "da71d2e9-81b4-4571-a3d6-6da223487d57")
 	)
 	(junction
-		(at 167.1837 93.4704)
+		(at 269.694 209.4909)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dff0d7e1-d4e2-43de-940c-57f1820cbe16")
 	)
 	(junction
-		(at 231.8701 189.2174)
+		(at 337.4422 174.5629)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e402bd11-4e9f-45d6-baa4-e137e4910dfb")
 	)
 	(junction
-		(at 202.0251 191.7574)
+		(at 307.5972 177.1029)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e49ce7f5-4ea4-4e0a-a4b2-c9431d2a8458")
@@ -8950,14 +8950,14 @@
 		(uuid "f1b1a265-9642-46b5-b417-611862558033")
 	)
 	(junction
-		(at 344.8276 221.6961)
+		(at 348.633 232.3213)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb4fe49d-bced-4e10-8399-7ae51c67022d")
 	)
 	(wire
 		(pts
-			(xy 392.43 40.64) (xy 394.97 40.64)
+			(xy 372.3402 35.142) (xy 374.8802 35.142)
 		)
 		(stroke
 			(width 0)
@@ -8967,7 +8967,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.6748 179.8568) (xy 255.6833 179.8568)
+			(xy 173.5782 130.1819) (xy 173.5782 130.1734)
 		)
 		(stroke
 			(width 0)
@@ -8977,7 +8977,7 @@
 	)
 	(wire
 		(pts
-			(xy 136.0245 188.7598) (xy 132.2145 188.7598)
+			(xy 186.591 272.8094) (xy 182.781 272.8094)
 		)
 		(stroke
 			(width 0)
@@ -8997,7 +8997,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 48.26) (xy 394.97 51.435)
+			(xy 374.8802 42.762) (xy 374.8802 45.937)
 		)
 		(stroke
 			(width 0)
@@ -9007,7 +9007,7 @@
 	)
 	(wire
 		(pts
-			(xy 354.9876 219.1561) (xy 358.1626 219.1561)
+			(xy 358.793 229.7813) (xy 361.968 229.7813)
 		)
 		(stroke
 			(width 0)
@@ -9027,7 +9027,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.9065 249.3561) (xy 151.9065 248.7211)
+			(xy 373.8605 163.8385) (xy 373.8605 163.2035)
 		)
 		(stroke
 			(width 0)
@@ -9037,7 +9037,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.6833 179.8568) (xy 255.6833 179.8713)
+			(xy 173.5782 130.1734) (xy 173.5927 130.1734)
 		)
 		(stroke
 			(width 0)
@@ -9047,7 +9047,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.9427 72.8889) (xy 306.1177 72.8889)
+			(xy 282.8529 67.3909) (xy 286.0279 67.3909)
 		)
 		(stroke
 			(width 0)
@@ -9057,7 +9057,7 @@
 	)
 	(wire
 		(pts
-			(xy 202.0251 189.2174) (xy 202.0251 191.7574)
+			(xy 307.5972 174.5629) (xy 307.5972 177.1029)
 		)
 		(stroke
 			(width 0)
@@ -9067,7 +9067,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.9427 101.4639) (xy 302.9427 123.6889)
+			(xy 282.8529 95.9659) (xy 282.8529 118.1909)
 		)
 		(stroke
 			(width 0)
@@ -9087,7 +9087,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.4665 255.0711) (xy 187.4665 248.7211)
+			(xy 402.4667 169.9707) (xy 402.4667 163.6207)
 		)
 		(stroke
 			(width 0)
@@ -9097,7 +9097,7 @@
 	)
 	(wire
 		(pts
-			(xy 344.8276 230.5861) (xy 344.8276 221.6961)
+			(xy 348.633 241.2113) (xy 348.633 232.3213)
 		)
 		(stroke
 			(width 0)
@@ -9117,7 +9117,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.9265 249.3561) (xy 184.9265 248.7211)
+			(xy 399.9267 164.2557) (xy 399.9267 163.6207)
 		)
 		(stroke
 			(width 0)
@@ -9127,7 +9127,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.9427 50.6639) (xy 302.9427 72.8889)
+			(xy 282.8529 45.1659) (xy 282.8529 67.3909)
 		)
 		(stroke
 			(width 0)
@@ -9137,7 +9137,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.065 102.235) (xy 393.065 124.46)
+			(xy 372.9752 96.737) (xy 372.9752 118.962)
 		)
 		(stroke
 			(width 0)
@@ -9147,7 +9147,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.8701 194.2974) (xy 231.8701 196.8374)
+			(xy 337.4422 179.6429) (xy 337.4422 182.1829)
 		)
 		(stroke
 			(width 0)
@@ -9157,7 +9157,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.1694 199.7138) (xy 375.1694 220.0338)
+			(xy 378.9748 210.339) (xy 378.9748 230.659)
 		)
 		(stroke
 			(width 0)
@@ -9167,7 +9167,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 110.9889) (xy 304.2127 110.9889)
+			(xy 282.2179 105.4909) (xy 284.1229 105.4909)
 		)
 		(stroke
 			(width 0)
@@ -9177,7 +9177,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.8701 191.7574) (xy 231.8701 194.2974)
+			(xy 337.4422 177.1029) (xy 337.4422 179.6429)
 		)
 		(stroke
 			(width 0)
@@ -9187,7 +9187,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.0894 222.5738) (xy 377.0744 222.5738)
+			(xy 373.8948 233.199) (xy 380.8798 233.199)
 		)
 		(stroke
 			(width 0)
@@ -9197,7 +9197,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9226 219.1561) (xy 344.8276 219.1561)
+			(xy 346.728 229.7813) (xy 348.633 229.7813)
 		)
 		(stroke
 			(width 0)
@@ -9207,7 +9207,7 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 124.46) (xy 393.065 124.46)
+			(xy 372.3402 118.962) (xy 372.9752 118.962)
 		)
 		(stroke
 			(width 0)
@@ -9217,7 +9217,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.6748 179.8568) (xy 255.6748 175.4118)
+			(xy 173.5782 130.1819) (xy 169.1332 130.1819)
 		)
 		(stroke
 			(width 0)
@@ -9227,7 +9227,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.5501 191.7574) (xy 211.5501 194.2974)
+			(xy 317.1222 177.1029) (xy 317.1222 179.6429)
 		)
 		(stroke
 			(width 0)
@@ -9237,7 +9237,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.8245 178.5998) (xy 186.8245 175.4248)
+			(xy 237.391 262.6494) (xy 237.391 259.4744)
 		)
 		(stroke
 			(width 0)
@@ -9247,7 +9247,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 40.64) (xy 402.59 40.64)
+			(xy 374.8802 35.142) (xy 382.5002 35.142)
 		)
 		(stroke
 			(width 0)
@@ -9257,7 +9257,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.9427 123.6889) (xy 306.1177 123.6889)
+			(xy 282.8529 118.1909) (xy 286.0279 118.1909)
 		)
 		(stroke
 			(width 0)
@@ -9277,7 +9277,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.8545 178.5998) (xy 169.0445 178.5998)
+			(xy 223.421 262.6494) (xy 219.611 262.6494)
 		)
 		(stroke
 			(width 0)
@@ -9287,7 +9287,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.6287 93.4704) (xy 167.1837 93.4704)
+			(xy 274.139 209.4909) (xy 269.694 209.4909)
 		)
 		(stroke
 			(width 0)
@@ -9297,7 +9297,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.0901 179.0574) (xy 214.0901 174.6124)
+			(xy 319.6622 164.4029) (xy 319.6622 159.9579)
 		)
 		(stroke
 			(width 0)
@@ -9307,7 +9307,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 91.44) (xy 402.59 91.44)
+			(xy 374.8802 85.942) (xy 382.5002 85.942)
 		)
 		(stroke
 			(width 0)
@@ -9317,7 +9317,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.5501 189.2174) (xy 211.5501 191.7574)
+			(xy 317.1222 174.5629) (xy 317.1222 177.1029)
 		)
 		(stroke
 			(width 0)
@@ -9327,7 +9327,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.8487 65.5304) (xy 157.6587 65.5304)
+			(xy 256.359 181.5509) (xy 260.169 181.5509)
 		)
 		(stroke
 			(width 0)
@@ -9337,7 +9337,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 123.6889) (xy 302.9427 123.6889)
+			(xy 282.2179 118.1909) (xy 282.8529 118.1909)
 		)
 		(stroke
 			(width 0)
@@ -9347,7 +9347,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 39.8689) (xy 304.8477 39.8689)
+			(xy 282.2179 34.3709) (xy 284.7579 34.3709)
 		)
 		(stroke
 			(width 0)
@@ -9357,7 +9357,7 @@
 	)
 	(wire
 		(pts
-			(xy 202.0251 191.7574) (xy 202.0251 194.2974)
+			(xy 307.5972 177.1029) (xy 307.5972 179.6429)
 		)
 		(stroke
 			(width 0)
@@ -9367,7 +9367,7 @@
 	)
 	(wire
 		(pts
-			(xy 344.8276 221.6961) (xy 348.0026 221.6961)
+			(xy 348.633 232.3213) (xy 351.808 232.3213)
 		)
 		(stroke
 			(width 0)
@@ -9377,7 +9377,7 @@
 	)
 	(wire
 		(pts
-			(xy 370.0894 203.5238) (xy 370.0894 222.5738)
+			(xy 373.8948 214.149) (xy 373.8948 233.199)
 		)
 		(stroke
 			(width 0)
@@ -9387,7 +9387,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 103.3689) (xy 304.2127 103.3689)
+			(xy 282.2179 97.8709) (xy 284.1229 97.8709)
 		)
 		(stroke
 			(width 0)
@@ -9397,7 +9397,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.3451 189.2174) (xy 222.3451 191.7574)
+			(xy 327.9172 174.5629) (xy 327.9172 177.1029)
 		)
 		(stroke
 			(width 0)
@@ -9407,7 +9407,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.5345 178.5998) (xy 148.7245 178.5998)
+			(xy 203.101 262.6494) (xy 199.291 262.6494)
 		)
 		(stroke
 			(width 0)
@@ -9417,7 +9417,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.6345 178.5998) (xy 186.8245 178.5998)
+			(xy 241.201 262.6494) (xy 237.391 262.6494)
 		)
 		(stroke
 			(width 0)
@@ -9427,7 +9427,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.1837 43.9404) (xy 153.8487 43.9404)
+			(xy 269.694 159.9609) (xy 256.359 159.9609)
 		)
 		(stroke
 			(width 0)
@@ -9447,7 +9447,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.8701 174.6124) (xy 231.8701 189.2174)
+			(xy 337.4422 159.9579) (xy 337.4422 174.5629)
 		)
 		(stroke
 			(width 0)
@@ -9457,7 +9457,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.1837 68.0704) (xy 153.8487 68.0704)
+			(xy 269.694 184.0909) (xy 256.359 184.0909)
 		)
 		(stroke
 			(width 0)
@@ -9467,7 +9467,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.8487 41.4004) (xy 157.6587 41.4004)
+			(xy 256.359 157.4209) (xy 260.169 157.4209)
 		)
 		(stroke
 			(width 0)
@@ -9477,7 +9477,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.3451 191.7574) (xy 222.3451 194.2974)
+			(xy 327.9172 177.1029) (xy 327.9172 179.6429)
 		)
 		(stroke
 			(width 0)
@@ -9497,7 +9497,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8477 98.2889) (xy 304.8477 101.4639)
+			(xy 284.7579 92.7909) (xy 284.7579 95.9659)
 		)
 		(stroke
 			(width 0)
@@ -9507,7 +9507,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 72.8889) (xy 302.9427 72.8889)
+			(xy 282.2179 67.3909) (xy 282.8529 67.3909)
 		)
 		(stroke
 			(width 0)
@@ -9517,7 +9517,7 @@
 	)
 	(wire
 		(pts
-			(xy 375.1694 220.0338) (xy 377.0744 220.0338)
+			(xy 378.9748 230.659) (xy 380.8798 230.659)
 		)
 		(stroke
 			(width 0)
@@ -9537,7 +9537,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.9065 260.1511) (xy 151.9065 265.2311)
+			(xy 373.8605 174.6335) (xy 373.8605 179.7135)
 		)
 		(stroke
 			(width 0)
@@ -9557,7 +9557,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.0275 194.4559) (xy 400.3775 194.4559)
+			(xy 278.3767 252.0565) (xy 284.7267 252.0565)
 		)
 		(stroke
 			(width 0)
@@ -9567,7 +9567,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.5501 174.6124) (xy 211.5501 189.2174)
+			(xy 317.1222 159.9579) (xy 317.1222 174.5629)
 		)
 		(stroke
 			(width 0)
@@ -9577,7 +9577,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 105.9089) (xy 304.2127 105.9089)
+			(xy 282.2179 100.4109) (xy 284.1229 100.4109)
 		)
 		(stroke
 			(width 0)
@@ -9587,7 +9587,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.4101 179.0574) (xy 234.4101 174.6124)
+			(xy 339.9822 164.4029) (xy 339.9822 159.9579)
 		)
 		(stroke
 			(width 0)
@@ -9597,7 +9597,7 @@
 	)
 	(wire
 		(pts
-			(xy 211.5501 194.2974) (xy 211.5501 196.8374)
+			(xy 317.1222 179.6429) (xy 317.1222 182.1829)
 		)
 		(stroke
 			(width 0)
@@ -9607,7 +9607,7 @@
 	)
 	(wire
 		(pts
-			(xy 169.0445 178.5998) (xy 169.0445 175.4248)
+			(xy 219.611 262.6494) (xy 219.611 259.4744)
 		)
 		(stroke
 			(width 0)
@@ -9627,7 +9627,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.9065 249.9911) (xy 151.9065 249.3561)
+			(xy 373.8605 164.4735) (xy 373.8605 163.8385)
 		)
 		(stroke
 			(width 0)
@@ -9637,7 +9637,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.3445 188.7598) (xy 152.5345 188.7598)
+			(xy 206.911 272.8094) (xy 203.101 272.8094)
 		)
 		(stroke
 			(width 0)
@@ -9647,7 +9647,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8477 50.6639) (xy 302.9427 50.6639)
+			(xy 284.7579 45.1659) (xy 282.8529 45.1659)
 		)
 		(stroke
 			(width 0)
@@ -9657,7 +9657,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.9065 249.3561) (xy 146.8265 249.3561)
+			(xy 373.8605 163.8385) (xy 368.7805 163.8385)
 		)
 		(stroke
 			(width 0)
@@ -9667,7 +9667,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.6287 68.0704) (xy 167.1837 68.0704)
+			(xy 274.139 184.0909) (xy 269.694 184.0909)
 		)
 		(stroke
 			(width 0)
@@ -9677,7 +9677,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 108.4489) (xy 304.2127 108.4489)
+			(xy 282.2179 102.9509) (xy 284.1229 102.9509)
 		)
 		(stroke
 			(width 0)
@@ -9687,7 +9687,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 102.235) (xy 393.065 102.235)
+			(xy 374.8802 96.737) (xy 372.9752 96.737)
 		)
 		(stroke
 			(width 0)
@@ -9697,7 +9697,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.2845 175.4248) (xy 184.2845 188.7598)
+			(xy 234.851 259.4744) (xy 234.851 272.8094)
 		)
 		(stroke
 			(width 0)
@@ -9707,7 +9707,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.4465 255.0711) (xy 154.4465 248.7211)
+			(xy 376.4005 169.5535) (xy 376.4005 163.2035)
 		)
 		(stroke
 			(width 0)
@@ -9757,7 +9757,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.065 73.66) (xy 396.24 73.66)
+			(xy 372.9752 68.162) (xy 376.1502 68.162)
 		)
 		(stroke
 			(width 0)
@@ -9767,7 +9767,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.5045 175.4248) (xy 166.5045 188.7598)
+			(xy 217.071 259.4744) (xy 217.071 272.8094)
 		)
 		(stroke
 			(width 0)
@@ -9777,7 +9777,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8477 39.8689) (xy 312.4677 39.8689)
+			(xy 284.7579 34.3709) (xy 292.3779 34.3709)
 		)
 		(stroke
 			(width 0)
@@ -9787,7 +9787,7 @@
 	)
 	(wire
 		(pts
-			(xy 302.3077 90.6689) (xy 304.8477 90.6689)
+			(xy 282.2179 85.1709) (xy 284.7579 85.1709)
 		)
 		(stroke
 			(width 0)
@@ -9797,7 +9797,7 @@
 	)
 	(wire
 		(pts
-			(xy 253.1314 175.4118) (xy 253.1348 175.4118)
+			(xy 169.1332 132.7253) (xy 169.1332 132.7219)
 		)
 		(stroke
 			(width 0)
@@ -9807,7 +9807,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.065 51.435) (xy 393.065 73.66)
+			(xy 372.9752 45.937) (xy 372.9752 68.162)
 		)
 		(stroke
 			(width 0)
@@ -9817,7 +9817,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.065 124.46) (xy 396.24 124.46)
+			(xy 372.9752 118.962) (xy 376.1502 118.962)
 		)
 		(stroke
 			(width 0)
@@ -9827,7 +9827,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8477 101.4639) (xy 302.9427 101.4639)
+			(xy 284.7579 95.9659) (xy 282.8529 95.9659)
 		)
 		(stroke
 			(width 0)
@@ -9837,7 +9837,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.9265 249.3561) (xy 179.8465 249.3561)
+			(xy 399.9267 164.2557) (xy 394.8467 164.2557)
 		)
 		(stroke
 			(width 0)
@@ -9847,7 +9847,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.6287 43.9404) (xy 167.1837 43.9404)
+			(xy 274.139 159.9609) (xy 269.694 159.9609)
 		)
 		(stroke
 			(width 0)
@@ -9857,7 +9857,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.3451 194.2974) (xy 222.3451 196.8374)
+			(xy 327.9172 179.6429) (xy 327.9172 182.1829)
 		)
 		(stroke
 			(width 0)
@@ -9867,7 +9867,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.8076 230.5861) (xy 344.8276 230.5861)
+			(xy 315.613 241.2113) (xy 348.633 241.2113)
 		)
 		(stroke
 			(width 0)
@@ -9877,7 +9877,7 @@
 	)
 	(wire
 		(pts
-			(xy 174.1245 188.7598) (xy 170.3145 188.7598)
+			(xy 224.691 272.8094) (xy 220.881 272.8094)
 		)
 		(stroke
 			(width 0)
@@ -9887,7 +9887,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.0275 199.5359) (xy 400.3775 199.5359)
+			(xy 278.3767 257.1365) (xy 284.7267 257.1365)
 		)
 		(stroke
 			(width 0)
@@ -9897,7 +9897,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.9265 249.9911) (xy 184.9265 249.3561)
+			(xy 399.9267 164.8907) (xy 399.9267 164.2557)
 		)
 		(stroke
 			(width 0)
@@ -9917,7 +9917,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.7245 178.5998) (xy 148.7245 175.4248)
+			(xy 199.291 262.6494) (xy 199.291 259.4744)
 		)
 		(stroke
 			(width 0)
@@ -9927,7 +9927,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.1837 93.4704) (xy 153.8487 93.4704)
+			(xy 269.694 209.4909) (xy 256.359 209.4909)
 		)
 		(stroke
 			(width 0)
@@ -9937,7 +9937,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.8487 90.9304) (xy 157.6587 90.9304)
+			(xy 256.359 206.9509) (xy 260.169 206.9509)
 		)
 		(stroke
 			(width 0)
@@ -9947,7 +9947,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.8701 189.2174) (xy 231.8701 191.7574)
+			(xy 337.4422 174.5629) (xy 337.4422 177.1029)
 		)
 		(stroke
 			(width 0)
@@ -9957,7 +9957,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.1845 175.4248) (xy 146.1845 188.7598)
+			(xy 196.751 259.4744) (xy 196.751 272.8094)
 		)
 		(stroke
 			(width 0)
@@ -9967,7 +9967,7 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 91.44) (xy 394.97 91.44)
+			(xy 372.3402 85.942) (xy 374.8802 85.942)
 		)
 		(stroke
 			(width 0)
@@ -9977,7 +9977,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 99.06) (xy 394.97 102.235)
+			(xy 374.8802 93.562) (xy 374.8802 96.737)
 		)
 		(stroke
 			(width 0)
@@ -9987,7 +9987,7 @@
 	)
 	(wire
 		(pts
-			(xy 394.97 51.435) (xy 393.065 51.435)
+			(xy 374.8802 45.937) (xy 372.9752 45.937)
 		)
 		(stroke
 			(width 0)
@@ -9997,7 +9997,7 @@
 	)
 	(wire
 		(pts
-			(xy 342.9226 221.6961) (xy 344.8276 221.6961)
+			(xy 346.728 232.3213) (xy 348.633 232.3213)
 		)
 		(stroke
 			(width 0)
@@ -10007,7 +10007,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.9826 221.6961) (xy 311.8076 221.6961)
+			(xy 318.788 232.3213) (xy 315.613 232.3213)
 		)
 		(stroke
 			(width 0)
@@ -10017,7 +10017,7 @@
 	)
 	(wire
 		(pts
-			(xy 202.0251 194.2974) (xy 202.0251 196.8374)
+			(xy 307.5972 179.6429) (xy 307.5972 182.1829)
 		)
 		(stroke
 			(width 0)
@@ -10037,7 +10037,7 @@
 	)
 	(wire
 		(pts
-			(xy 253.1314 180.1617) (xy 253.1314 175.4118)
+			(xy 173.8831 132.7253) (xy 169.1332 132.7253)
 		)
 		(stroke
 			(width 0)
@@ -10047,7 +10047,7 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 73.66) (xy 393.065 73.66)
+			(xy 372.3402 68.162) (xy 372.9752 68.162)
 		)
 		(stroke
 			(width 0)
@@ -10057,7 +10057,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.9265 265.2311) (xy 184.9265 260.1511)
+			(xy 399.9267 180.1307) (xy 399.9267 175.0507)
 		)
 		(stroke
 			(width 0)
@@ -10067,7 +10067,7 @@
 	)
 	(wire
 		(pts
-			(xy 311.8076 221.6961) (xy 311.8076 230.5861)
+			(xy 315.613 232.3213) (xy 315.613 241.2113)
 		)
 		(stroke
 			(width 0)
@@ -10077,7 +10077,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8477 90.6689) (xy 312.4677 90.6689)
+			(xy 284.7579 85.1709) (xy 292.3779 85.1709)
 		)
 		(stroke
 			(width 0)
@@ -10087,13 +10087,133 @@
 	)
 	(wire
 		(pts
-			(xy 304.8477 47.4889) (xy 304.8477 50.6639)
+			(xy 284.7579 41.9909) (xy 284.7579 45.1659)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fa8beb09-1f08-4aa7-bd22-20db8ec8acc1")
+	)
+	(rectangle
+		(start 299.9843 202.1685)
+		(end 407.9906 253.0076)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 20400f5f-ea46-48ac-8e7b-34a829eb462c)
+	)
+	(rectangle
+		(start 228.7129 11.972)
+		(end 407.924 22.098)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 219ae045-9e51-4b9c-81b1-56154595d3f5)
+	)
+	(rectangle
+		(start 260.096 231.902)
+		(end 299.974 240.7915)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 225f419a-cd0a-4235-8155-d16427a5b8f5)
+	)
+	(rectangle
+		(start 176.53 240.792)
+		(end 260.0667 284.8692)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 22aaa921-dba4-489e-b7c4-34e6d3e24d70)
+	)
+	(rectangle
+		(start 299.9913 194.498)
+		(end 408.0089 202.1642)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3121fe9c-62e1-471b-8d2b-2c0f8a456faa)
+	)
+	(rectangle
+		(start 228.8082 125.7466)
+		(end 299.974 137.922)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 50557785-b08b-40df-894e-60933953c704)
+	)
+	(rectangle
+		(start 176.53 231.9167)
+		(end 260.0739 240.792)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 586bc86e-4241-4ccb-94cf-1e9a7d5d493a)
+	)
+	(rectangle
+		(start 299.974 125.73)
+		(end 352.806 137.922)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 617f10fd-1012-41e0-80a9-48b193cf8026)
+	)
+	(rectangle
+		(start 228.7173 125.6652)
+		(end 299.9974 231.906)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6e877c58-7da6-4491-8f2d-3af4b5709f42)
+	)
+	(rectangle
+		(start 299.974 137.922)
+		(end 352.806 194.509)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7e9eb5f4-995c-4843-ba54-e5f4ba21a926)
 	)
 	(rectangle
 		(start 260.096 269.124)
@@ -10108,8 +10228,44 @@
 		(uuid 822910cb-3e42-4df5-a6d3-e05ddeb5b516)
 	)
 	(rectangle
+		(start 260.0715 240.7894)
+		(end 299.9851 263.1593)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a65fe8ea-525c-4b5a-8df6-731fac008d3f)
+	)
+	(rectangle
+		(start 228.7129 22.132)
+		(end 407.924 125.73)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a9f501d5-9b27-4289-a1e3-fdd726446704)
+	)
+	(rectangle
+		(start 352.7992 125.73)
+		(end 407.924 137.9147)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c296370a-6bd0-43d5-957b-805d4c99956d)
+	)
+	(rectangle
 		(start 260.0932 263.1619)
-		(end 299.9317 269.2336)
+		(end 299.974 269.24)
 		(stroke
 			(width 0)
 			(type default)
@@ -10118,6 +10274,76 @@
 			(type none)
 		)
 		(uuid ecbd9c52-1e23-43b6-ba7d-373f41f86d06)
+	)
+	(text "I2C Display and Encoder\n"
+		(exclude_from_sim no)
+		(at 354.9291 198.408 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "297022bb-06e8-47c8-8d7f-2440c67d83c0")
+	)
+	(text "Fan Mosfets\n"
+		(exclude_from_sim no)
+		(at 218.468 236.1819 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3aa46123-fa94-4dcf-9ac8-86b009e474dd")
+	)
+	(text "Auto Bed Leveling\n"
+		(exclude_from_sim no)
+		(at 380.5844 132.6 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "7169561a-1050-4113-9af4-1dd584fdc6da")
+	)
+	(text "Removable Stepper Drivers (XYZE)"
+		(exclude_from_sim no)
+		(at 320.9445 17.3765 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "8c421986-2c3c-4203-be42-d8d9a6280025")
+	)
+	(text "Thermistors (T0, T1, T2)"
+		(exclude_from_sim no)
+		(at 264.3241 132.695 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a40ce73d-7dfa-41db-896e-6a5d90f6ddab")
+	)
+	(text "Power LED\n"
+		(exclude_from_sim no)
+		(at 279.5523 237.149 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "ab8eb487-68d9-49bf-8e17-e23b6fb0c9dd")
+	)
+	(text "Bed and Heater Mosfets\n"
+		(exclude_from_sim no)
+		(at 326.8778 132.5916 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "ca94e414-3e69-4ea3-add3-a8a6f223976f")
 	)
 	(text "UART Conversion\n"
 		(exclude_from_sim no)
@@ -10131,7 +10357,7 @@
 	)
 	(global_label "FAN3"
 		(shape input)
-		(at 176.6645 183.6798 90)
+		(at 227.231 267.7294 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10141,7 +10367,7 @@
 		)
 		(uuid "0570c9f4-5fe9-4941-957d-46627a55e27b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.6645 175.9774 90)
+			(at 227.231 260.027 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10153,7 +10379,7 @@
 	)
 	(global_label "EN_BTN"
 		(shape input)
-		(at 343.859 219.1561 90)
+		(at 347.6644 229.7813 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10163,7 +10389,7 @@
 		)
 		(uuid "07f4e4e2-2513-48e9-98ad-5ad4456b9fcf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 343.859 209.1557 90)
+			(at 347.6644 219.7809 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10175,7 +10401,7 @@
 	)
 	(global_label "DIAG_M3"
 		(shape input)
-		(at 392.43 48.26 0)
+		(at 372.3402 42.762 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10185,7 +10411,7 @@
 		)
 		(uuid "0f2f73cd-dbe6-4647-ab5e-a90d3b969e72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 403.2771 48.26 0)
+			(at 383.1873 42.762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10197,7 +10423,7 @@
 	)
 	(global_label "UART_RX"
 		(shape input)
-		(at 356.87 119.38 180)
+		(at 336.7802 113.882 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10207,7 +10433,7 @@
 		)
 		(uuid "14d6f758-5443-4829-9210-907f857c85c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.781 119.38 0)
+			(at 325.6912 113.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10219,7 +10445,7 @@
 	)
 	(global_label "HOTEND"
 		(shape input)
-		(at 206.4701 184.1374 90)
+		(at 312.0422 169.4829 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10229,7 +10455,7 @@
 		)
 		(uuid "1a55efd5-80c8-4ba2-92c8-894b4158a576")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.4701 173.7741 90)
+			(at 312.0422 159.1196 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10307,7 +10533,7 @@
 	)
 	(global_label "SCRN_SCL"
 		(shape input)
-		(at 377.0744 225.1138 180)
+		(at 380.8798 235.739 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10317,7 +10543,7 @@
 		)
 		(uuid "25e96a47-70d5-45c1-99b3-564372c57aa4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 364.534 225.1138 0)
+			(at 368.3394 235.739 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10395,7 +10621,7 @@
 	)
 	(global_label "T1"
 		(shape input)
-		(at 171.6287 68.0704 0)
+		(at 274.139 184.0909 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10405,7 +10631,7 @@
 		)
 		(uuid "374af1b1-99fc-42b8-a7e1-0d20829de983")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.791 68.0704 0)
+			(at 279.3013 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10417,7 +10643,7 @@
 	)
 	(global_label "DIAG_M1"
 		(shape input)
-		(at 302.3077 47.4889 0)
+		(at 282.2179 41.9909 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10427,7 +10653,7 @@
 		)
 		(uuid "3ea6bb5b-a04b-4c70-aa49-363920b2f39c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 313.1548 47.4889 0)
+			(at 293.065 41.9909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10527,7 +10753,7 @@
 	)
 	(global_label "DIR_M3"
 		(shape input)
-		(at 356.87 53.34 180)
+		(at 336.7802 47.842 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10537,7 +10763,7 @@
 		)
 		(uuid "4978db00-5778-4170-98ce-f82b429fedfd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.1115 53.34 0)
+			(at 327.0217 47.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10571,7 +10797,7 @@
 	)
 	(global_label "SCRN_SDA"
 		(shape input)
-		(at 377.0744 227.6538 180)
+		(at 380.8798 238.279 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10581,7 +10807,7 @@
 		)
 		(uuid "5379061d-1606-4751-8f89-7c8cad5d53fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 364.4735 227.6538 0)
+			(at 368.2789 238.279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10593,7 +10819,7 @@
 	)
 	(global_label "STEP_M4"
 		(shape input)
-		(at 356.87 101.6 180)
+		(at 336.7802 96.102 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10603,7 +10829,7 @@
 		)
 		(uuid "55541f1c-d876-40fb-b261-48a6d4c74867")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.6602 101.6 0)
+			(at 325.5704 96.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10659,7 +10885,7 @@
 	)
 	(global_label "T0"
 		(shape input)
-		(at 171.6287 43.9404 0)
+		(at 274.139 159.9609 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10669,7 +10895,7 @@
 		)
 		(uuid "5ddddc55-70e6-4161-a48f-bc2044e71748")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.791 43.9404 0)
+			(at 279.3013 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10681,7 +10907,7 @@
 	)
 	(global_label "BED"
 		(shape input)
-		(at 226.7901 184.1374 90)
+		(at 332.3622 169.4829 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10691,7 +10917,7 @@
 		)
 		(uuid "63b08d24-df58-48d9-a012-5aa35cf4ab8f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.7901 177.4632 90)
+			(at 332.3622 162.8087 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10703,7 +10929,7 @@
 	)
 	(global_label "DIR_M2"
 		(shape input)
-		(at 266.7477 103.3689 180)
+		(at 246.6579 97.8709 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10713,7 +10939,7 @@
 		)
 		(uuid "65a7696d-521a-483e-9d56-dc6fdac8354f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.9892 103.3689 0)
+			(at 236.8994 97.8709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10769,7 +10995,7 @@
 	)
 	(global_label "Z_END"
 		(shape input)
-		(at 179.8465 249.3561 180)
+		(at 394.8467 164.2557 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10779,7 +11005,7 @@
 		)
 		(uuid "6c290aa8-e377-4d72-bd7a-399fef902605")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.9347 249.3561 0)
+			(at 385.9349 164.2557 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10813,7 +11039,7 @@
 	)
 	(global_label "EN_M3"
 		(shape input)
-		(at 356.87 45.72 180)
+		(at 336.7802 40.222 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10823,7 +11049,7 @@
 		)
 		(uuid "7786a765-95bb-461c-ad2a-3e6c0f4d9645")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.7768 45.72 0)
+			(at 327.687 40.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10835,7 +11061,7 @@
 	)
 	(global_label "STEP_M2"
 		(shape input)
-		(at 266.7477 100.8289 180)
+		(at 246.6579 95.3309 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10845,7 +11071,7 @@
 		)
 		(uuid "7867844c-4c86-4669-9653-56962f3c09eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.5379 100.8289 0)
+			(at 235.4481 95.3309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10857,7 +11083,7 @@
 	)
 	(global_label "STEP_M1"
 		(shape input)
-		(at 266.7477 50.0289 180)
+		(at 246.6579 44.5309 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10867,7 +11093,7 @@
 		)
 		(uuid "793dcda3-ce16-42ab-aeb3-9c5b8dd3e75b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.5379 50.0289 0)
+			(at 235.4481 44.5309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,7 +11105,7 @@
 	)
 	(global_label "FAN1"
 		(shape input)
-		(at 138.5645 183.6798 90)
+		(at 189.131 267.7294 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10889,7 +11115,7 @@
 		)
 		(uuid "7b1b15fc-112a-4a75-8bd5-ea69b15164c5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.5645 175.9774 90)
+			(at 189.131 260.027 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10901,7 +11127,7 @@
 	)
 	(global_label "EN_M2"
 		(shape input)
-		(at 266.7477 95.7489 180)
+		(at 246.6579 90.2509 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10911,7 +11137,7 @@
 		)
 		(uuid "7c5df4fc-2c9b-4ada-85a2-f41fdf83c7ea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.6545 95.7489 0)
+			(at 237.5647 90.2509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10989,7 +11215,7 @@
 	)
 	(global_label "ABL"
 		(shape input)
-		(at 146.8265 249.3561 180)
+		(at 368.7805 163.8385 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10999,7 +11225,7 @@
 		)
 		(uuid "86d6994d-6c63-4b97-8b8b-0b84ec893eae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.4546 249.3561 0)
+			(at 362.4086 163.8385 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11033,7 +11259,7 @@
 	)
 	(global_label "STEP_M3"
 		(shape input)
-		(at 356.87 50.8 180)
+		(at 336.7802 45.302 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11043,7 +11269,7 @@
 		)
 		(uuid "93ddb097-6977-427a-a9cb-cde7885b65f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.6602 50.8 0)
+			(at 325.5704 45.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11055,7 +11281,7 @@
 	)
 	(global_label "T2"
 		(shape input)
-		(at 171.6287 93.4704 0)
+		(at 274.139 209.4909 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11065,7 +11291,7 @@
 		)
 		(uuid "9de01103-e730-426c-a2da-53e2ede15aa6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.791 93.4704 0)
+			(at 279.3013 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11121,7 +11347,7 @@
 	)
 	(global_label "UART_RX"
 		(shape input)
-		(at 266.7477 67.8089 180)
+		(at 246.6579 62.3109 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11131,7 +11357,7 @@
 		)
 		(uuid "a968bfca-1d6f-45b2-a4c0-fda27b2b23c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.6587 67.8089 0)
+			(at 235.5689 62.3109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11143,7 +11369,7 @@
 	)
 	(global_label "UART_RX"
 		(shape input)
-		(at 266.7477 118.6089 180)
+		(at 246.6579 113.1109 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11153,7 +11379,7 @@
 		)
 		(uuid "ab9dc352-ea58-4674-aeb6-eac7012ff1aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 255.6587 118.6089 0)
+			(at 235.5689 113.1109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11165,7 +11391,7 @@
 	)
 	(global_label "EN_REV"
 		(shape input)
-		(at 314.9826 219.1561 180)
+		(at 318.788 229.7813 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11175,7 +11401,7 @@
 		)
 		(uuid "adef757e-fa5c-4ca7-927e-d721bda085c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 305.0427 219.1561 0)
+			(at 308.8481 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11187,7 +11413,7 @@
 	)
 	(global_label "EN_M4"
 		(shape input)
-		(at 356.87 96.52 180)
+		(at 336.7802 91.022 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11197,7 +11423,7 @@
 		)
 		(uuid "affb121b-ba4d-425c-91bf-1d2add7a587b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.7768 96.52 0)
+			(at 327.687 91.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11253,7 +11479,7 @@
 	)
 	(global_label "DIAG_M4"
 		(shape input)
-		(at 392.43 99.06 0)
+		(at 372.3402 93.562 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11263,7 +11489,7 @@
 		)
 		(uuid "ba9a113d-ffeb-4dd3-a8f2-b0af310df7d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 403.2771 99.06 0)
+			(at 383.1873 93.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11297,7 +11523,7 @@
 	)
 	(global_label "FAN2"
 		(shape input)
-		(at 158.8845 183.6798 90)
+		(at 209.451 267.7294 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11307,7 +11533,7 @@
 		)
 		(uuid "c1360712-7467-458f-bc96-a318200b07a2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.8845 175.9774 90)
+			(at 209.451 260.027 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11407,7 +11633,7 @@
 	)
 	(global_label "DIAG_M2"
 		(shape input)
-		(at 302.3077 98.2889 0)
+		(at 282.2179 92.7909 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11417,7 +11643,7 @@
 		)
 		(uuid "d9a715d8-ceab-41a0-a0cb-5001b5b02ee9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 313.1548 98.2889 0)
+			(at 293.065 92.7909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11429,7 +11655,7 @@
 	)
 	(global_label "DIR_M4"
 		(shape input)
-		(at 356.87 104.14 180)
+		(at 336.7802 98.642 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11439,7 +11665,7 @@
 		)
 		(uuid "da63b352-07ad-48de-b64f-f606ba102e25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.1115 104.14 0)
+			(at 327.0217 98.642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11451,7 +11677,7 @@
 	)
 	(global_label "DIR_M1"
 		(shape input)
-		(at 266.7477 52.5689 180)
+		(at 246.6579 47.0709 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11461,7 +11687,7 @@
 		)
 		(uuid "dd33f940-f1dd-4a76-add7-5175562ad621")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 256.9892 52.5689 0)
+			(at 236.8994 47.0709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11495,7 +11721,7 @@
 	)
 	(global_label "EN_M1"
 		(shape input)
-		(at 266.7477 44.9489 180)
+		(at 246.6579 39.4509 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11505,7 +11731,7 @@
 		)
 		(uuid "e584cd7d-54fb-4ee6-ba87-b862bc0b5d7a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.6545 44.9489 0)
+			(at 237.5647 39.4509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11583,7 +11809,7 @@
 	)
 	(global_label "UART_RX"
 		(shape input)
-		(at 356.87 68.58 180)
+		(at 336.7802 63.082 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11593,7 +11819,7 @@
 		)
 		(uuid "f9e397ea-290f-46fb-b245-11bcda906b10")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.781 68.58 0)
+			(at 325.6912 63.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11605,7 +11831,7 @@
 	)
 	(global_label "EN_FOR"
 		(shape input)
-		(at 314.9826 216.6161 180)
+		(at 318.788 227.2413 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11615,7 +11841,7 @@
 		)
 		(uuid "fe403ef0-73ee-4bbe-8bce-49ac81bdae01")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 304.8612 216.6161 0)
+			(at 308.6666 227.2413 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11627,7 +11853,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 157.6587 90.9304 90)
+		(at 260.169 206.9509 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11636,7 +11862,7 @@
 		(dnp no)
 		(uuid "06ed4e9d-e40e-4ca8-90ca-babbbc3962a8")
 		(property "Reference" "#PWR021"
-			(at 164.0087 90.9304 0)
+			(at 266.519 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11645,7 +11871,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 153.8487 94.7404 90)
+			(at 256.359 210.7609 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11654,7 +11880,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.6587 90.9304 0)
+			(at 260.169 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11663,7 +11889,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.6587 90.9304 0)
+			(at 260.169 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11672,7 +11898,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.6587 90.9304 0)
+			(at 260.169 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11694,7 +11920,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 167.1837 36.3204 0)
+		(at 269.694 152.3409 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11703,7 +11929,7 @@
 		(dnp no)
 		(uuid "0b41c0f0-3481-4e1b-8b26-b04e0c6e72f3")
 		(property "Reference" "#PWR035"
-			(at 167.1837 29.9704 0)
+			(at 269.694 145.9909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11712,7 +11938,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 170.9937 31.8754 0)
+			(at 273.504 147.8959 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11721,7 +11947,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.1837 36.3204 0)
+			(at 269.694 152.3409 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11730,7 +11956,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.1837 36.3204 0)
+			(at 269.694 152.3409 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11739,7 +11965,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.1837 36.3204 0)
+			(at 269.694 152.3409 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11761,7 +11987,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 171.6287 54.1004 270)
+		(at 274.139 170.1209 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11771,7 +11997,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d8304a9-cede-4123-82ff-a6dfde69328c")
 		(property "Reference" "#PWR028"
-			(at 167.8187 54.1004 0)
+			(at 270.329 170.1209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11780,7 +12006,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 174.8037 54.1004 90)
+			(at 277.314 170.1209 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11789,7 +12015,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.6287 54.1004 0)
+			(at 274.139 170.1209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11798,7 +12024,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.6287 54.1004 0)
+			(at 274.139 170.1209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11807,7 +12033,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.6287 54.1004 0)
+			(at 274.139 170.1209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11829,7 +12055,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 202.0251 196.8374 0)
+		(at 307.5972 182.1829 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11837,7 +12063,7 @@
 		(dnp no)
 		(uuid "11cec4b8-974c-4343-bcf5-2324b7f0aa98")
 		(property "Reference" "#PWR040"
-			(at 202.0251 203.1874 0)
+			(at 307.5972 188.5329 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11846,7 +12072,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 205.8351 201.2824 0)
+			(at 311.4072 186.6279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11855,7 +12081,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 202.0251 196.8374 0)
+			(at 307.5972 182.1829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11864,7 +12090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 202.0251 196.8374 0)
+			(at 307.5972 182.1829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11873,7 +12099,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 202.0251 196.8374 0)
+			(at 307.5972 182.1829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11895,7 +12121,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 234.4101 179.0574 180)
+		(at 339.9822 164.4029 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11903,7 +12129,7 @@
 		(dnp no)
 		(uuid "1533b056-161b-42ff-8f8f-188cb0c9e482")
 		(property "Reference" "#PWR017"
-			(at 234.4101 175.2474 0)
+			(at 339.9822 160.5929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11912,7 +12138,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 237.5851 179.0574 90)
+			(at 343.1572 164.4029 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11920,7 +12146,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.4101 179.0574 0)
+			(at 339.9822 164.4029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11929,7 +12155,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.4101 179.0574 0)
+			(at 339.9822 164.4029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11938,7 +12164,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.4101 179.0574 0)
+			(at 339.9822 164.4029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12027,7 +12253,7 @@
 	)
 	(symbol
 		(lib_id "1751248:1751248")
-		(at 234.4101 164.4524 90)
+		(at 339.9822 149.7979 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12035,7 +12261,7 @@
 		(dnp no)
 		(uuid "1a01349d-2d48-4a10-accc-e62bd02a46cb")
 		(property "Reference" "BED1"
-			(at 241.3951 171.4374 0)
+			(at 346.9672 156.7829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12044,7 +12270,7 @@
 			)
 		)
 		(property "Value" "1751248"
-			(at 238.8551 171.4374 0)
+			(at 344.4272 156.7829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12053,7 +12279,7 @@
 			)
 		)
 		(property "Footprint" "Phoenix 1751248:PHOENIX_1751248"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12063,7 +12289,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12072,7 +12298,7 @@
 			)
 		)
 		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12082,7 +12308,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "277-5719-ND"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12092,7 +12318,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=snap"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12102,7 +12328,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12112,7 +12338,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=eda"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12122,7 +12348,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12132,7 +12358,7 @@
 			)
 		)
 		(property "PARTREV" "03.03.2021"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12142,7 +12368,7 @@
 			)
 		)
 		(property "MF" "Phoenix Contact"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12152,7 +12378,7 @@
 			)
 		)
 		(property "MP" "1751248"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12162,7 +12388,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Phoenix Contact"
-			(at 234.4101 164.4524 0)
+			(at 339.9822 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12188,7 +12414,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 171.6287 78.2304 270)
+		(at 274.139 194.2509 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12198,7 +12424,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b2a0114-a0a3-4e2f-ad68-441ea2e239bd")
 		(property "Reference" "#PWR029"
-			(at 167.8187 78.2304 0)
+			(at 270.329 194.2509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12207,7 +12433,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 174.8037 78.2304 90)
+			(at 277.314 194.2509 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12216,7 +12442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.6287 78.2304 0)
+			(at 274.139 194.2509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12225,7 +12451,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.6287 78.2304 0)
+			(at 274.139 194.2509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12234,7 +12460,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.6287 78.2304 0)
+			(at 274.139 194.2509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12256,7 +12482,7 @@
 	)
 	(symbol
 		(lib_id "RC1206JR-134K7L:RC1206JR-134K7L")
-		(at 171.6287 71.2454 270)
+		(at 274.139 187.2659 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12265,7 +12491,7 @@
 		(dnp no)
 		(uuid "1ca71aa0-1b01-4838-8094-43851f1dfe69")
 		(property "Reference" "R2"
-			(at 169.0887 71.8804 90)
+			(at 271.599 187.9009 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12274,7 +12500,7 @@
 			)
 		)
 		(property "Value" "RC1206JR-134K7L"
-			(at 169.0887 74.4204 90)
+			(at 271.599 190.4409 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12283,7 +12509,7 @@
 			)
 		)
 		(property "Footprint" "RC1206JR-134K7L:RESC3216X65"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12293,7 +12519,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12302,7 +12528,7 @@
 			)
 		)
 		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12312,7 +12538,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "13-RC1206JR-134K7LTR-ND"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12322,7 +12548,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12332,7 +12558,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1118610&manufacturer=Yageo&part_name=RC1206JR-134K7L&search_term=None"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12342,7 +12568,7 @@
 			)
 		)
 		(property "Package" "SMD-2 Yageo"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12352,7 +12578,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=eda"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12362,7 +12588,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=snap"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12372,7 +12598,7 @@
 			)
 		)
 		(property "MP" "RC1206JR-134K7L"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12382,7 +12608,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 171.6287 71.2454 0)
+			(at 274.139 187.2659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12408,7 +12634,7 @@
 	)
 	(symbol
 		(lib_id "A750MV477M1VAAE018:A750MV477M1VAAE018")
-		(at 394.97 91.44 270)
+		(at 374.8802 85.942 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12417,7 +12643,7 @@
 		(fields_autoplaced yes)
 		(uuid "2050acd6-8bb3-4064-b03f-7cf48e4e648c")
 		(property "Reference" "C4"
-			(at 398.78 93.98 90)
+			(at 378.6902 88.482 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12426,7 +12652,7 @@
 			)
 		)
 		(property "Value" "A750MV477M1VAAE018"
-			(at 398.78 96.52 90)
+			(at 378.6902 91.022 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12435,7 +12661,7 @@
 			)
 		)
 		(property "Footprint" "CAP_A750MV477M1VAAE018_KEM"
-			(at 394.97 91.44 0)
+			(at 374.8802 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12445,7 +12671,7 @@
 			)
 		)
 		(property "Datasheet" "A750MV477M1VAAE018"
-			(at 394.97 91.44 0)
+			(at 374.8802 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12455,7 +12681,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 394.97 91.44 0)
+			(at 374.8802 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12480,7 +12706,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 348.0026 221.6961 270)
+		(at 351.808 232.3213 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12489,7 +12715,7 @@
 		(dnp no)
 		(uuid "214b6655-c8b0-4a41-8c60-0ab6b3d0cf24")
 		(property "Reference" "#PWR049"
-			(at 344.1926 221.6961 0)
+			(at 347.998 232.3213 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12498,7 +12724,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 348.0026 224.8711 90)
+			(at 351.808 235.4963 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12506,7 +12732,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 348.0026 221.6961 0)
+			(at 351.808 232.3213 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12515,7 +12741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 348.0026 221.6961 0)
+			(at 351.808 232.3213 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12524,7 +12750,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 348.0026 221.6961 0)
+			(at 351.808 232.3213 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12546,7 +12772,7 @@
 	)
 	(symbol
 		(lib_id "PEC11H-4015F-S0016:PEC11H-4015F-S0016")
-		(at 314.9826 216.6161 0)
+		(at 318.788 227.2413 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12555,7 +12781,7 @@
 		(fields_autoplaced yes)
 		(uuid "2190c030-cd40-413f-8e63-fdebbc75eaf5")
 		(property "Reference" "REN1"
-			(at 328.9526 208.9961 0)
+			(at 332.758 219.6213 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12563,7 +12789,7 @@
 			)
 		)
 		(property "Value" "PEC11H-4015F-S0016"
-			(at 328.9526 211.5361 0)
+			(at 332.758 222.1613 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12571,7 +12797,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 314.9826 216.6161 0)
+			(at 318.788 227.2413 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12581,7 +12807,7 @@
 			)
 		)
 		(property "Datasheet" "PEC11H-4015F-S0016"
-			(at 314.9826 216.6161 0)
+			(at 318.788 227.2413 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12591,7 +12817,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 314.9826 216.6161 0)
+			(at 318.788 227.2413 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12625,7 +12851,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 255.6833 179.8713 180)
+		(at 173.5927 130.1734 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12633,7 +12859,7 @@
 		(dnp no)
 		(uuid "236bfc35-c0de-4be7-bc8c-de81e126435c")
 		(property "Reference" "#PWR03"
-			(at 255.6833 176.0613 0)
+			(at 169.7827 130.1734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12642,7 +12868,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 258.8583 179.8713 90)
+			(at 173.5927 126.9984 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12650,7 +12876,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 255.6833 179.8713 0)
+			(at 173.5927 130.1734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12659,7 +12885,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.6833 179.8713 0)
+			(at 173.5927 130.1734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12668,7 +12894,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.6833 179.8713 0)
+			(at 173.5927 130.1734 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12690,7 +12916,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 171.6287 103.6304 270)
+		(at 274.139 219.6509 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12700,7 +12926,7 @@
 		(fields_autoplaced yes)
 		(uuid "2955961e-0724-4960-a86a-766414530602")
 		(property "Reference" "#PWR030"
-			(at 167.8187 103.6304 0)
+			(at 270.329 219.6509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12709,7 +12935,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 174.8037 103.6304 90)
+			(at 277.314 219.6509 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12718,7 +12944,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.6287 103.6304 0)
+			(at 274.139 219.6509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12727,7 +12953,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.6287 103.6304 0)
+			(at 274.139 219.6509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12736,7 +12962,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.6287 103.6304 0)
+			(at 274.139 219.6509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12758,7 +12984,7 @@
 	)
 	(symbol
 		(lib_id "SSD1306-128x64_OLED:SSD1306")
-		(at 385.9644 223.8438 90)
+		(at 389.7698 234.469 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12767,7 +12993,7 @@
 		(dnp no)
 		(uuid "2c700078-1fb0-4f30-ad18-f2577c6e1c2d")
 		(property "Reference" "SCRN1"
-			(at 384.6944 231.4638 0)
+			(at 388.4998 242.089 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12776,7 +13002,7 @@
 			)
 		)
 		(property "Value" "SSD1306"
-			(at 387.2344 231.4638 0)
+			(at 391.0398 242.089 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12785,7 +13011,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 379.6144 223.8438 0)
+			(at 383.4198 234.469 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12794,7 +13020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 379.6144 223.8438 0)
+			(at 383.4198 234.469 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12803,7 +13029,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 385.9644 223.8438 0)
+			(at 389.7698 234.469 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12834,7 +13060,7 @@
 	)
 	(symbol
 		(lib_id "TMC2209_SILENTSTEPSTICK:TMC2209_SILENTSTEPSTICK")
-		(at 284.5277 55.1089 0)
+		(at 264.4379 49.6109 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12842,7 +13068,7 @@
 		(dnp no)
 		(uuid "2f7a4574-7e26-4c8c-9baf-b3cd58cd8e8c")
 		(property "Reference" "U2"
-			(at 284.5277 30.3439 0)
+			(at 264.4379 24.8459 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12850,7 +13076,7 @@
 			)
 		)
 		(property "Value" "TMC2209_SILENTSTEPSTICK"
-			(at 284.5277 32.8839 0)
+			(at 264.4379 27.3859 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12858,7 +13084,7 @@
 			)
 		)
 		(property "Footprint" "TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12868,7 +13094,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12877,7 +13103,7 @@
 			)
 		)
 		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12887,7 +13113,7 @@
 			)
 		)
 		(property "MF" "Trinamic Motion Control GmbH"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12897,7 +13123,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12907,7 +13133,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12917,7 +13143,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=eda"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12927,7 +13153,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12937,7 +13163,7 @@
 			)
 		)
 		(property "PARTREV" "1.20"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12947,7 +13173,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=snap"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12957,7 +13183,7 @@
 			)
 		)
 		(property "MP" "TMC2209 SILENTSTEPSTICK"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12967,7 +13193,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Trinamic Motion Control GmbH"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12977,7 +13203,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12987,7 +13213,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "TMC2209 SILENTSTEPSTICK"
-			(at 284.5277 55.1089 0)
+			(at 264.4379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13061,7 +13287,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 190.6345 178.5998 270)
+		(at 241.201 262.6494 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13070,7 +13296,7 @@
 		(fields_autoplaced yes)
 		(uuid "305b030d-ed21-4685-a640-08dabad274a0")
 		(property "Reference" "#PWR024"
-			(at 186.8245 178.5998 0)
+			(at 237.391 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13079,7 +13305,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 193.8095 178.5998 90)
+			(at 244.376 262.6494 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13088,7 +13314,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.6345 178.5998 0)
+			(at 241.201 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13097,7 +13323,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.6345 178.5998 0)
+			(at 241.201 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13106,7 +13332,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.6345 178.5998 0)
+			(at 241.201 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13128,7 +13354,7 @@
 	)
 	(symbol
 		(lib_id "TMC2209_SILENTSTEPSTICK:TMC2209_SILENTSTEPSTICK")
-		(at 284.5277 105.9089 0)
+		(at 264.4379 100.4109 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13137,7 +13363,7 @@
 		(fields_autoplaced yes)
 		(uuid "3168e7f0-c223-41d8-9354-b55bc09c202a")
 		(property "Reference" "U3"
-			(at 284.5277 80.5089 0)
+			(at 264.4379 75.0109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13145,7 +13371,7 @@
 			)
 		)
 		(property "Value" "TMC2209_SILENTSTEPSTICK"
-			(at 284.5277 83.0489 0)
+			(at 264.4379 77.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13153,7 +13379,7 @@
 			)
 		)
 		(property "Footprint" "TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13163,7 +13389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13172,7 +13398,7 @@
 			)
 		)
 		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13182,7 +13408,7 @@
 			)
 		)
 		(property "MF" "Trinamic Motion Control GmbH"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13192,7 +13418,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13202,7 +13428,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13212,7 +13438,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=eda"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13222,7 +13448,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13232,7 +13458,7 @@
 			)
 		)
 		(property "PARTREV" "1.20"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13242,7 +13468,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=snap"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13252,7 +13478,7 @@
 			)
 		)
 		(property "MP" "TMC2209 SILENTSTEPSTICK"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13262,7 +13488,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Trinamic Motion Control GmbH"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13272,7 +13498,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13282,7 +13508,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "TMC2209 SILENTSTEPSTICK"
-			(at 284.5277 105.9089 0)
+			(at 264.4379 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13356,7 +13582,7 @@
 	)
 	(symbol
 		(lib_id "AO3400A:AO3400A")
-		(at 141.1045 186.2198 270)
+		(at 191.671 270.2694 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13365,7 +13591,7 @@
 		(fields_autoplaced yes)
 		(uuid "35025d31-83dc-4fe5-bb88-01dcd7ea9d39")
 		(property "Reference" "M1"
-			(at 141.1045 193.2048 90)
+			(at 191.671 277.2544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13373,7 +13599,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 141.1045 195.7448 90)
+			(at 191.671 279.7944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13381,7 +13607,7 @@
 			)
 		)
 		(property "Footprint" "AO3400A:SOT95P280X125-3N"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13391,7 +13617,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13400,7 +13626,7 @@
 			)
 		)
 		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13410,7 +13636,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "785-1000-2-ND"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13420,7 +13646,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3400A/Alpha+%2526+Omega+Semiconductor+Inc./view-part/?ref=snap"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13430,7 +13656,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.25 mm"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13440,7 +13666,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13450,7 +13676,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/AO3400A/Alpha+%2526+Omega+Semiconductor+Inc./view-part/?ref=eda"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13460,7 +13686,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13470,7 +13696,7 @@
 			)
 		)
 		(property "PARTREV" "L"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13480,7 +13706,7 @@
 			)
 		)
 		(property "MF" "Alpha &"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13490,7 +13716,7 @@
 			)
 		)
 		(property "MP" "AO3400A"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13500,7 +13726,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Alpha & Omega Semiconductor"
-			(at 141.1045 186.2198 0)
+			(at 191.671 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13529,7 +13755,7 @@
 	)
 	(symbol
 		(lib_id "RC1206JR-134K7L:RC1206JR-134K7L")
-		(at 184.9265 256.9761 270)
+		(at 399.9267 171.8757 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13537,7 +13763,7 @@
 		(dnp no)
 		(uuid "3ad413b1-1693-4524-a798-168e1c04c6a8")
 		(property "Reference" "R4"
-			(at 183.6565 253.8011 90)
+			(at 398.6567 168.7007 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13546,7 +13772,7 @@
 			)
 		)
 		(property "Value" "RC1206JR-134K7L"
-			(at 183.6565 256.3411 90)
+			(at 398.6567 171.2407 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13555,7 +13781,7 @@
 			)
 		)
 		(property "Footprint" "RC1206JR-134K7L:RESC3216X65"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13565,7 +13791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13574,7 +13800,7 @@
 			)
 		)
 		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13584,7 +13810,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "13-RC1206JR-134K7LTR-ND"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13594,7 +13820,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13604,7 +13830,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1118610&manufacturer=Yageo&part_name=RC1206JR-134K7L&search_term=None"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13614,7 +13840,7 @@
 			)
 		)
 		(property "Package" "SMD-2 Yageo"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13624,7 +13850,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=eda"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13634,7 +13860,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=snap"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13644,7 +13870,7 @@
 			)
 		)
 		(property "MP" "RC1206JR-134K7L"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13654,7 +13880,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 184.9265 256.9761 0)
+			(at 399.9267 171.8757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13680,7 +13906,7 @@
 	)
 	(symbol
 		(lib_id "TMC2209_SILENTSTEPSTICK:TMC2209_SILENTSTEPSTICK")
-		(at 374.65 106.68 0)
+		(at 354.5602 101.182 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13689,7 +13915,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c51099c-f26d-4a4a-9c9a-9a9362b8fb50")
 		(property "Reference" "U5"
-			(at 374.65 81.915 0)
+			(at 354.5602 76.417 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13697,7 +13923,7 @@
 			)
 		)
 		(property "Value" "TMC2209_SILENTSTEPSTICK"
-			(at 374.65 84.455 0)
+			(at 354.5602 78.957 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13705,7 +13931,7 @@
 			)
 		)
 		(property "Footprint" "TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13715,7 +13941,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13724,7 +13950,7 @@
 			)
 		)
 		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13734,7 +13960,7 @@
 			)
 		)
 		(property "MF" "Trinamic Motion Control GmbH"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13744,7 +13970,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13754,7 +13980,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13764,7 +13990,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=eda"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13774,7 +14000,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13784,7 +14010,7 @@
 			)
 		)
 		(property "PARTREV" "1.20"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13794,7 +14020,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=snap"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13804,7 +14030,7 @@
 			)
 		)
 		(property "MP" "TMC2209 SILENTSTEPSTICK"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13814,7 +14040,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Trinamic Motion Control GmbH"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13824,7 +14050,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13834,7 +14060,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "TMC2209 SILENTSTEPSTICK"
-			(at 374.65 106.68 0)
+			(at 354.5602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13908,7 +14134,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 392.43 38.1 270)
+		(at 372.3402 32.602 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13917,7 +14143,7 @@
 		(fields_autoplaced yes)
 		(uuid "48e9b6b2-f802-4fe0-9655-3f9bf735f2fe")
 		(property "Reference" "#PWR014"
-			(at 388.62 38.1 0)
+			(at 368.5302 32.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13926,7 +14152,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 395.605 38.1 90)
+			(at 375.5152 32.602 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13935,7 +14161,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 392.43 38.1 0)
+			(at 372.3402 32.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13944,7 +14170,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 392.43 38.1 0)
+			(at 372.3402 32.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13953,7 +14179,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 392.43 38.1 0)
+			(at 372.3402 32.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14115,7 +14341,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 402.59 40.64 270)
+		(at 382.5002 35.142 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14123,7 +14349,7 @@
 		(dnp no)
 		(uuid "50a65cce-f710-44ea-8e76-988e67b505a1")
 		(property "Reference" "#PWR038"
-			(at 398.78 40.64 0)
+			(at 378.6902 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14132,7 +14358,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 405.765 40.64 90)
+			(at 385.6752 35.142 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14141,7 +14367,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 402.59 40.64 0)
+			(at 382.5002 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14150,7 +14376,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 402.59 40.64 0)
+			(at 382.5002 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14159,7 +14385,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 402.59 40.64 0)
+			(at 382.5002 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14181,7 +14407,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 187.4665 255.0711 180)
+		(at 402.4667 169.9707 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14190,7 +14416,7 @@
 		(fields_autoplaced yes)
 		(uuid "50bb5bcf-b21b-47b4-885d-eb7c9eae10d0")
 		(property "Reference" "#PWR045"
-			(at 187.4665 251.2611 0)
+			(at 402.4667 166.1607 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14199,7 +14425,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 187.4665 260.1511 0)
+			(at 402.4667 175.0507 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14207,7 +14433,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.4665 255.0711 0)
+			(at 402.4667 169.9707 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14216,7 +14442,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.4665 255.0711 0)
+			(at 402.4667 169.9707 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14225,7 +14451,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.4665 255.0711 0)
+			(at 402.4667 169.9707 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14247,7 +14473,7 @@
 	)
 	(symbol
 		(lib_id "RC1206JR-134K7L:RC1206JR-134K7L")
-		(at 351.8126 219.1561 0)
+		(at 355.618 229.7813 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14256,7 +14482,7 @@
 		(dnp no)
 		(uuid "51a5f8ec-573f-4e21-8734-0231a82a4642")
 		(property "Reference" "R6"
-			(at 348.6376 217.8861 90)
+			(at 352.443 228.5113 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14265,7 +14491,7 @@
 			)
 		)
 		(property "Value" "RC1206JR-134K7L"
-			(at 351.1776 217.8861 90)
+			(at 354.983 228.5113 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14274,7 +14500,7 @@
 			)
 		)
 		(property "Footprint" "RC1206JR-134K7L:RESC3216X65"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14284,7 +14510,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14293,7 +14519,7 @@
 			)
 		)
 		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14303,7 +14529,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "13-RC1206JR-134K7LTR-ND"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14313,7 +14539,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14323,7 +14549,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1118610&manufacturer=Yageo&part_name=RC1206JR-134K7L&search_term=None"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14333,7 +14559,7 @@
 			)
 		)
 		(property "Package" "SMD-2 Yageo"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14343,7 +14569,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=eda"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14353,7 +14579,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=snap"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14363,7 +14589,7 @@
 			)
 		)
 		(property "MP" "RC1206JR-134K7L"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14373,7 +14599,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 351.8126 219.1561 0)
+			(at 355.618 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14399,7 +14625,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 184.9265 265.2311 0)
+		(at 399.9267 180.1307 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14408,7 +14634,7 @@
 		(fields_autoplaced yes)
 		(uuid "52561fe6-5113-41c4-9691-ab87e98b8483")
 		(property "Reference" "#PWR042"
-			(at 184.9265 271.5811 0)
+			(at 399.9267 186.4807 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14417,7 +14643,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 184.9265 269.6761 0)
+			(at 399.9267 184.5757 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14425,7 +14651,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 184.9265 265.2311 0)
+			(at 399.9267 180.1307 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14434,7 +14660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.9265 265.2311 0)
+			(at 399.9267 180.1307 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14443,7 +14669,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 184.9265 265.2311 0)
+			(at 399.9267 180.1307 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14465,7 +14691,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 400.3775 194.4559 270)
+		(at 284.7267 252.0565 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14474,7 +14700,7 @@
 		(fields_autoplaced yes)
 		(uuid "549353b0-cda7-49e3-9dac-e58b190d611c")
 		(property "Reference" "#PWR031"
-			(at 396.5675 194.4559 0)
+			(at 280.9167 252.0565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14483,7 +14709,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 403.5525 194.4559 90)
+			(at 287.9017 252.0565 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14492,7 +14718,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 400.3775 194.4559 0)
+			(at 284.7267 252.0565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14501,7 +14727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 400.3775 194.4559 0)
+			(at 284.7267 252.0565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14510,7 +14736,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 400.3775 194.4559 0)
+			(at 284.7267 252.0565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14532,7 +14758,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 146.2287 68.0704 0)
+		(at 248.739 184.0909 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14541,7 +14767,7 @@
 		(dnp no)
 		(uuid "55d7a92d-26ea-4046-bc03-5fd3340be256")
 		(property "Reference" "THM2"
-			(at 141.1487 68.0704 0)
+			(at 243.659 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14550,7 +14776,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 141.1487 65.5304 0)
+			(at 243.659 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14559,7 +14785,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14569,7 +14795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14578,7 +14804,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14588,7 +14814,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14598,7 +14824,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14608,7 +14834,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14618,7 +14844,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14628,7 +14854,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14638,7 +14864,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14648,7 +14874,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14658,7 +14884,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14668,7 +14894,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14678,7 +14904,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 146.2287 68.0704 0)
+			(at 248.739 184.0909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14704,7 +14930,7 @@
 	)
 	(symbol
 		(lib_id "A750MV477M1VAAE018:A750MV477M1VAAE018")
-		(at 394.97 40.64 270)
+		(at 374.8802 35.142 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14713,7 +14939,7 @@
 		(fields_autoplaced yes)
 		(uuid "58d5a33e-a7d6-40bd-afcf-1ca95f64132b")
 		(property "Reference" "C2"
-			(at 398.78 43.18 90)
+			(at 378.6902 37.682 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14722,7 +14948,7 @@
 			)
 		)
 		(property "Value" "A750MV477M1VAAE018"
-			(at 398.78 45.72 90)
+			(at 378.6902 40.222 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14731,7 +14957,7 @@
 			)
 		)
 		(property "Footprint" "CAP_A750MV477M1VAAE018_KEM"
-			(at 394.97 40.64 0)
+			(at 374.8802 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14741,7 +14967,7 @@
 			)
 		)
 		(property "Datasheet" "A750MV477M1VAAE018"
-			(at 394.97 40.64 0)
+			(at 374.8802 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14751,7 +14977,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 394.97 40.64 0)
+			(at 374.8802 35.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14776,7 +15002,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 152.5345 188.7598 0)
+		(at 203.101 272.8094 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14785,7 +15011,7 @@
 		(fields_autoplaced yes)
 		(uuid "595b4b69-dcfe-45d6-9daf-0d05e5630b0d")
 		(property "Reference" "#PWR026"
-			(at 152.5345 195.1098 0)
+			(at 203.101 279.1594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14794,7 +15020,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 152.5345 193.2048 0)
+			(at 203.101 277.2544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14802,7 +15028,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.5345 188.7598 0)
+			(at 203.101 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14811,7 +15037,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.5345 188.7598 0)
+			(at 203.101 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14820,7 +15046,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.5345 188.7598 0)
+			(at 203.101 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14842,7 +15068,7 @@
 	)
 	(symbol
 		(lib_id "AO3400A:AO3400A")
-		(at 161.4245 186.2198 270)
+		(at 211.991 270.2694 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14851,7 +15077,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d035061-05ad-448e-8c7b-63fef6616076")
 		(property "Reference" "M2"
-			(at 161.4245 193.2048 90)
+			(at 211.991 277.2544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14859,7 +15085,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 161.4245 195.7448 90)
+			(at 211.991 279.7944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14867,7 +15093,7 @@
 			)
 		)
 		(property "Footprint" "AO3400A:SOT95P280X125-3N"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14877,7 +15103,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14886,7 +15112,7 @@
 			)
 		)
 		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14896,7 +15122,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "785-1000-2-ND"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14906,7 +15132,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3400A/Alpha+%2526+Omega+Semiconductor+Inc./view-part/?ref=snap"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14916,7 +15142,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.25 mm"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14926,7 +15152,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14936,7 +15162,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/AO3400A/Alpha+%2526+Omega+Semiconductor+Inc./view-part/?ref=eda"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14946,7 +15172,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14956,7 +15182,7 @@
 			)
 		)
 		(property "PARTREV" "L"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14966,7 +15192,7 @@
 			)
 		)
 		(property "MF" "Alpha &"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14976,7 +15202,7 @@
 			)
 		)
 		(property "MP" "AO3400A"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14986,7 +15212,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Alpha & Omega Semiconductor"
-			(at 161.4245 186.2198 0)
+			(at 211.991 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15015,7 +15241,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 392.43 88.9 270)
+		(at 372.3402 83.402 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15024,7 +15250,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d39d008-0f41-4b4b-87f5-709502ec01f7")
 		(property "Reference" "#PWR015"
-			(at 388.62 88.9 0)
+			(at 368.5302 83.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15033,7 +15259,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 395.605 88.9 90)
+			(at 375.5152 83.402 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15042,7 +15268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 392.43 88.9 0)
+			(at 372.3402 83.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15051,7 +15277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 392.43 88.9 0)
+			(at 372.3402 83.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15060,7 +15286,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 392.43 88.9 0)
+			(at 372.3402 83.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15082,7 +15308,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 253.1314 180.1617 0)
+		(at 173.8831 132.7253 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15090,7 +15316,7 @@
 		(dnp no)
 		(uuid "684cd76f-734d-4910-a483-8ad7f11bfd13")
 		(property "Reference" "#PWR04"
-			(at 253.1314 186.5117 0)
+			(at 180.2331 132.7253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15099,7 +15325,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 256.9414 184.6067 0)
+			(at 178.3281 128.9153 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15108,7 +15334,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 253.1314 180.1617 0)
+			(at 173.8831 132.7253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15117,7 +15343,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 253.1314 180.1617 0)
+			(at 173.8831 132.7253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15126,7 +15352,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 253.1314 180.1617 0)
+			(at 173.8831 132.7253 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15148,7 +15374,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 146.2287 93.4704 0)
+		(at 248.739 209.4909 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15157,7 +15383,7 @@
 		(dnp no)
 		(uuid "68ae2a29-f58d-4ce5-81ed-6f5078576c54")
 		(property "Reference" "THM1"
-			(at 141.1487 93.4704 0)
+			(at 243.659 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15166,7 +15392,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 141.1487 90.9304 0)
+			(at 243.659 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15175,7 +15401,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15185,7 +15411,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15194,7 +15420,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15204,7 +15430,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15214,7 +15440,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15224,7 +15450,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15234,7 +15460,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15244,7 +15470,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15254,7 +15480,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15264,7 +15490,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15274,7 +15500,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15284,7 +15510,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15294,7 +15520,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 146.2287 93.4704 0)
+			(at 248.739 209.4909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15320,7 +15546,7 @@
 	)
 	(symbol
 		(lib_id "PJ-102B:PJ-102B")
-		(at 388.9475 196.9959 0)
+		(at 273.2967 254.5965 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15329,7 +15555,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ae2a00f-f253-45e0-b67e-46fbbcb25455")
 		(property "Reference" "PWR1"
-			(at 385.7117 187.4709 0)
+			(at 270.0609 245.0715 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15337,7 +15563,7 @@
 			)
 		)
 		(property "Value" "PJ-102B"
-			(at 385.7117 190.0109 0)
+			(at 270.0609 247.6115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15345,7 +15571,7 @@
 			)
 		)
 		(property "Footprint" "PJ-102B:CUI_PJ-102B"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15355,7 +15581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15364,7 +15590,7 @@
 			)
 		)
 		(property "Description" "2.5 x 6.5 mm, 2.5 A, Horizontal, Through Hole, Tapered Pins, Dc Power Jack Connector"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15374,7 +15600,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "CP-102B-ND"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15384,7 +15610,7 @@
 			)
 		)
 		(property "MF" "CUI Devices"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15394,7 +15620,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=378041&manufacturer=CUI Devices&part_name=PJ-102B&search_term=None"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15404,7 +15630,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15414,7 +15640,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/PJ-102B/CUI+Devices/view-part/?ref=eda"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15424,7 +15650,7 @@
 			)
 		)
 		(property "PART_REV" "1.03"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15434,7 +15660,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer recommendations"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15444,7 +15670,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PJ-102B/CUI+Devices/view-part/?ref=snap"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15454,7 +15680,7 @@
 			)
 		)
 		(property "MP" "PJ-102B"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15464,7 +15690,7 @@
 			)
 		)
 		(property "CUI_purchase_URL" "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-102b?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15474,7 +15700,7 @@
 			)
 		)
 		(property "MANUFACTURER" "CUI INC"
-			(at 388.9475 196.9959 0)
+			(at 273.2967 254.5965 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15503,7 +15729,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 396.24 73.66 90)
+		(at 376.1502 68.162 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15512,7 +15738,7 @@
 		(fields_autoplaced yes)
 		(uuid "6bc68ce7-6c6e-4696-b0f8-c43359acbdd8")
 		(property "Reference" "#PWR011"
-			(at 402.59 73.66 0)
+			(at 382.5002 68.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15521,7 +15747,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 399.415 73.66 90)
+			(at 379.3252 68.162 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15530,7 +15756,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 396.24 73.66 0)
+			(at 376.1502 68.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15539,7 +15765,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 396.24 73.66 0)
+			(at 376.1502 68.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15548,7 +15774,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 396.24 73.66 0)
+			(at 376.1502 68.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15570,7 +15796,7 @@
 	)
 	(symbol
 		(lib_id "1751248:1751248")
-		(at 255.6748 165.2518 90)
+		(at 158.9732 130.1819 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15578,7 +15804,7 @@
 		(dnp no)
 		(uuid "6cd4b35b-dd19-4b17-9320-6bdd6823921e")
 		(property "Reference" "PWR_IN"
-			(at 262.6598 172.2368 0)
+			(at 165.9582 123.1969 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15587,7 +15813,7 @@
 			)
 		)
 		(property "Value" "1751248"
-			(at 260.1198 172.2368 0)
+			(at 165.9582 125.7369 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15596,7 +15822,7 @@
 			)
 		)
 		(property "Footprint" "Phoenix 1751248:PHOENIX_1751248"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15606,7 +15832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15615,7 +15841,7 @@
 			)
 		)
 		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15625,7 +15851,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "277-5719-ND"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15635,7 +15861,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=snap"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15645,7 +15871,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15655,7 +15881,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=eda"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15665,7 +15891,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15675,7 +15901,7 @@
 			)
 		)
 		(property "PARTREV" "03.03.2021"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15685,7 +15911,7 @@
 			)
 		)
 		(property "MF" "Phoenix Contact"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15695,7 +15921,7 @@
 			)
 		)
 		(property "MP" "1751248"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15705,7 +15931,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Phoenix Contact"
-			(at 255.6748 165.2518 0)
+			(at 158.9732 130.1819 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15731,7 +15957,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 306.1177 72.8889 90)
+		(at 286.0279 67.3909 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15740,7 +15966,7 @@
 		(fields_autoplaced yes)
 		(uuid "6de5885f-eef4-474a-a867-3be4fda776c7")
 		(property "Reference" "#PWR012"
-			(at 312.4677 72.8889 0)
+			(at 292.3779 67.3909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15749,7 +15975,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 309.2927 72.8889 90)
+			(at 289.2029 67.3909 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15758,7 +15984,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 306.1177 72.8889 0)
+			(at 286.0279 67.3909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15767,7 +15993,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 306.1177 72.8889 0)
+			(at 286.0279 67.3909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15776,7 +16002,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 306.1177 72.8889 0)
+			(at 286.0279 67.3909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15798,7 +16024,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 214.0901 179.0574 180)
+		(at 319.6622 164.4029 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15806,7 +16032,7 @@
 		(dnp no)
 		(uuid "6f915f83-2084-4b62-b1e4-8f3192a4064a")
 		(property "Reference" "#PWR018"
-			(at 214.0901 175.2474 0)
+			(at 319.6622 160.5929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15815,7 +16041,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 217.2651 179.0574 90)
+			(at 322.8372 164.4029 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15823,7 +16049,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 214.0901 179.0574 0)
+			(at 319.6622 164.4029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15832,7 +16058,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.0901 179.0574 0)
+			(at 319.6622 164.4029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15841,7 +16067,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.0901 179.0574 0)
+			(at 319.6622 164.4029 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15863,7 +16089,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 172.8545 178.5998 270)
+		(at 223.421 262.6494 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15872,7 +16098,7 @@
 		(fields_autoplaced yes)
 		(uuid "719dd4ed-c0ef-426f-adef-0f30941357a0")
 		(property "Reference" "#PWR023"
-			(at 169.0445 178.5998 0)
+			(at 219.611 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15881,7 +16107,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 176.0295 178.5998 90)
+			(at 226.596 262.6494 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15890,7 +16116,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 172.8545 178.5998 0)
+			(at 223.421 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15899,7 +16125,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.8545 178.5998 0)
+			(at 223.421 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15908,7 +16134,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 172.8545 178.5998 0)
+			(at 223.421 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15930,7 +16156,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 370.0894 203.5238 0)
+		(at 373.8948 214.149 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15939,7 +16165,7 @@
 		(dnp no)
 		(uuid "72f12862-5c7f-4733-98e0-c362c8381b63")
 		(property "Reference" "#PWR046"
-			(at 370.0894 207.3338 0)
+			(at 373.8948 217.959 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15948,7 +16174,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 372.6294 203.5238 90)
+			(at 376.4348 214.149 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15956,7 +16182,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 370.0894 203.5238 0)
+			(at 373.8948 214.149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15965,7 +16191,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 370.0894 203.5238 0)
+			(at 373.8948 214.149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15974,7 +16200,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 370.0894 203.5238 0)
+			(at 373.8948 214.149 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15996,7 +16222,7 @@
 	)
 	(symbol
 		(lib_id "RC1206JR-134K7L:RC1206JR-134K7L")
-		(at 171.6287 96.6454 270)
+		(at 274.139 212.6659 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16006,7 +16232,7 @@
 		(fields_autoplaced yes)
 		(uuid "730f027c-cc80-4d6d-a47b-079ebc3c1ef5")
 		(property "Reference" "R1"
-			(at 169.0887 97.2804 90)
+			(at 271.599 213.3009 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16015,7 +16241,7 @@
 			)
 		)
 		(property "Value" "RC1206JR-134K7L"
-			(at 169.0887 99.8204 90)
+			(at 271.599 215.8409 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16024,7 +16250,7 @@
 			)
 		)
 		(property "Footprint" "RC1206JR-134K7L:RESC3216X65"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16034,7 +16260,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16043,7 +16269,7 @@
 			)
 		)
 		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16053,7 +16279,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "13-RC1206JR-134K7LTR-ND"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16063,7 +16289,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16073,7 +16299,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1118610&manufacturer=Yageo&part_name=RC1206JR-134K7L&search_term=None"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16083,7 +16309,7 @@
 			)
 		)
 		(property "Package" "SMD-2 Yageo"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16093,7 +16319,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=eda"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16103,7 +16329,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=snap"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16113,7 +16339,7 @@
 			)
 		)
 		(property "MP" "RC1206JR-134K7L"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16123,7 +16349,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 171.6287 96.6454 0)
+			(at 274.139 212.6659 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16149,7 +16375,7 @@
 	)
 	(symbol
 		(lib_id "IRFH7440TRPBF:IRFH7440TRPBF")
-		(at 206.4701 187.9474 270)
+		(at 312.0422 173.2929 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16157,7 +16383,7 @@
 		(dnp no)
 		(uuid "752c84b0-ec14-42d5-805e-0db1486ebc31")
 		(property "Reference" "Q1"
-			(at 206.4701 196.2024 0)
+			(at 312.0422 181.5479 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16166,7 +16392,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 206.4701 187.9474 0)
+			(at 312.0422 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16174,7 +16400,7 @@
 			)
 		)
 		(property "Footprint" "IRFH7440TRPBF:TRANS_FDMS86202"
-			(at 198.7231 187.9474 0)
+			(at 304.2952 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16183,7 +16409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 206.4701 187.9474 0)
+			(at 312.0422 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16192,7 +16418,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 206.4701 187.9474 0)
+			(at 312.0422 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16235,7 +16461,7 @@
 	)
 	(symbol
 		(lib_id "A750MV477M1VAAE018:A750MV477M1VAAE018")
-		(at 304.8477 39.8689 270)
+		(at 284.7579 34.3709 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16244,7 +16470,7 @@
 		(fields_autoplaced yes)
 		(uuid "7738eac3-7da8-4d72-8306-d5992af726b7")
 		(property "Reference" "C1"
-			(at 308.6577 42.4089 90)
+			(at 288.5679 36.9109 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16253,7 +16479,7 @@
 			)
 		)
 		(property "Value" "A750MV477M1VAAE018"
-			(at 308.6577 44.9489 90)
+			(at 288.5679 39.4509 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16262,7 +16488,7 @@
 			)
 		)
 		(property "Footprint" "CAP_A750MV477M1VAAE018_KEM"
-			(at 304.8477 39.8689 0)
+			(at 284.7579 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16272,7 +16498,7 @@
 			)
 		)
 		(property "Datasheet" "A750MV477M1VAAE018"
-			(at 304.8477 39.8689 0)
+			(at 284.7579 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16282,7 +16508,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 304.8477 39.8689 0)
+			(at 284.7579 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16307,7 +16533,7 @@
 	)
 	(symbol
 		(lib_id "RC1206JR-134K7L:RC1206JR-134K7L")
-		(at 171.6287 47.1154 270)
+		(at 274.139 163.1359 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16317,7 +16543,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b87f085-cd68-475d-a73d-faee7c304353")
 		(property "Reference" "R3"
-			(at 169.0887 47.7504 90)
+			(at 271.599 163.7709 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16326,7 +16552,7 @@
 			)
 		)
 		(property "Value" "RC1206JR-134K7L"
-			(at 169.0887 50.2904 90)
+			(at 271.599 166.3109 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16335,7 +16561,7 @@
 			)
 		)
 		(property "Footprint" "RC1206JR-134K7L:RESC3216X65"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16345,7 +16571,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16354,7 +16580,7 @@
 			)
 		)
 		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16364,7 +16590,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "13-RC1206JR-134K7LTR-ND"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16374,7 +16600,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16384,7 +16610,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1118610&manufacturer=Yageo&part_name=RC1206JR-134K7L&search_term=None"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16394,7 +16620,7 @@
 			)
 		)
 		(property "Package" "SMD-2 Yageo"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16404,7 +16630,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=eda"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16414,7 +16640,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=snap"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16424,7 +16650,7 @@
 			)
 		)
 		(property "MP" "RC1206JR-134K7L"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16434,7 +16660,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 171.6287 47.1154 0)
+			(at 274.139 163.1359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16460,7 +16686,7 @@
 	)
 	(symbol
 		(lib_id "B4B-XH-A:B4B-XH-A")
-		(at 309.9277 55.1089 0)
+		(at 289.8379 49.6109 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16468,7 +16694,7 @@
 		(dnp no)
 		(uuid "7c255e58-4c62-423a-89c2-1613046910b5")
 		(property "Reference" "MOTOR_X1"
-			(at 309.9277 55.7439 0)
+			(at 289.8379 50.2459 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16477,7 +16703,7 @@
 			)
 		)
 		(property "Value" "B4B-XH-A"
-			(at 309.9277 58.2839 0)
+			(at 289.8379 52.7859 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16486,7 +16712,7 @@
 			)
 		)
 		(property "Footprint" "B4B-XH-A:JST_B4B-XH-A"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16496,7 +16722,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16505,7 +16731,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 4 position 0.098 (2.50mm)\n"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16515,7 +16741,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B4B-XH-A-ND"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16525,7 +16751,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16535,7 +16761,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.00 mm"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16545,7 +16771,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16555,7 +16781,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16565,7 +16791,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16575,7 +16801,7 @@
 			)
 		)
 		(property "PARTREV" "7/4/21"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16585,7 +16811,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16595,7 +16821,7 @@
 			)
 		)
 		(property "MP" "B4B-XH-A"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16605,7 +16831,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST"
-			(at 309.9277 55.1089 0)
+			(at 289.8379 49.6109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17305,7 +17531,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 170.3145 188.7598 0)
+		(at 220.881 272.8094 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17314,7 +17540,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fceabdb-2f0a-42f7-b453-20700d0497cb")
 		(property "Reference" "#PWR027"
-			(at 170.3145 195.1098 0)
+			(at 220.881 279.1594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17323,7 +17549,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 170.3145 193.2048 0)
+			(at 220.881 277.2544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17331,7 +17557,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.3145 188.7598 0)
+			(at 220.881 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17340,7 +17566,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.3145 188.7598 0)
+			(at 220.881 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17349,7 +17575,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 170.3145 188.7598 0)
+			(at 220.881 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17371,7 +17597,7 @@
 	)
 	(symbol
 		(lib_id "B4B-XH-A:B4B-XH-A")
-		(at 311.8327 105.9089 0)
+		(at 291.7429 100.4109 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17379,7 +17605,7 @@
 		(dnp no)
 		(uuid "8187735d-5dc2-45f9-9866-1060bd648cc5")
 		(property "Reference" "MOTOR_Z1"
-			(at 311.8327 106.5439 0)
+			(at 291.7429 101.0459 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17388,7 +17614,7 @@
 			)
 		)
 		(property "Value" "B4B-XH-A"
-			(at 311.8327 109.0839 0)
+			(at 291.7429 103.5859 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17397,7 +17623,7 @@
 			)
 		)
 		(property "Footprint" "B4B-XH-A:JST_B4B-XH-A"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17407,7 +17633,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17416,7 +17642,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 4 position 0.098 (2.50mm)\n"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17426,7 +17652,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B4B-XH-A-ND"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17436,7 +17662,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17446,7 +17672,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.00 mm"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17456,7 +17682,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17466,7 +17692,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17476,7 +17702,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17486,7 +17712,7 @@
 			)
 		)
 		(property "PARTREV" "7/4/21"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17496,7 +17722,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17506,7 +17732,7 @@
 			)
 		)
 		(property "MP" "B4B-XH-A"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17516,7 +17742,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST"
-			(at 311.8327 105.9089 0)
+			(at 291.7429 100.4109 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17548,7 +17774,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 358.1626 219.1561 90)
+		(at 361.968 229.7813 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17558,7 +17784,7 @@
 		(fields_autoplaced yes)
 		(uuid "8250c758-35ff-4f1f-ac77-8237fc5f37e7")
 		(property "Reference" "#PWR048"
-			(at 364.5126 219.1561 0)
+			(at 368.318 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17567,7 +17793,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 362.6076 219.1561 0)
+			(at 366.413 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17575,7 +17801,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 358.1626 219.1561 0)
+			(at 361.968 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17584,7 +17810,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 358.1626 219.1561 0)
+			(at 361.968 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17593,7 +17819,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 358.1626 219.1561 0)
+			(at 361.968 229.7813 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17615,7 +17841,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 146.2287 43.9404 0)
+		(at 248.739 159.9609 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17624,7 +17850,7 @@
 		(dnp no)
 		(uuid "826f79a1-2eed-48bf-830a-199f6da61670")
 		(property "Reference" "THM3"
-			(at 141.1487 43.9404 0)
+			(at 243.659 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17633,7 +17859,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 141.1487 41.4004 0)
+			(at 243.659 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17642,7 +17868,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17652,7 +17878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17661,7 +17887,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17671,7 +17897,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17681,7 +17907,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17691,7 +17917,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17701,7 +17927,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17711,7 +17937,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17721,7 +17947,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17731,7 +17957,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17741,7 +17967,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17751,7 +17977,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17761,7 +17987,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 146.2287 43.9404 0)
+			(at 248.739 159.9609 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17853,7 +18079,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 152.5345 178.5998 270)
+		(at 203.101 262.6494 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17862,7 +18088,7 @@
 		(fields_autoplaced yes)
 		(uuid "858b7a0f-0e5e-4cc3-bcec-f59820560419")
 		(property "Reference" "#PWR022"
-			(at 148.7245 178.5998 0)
+			(at 199.291 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17871,7 +18097,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 155.7095 178.5998 90)
+			(at 206.276 262.6494 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17880,7 +18106,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.5345 178.5998 0)
+			(at 203.101 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17889,7 +18115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.5345 178.5998 0)
+			(at 203.101 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17898,7 +18124,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.5345 178.5998 0)
+			(at 203.101 262.6494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17920,7 +18146,7 @@
 	)
 	(symbol
 		(lib_id "1751248:1751248")
-		(at 214.0901 164.4524 90)
+		(at 319.6622 149.7979 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17928,7 +18154,7 @@
 		(dnp no)
 		(uuid "85f5c9a7-283d-4401-ba82-5722bf40063c")
 		(property "Reference" "HOTEND1"
-			(at 221.0751 171.4374 0)
+			(at 326.6472 156.7829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17937,7 +18163,7 @@
 			)
 		)
 		(property "Value" "1751248"
-			(at 218.5351 171.4374 0)
+			(at 324.1072 156.7829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17946,7 +18172,7 @@
 			)
 		)
 		(property "Footprint" "Phoenix 1751248:PHOENIX_1751248"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17956,7 +18182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17965,7 +18191,7 @@
 			)
 		)
 		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17975,7 +18201,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "277-5719-ND"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17985,7 +18211,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=snap"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17995,7 +18221,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18005,7 +18231,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=eda"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18015,7 +18241,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18025,7 +18251,7 @@
 			)
 		)
 		(property "PARTREV" "03.03.2021"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18035,7 +18261,7 @@
 			)
 		)
 		(property "MF" "Phoenix Contact"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18045,7 +18271,7 @@
 			)
 		)
 		(property "MP" "1751248"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18055,7 +18281,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Phoenix Contact"
-			(at 214.0901 164.4524 0)
+			(at 319.6622 149.7979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18081,7 +18307,7 @@
 	)
 	(symbol
 		(lib_id "IRFH7440TRPBF:IRFH7440TRPBF")
-		(at 226.7901 187.9474 270)
+		(at 332.3622 173.2929 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18089,7 +18315,7 @@
 		(dnp no)
 		(uuid "8ba91bcd-63b1-4236-827a-b70c69c06dca")
 		(property "Reference" "Q2"
-			(at 226.7901 196.2024 0)
+			(at 332.3622 181.5479 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18098,7 +18324,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 226.7901 187.9474 0)
+			(at 332.3622 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18106,7 +18332,7 @@
 			)
 		)
 		(property "Footprint" "IRFH7440TRPBF:TRANS_FDMS86202"
-			(at 219.0431 187.9474 0)
+			(at 324.6152 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18115,7 +18341,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.7901 187.9474 0)
+			(at 332.3622 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18124,7 +18350,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.7901 187.9474 0)
+			(at 332.3622 173.2929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18167,7 +18393,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 222.3451 196.8374 0)
+		(at 327.9172 182.1829 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18175,7 +18401,7 @@
 		(dnp no)
 		(uuid "9758d471-5573-4ded-8939-aacd3cb61d54")
 		(property "Reference" "#PWR041"
-			(at 222.3451 203.1874 0)
+			(at 327.9172 188.5329 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18184,7 +18410,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 226.1551 201.2824 0)
+			(at 331.7272 186.6279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18193,7 +18419,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.3451 196.8374 0)
+			(at 327.9172 182.1829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18202,7 +18428,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.3451 196.8374 0)
+			(at 327.9172 182.1829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18211,7 +18437,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.3451 196.8374 0)
+			(at 327.9172 182.1829 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18233,7 +18459,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 400.3775 199.5359 90)
+		(at 284.7267 257.1365 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18242,7 +18468,7 @@
 		(fields_autoplaced yes)
 		(uuid "a517b4ba-d5fa-4a68-889b-cb33de172e62")
 		(property "Reference" "#PWR032"
-			(at 406.7275 199.5359 0)
+			(at 291.0767 257.1365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18251,7 +18477,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 403.5525 199.5359 90)
+			(at 287.9017 257.1365 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18260,7 +18486,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 400.3775 199.5359 0)
+			(at 284.7267 257.1365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18269,7 +18495,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 400.3775 199.5359 0)
+			(at 284.7267 257.1365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18278,7 +18504,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 400.3775 199.5359 0)
+			(at 284.7267 257.1365 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18300,7 +18526,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 157.6587 41.4004 90)
+		(at 260.169 157.4209 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18309,7 +18535,7 @@
 		(dnp no)
 		(uuid "a5a51fbd-e8ef-47ce-ad4e-31761547bba1")
 		(property "Reference" "#PWR019"
-			(at 164.0087 41.4004 0)
+			(at 266.519 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18318,7 +18544,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 153.8487 45.2104 90)
+			(at 256.359 161.2309 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18327,7 +18553,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.6587 41.4004 0)
+			(at 260.169 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18336,7 +18562,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.6587 41.4004 0)
+			(at 260.169 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18345,7 +18571,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.6587 41.4004 0)
+			(at 260.169 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18367,7 +18593,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 148.7245 167.8048 90)
+		(at 199.291 251.8544 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18375,7 +18601,7 @@
 		(dnp no)
 		(uuid "a7ef77f2-bc09-4218-a18e-d0319519d00b")
 		(property "Reference" "FAN1"
-			(at 151.2645 160.1848 90)
+			(at 201.831 244.2344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18384,7 +18610,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 151.2645 162.7248 90)
+			(at 201.831 246.7744 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18393,7 +18619,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18403,7 +18629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18412,7 +18638,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18422,7 +18648,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18432,7 +18658,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18442,7 +18668,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18452,7 +18678,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18462,7 +18688,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18472,7 +18698,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18482,7 +18708,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18492,7 +18718,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18502,7 +18728,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18512,7 +18738,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 148.7245 167.8048 0)
+			(at 199.291 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18538,7 +18764,7 @@
 	)
 	(symbol
 		(lib_id "TMC2209_SILENTSTEPSTICK:TMC2209_SILENTSTEPSTICK")
-		(at 374.65 55.88 0)
+		(at 354.5602 50.382 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18547,7 +18773,7 @@
 		(fields_autoplaced yes)
 		(uuid "a848e8d4-df9f-439c-89d2-8cf134e800b9")
 		(property "Reference" "U4"
-			(at 374.65 30.48 0)
+			(at 354.5602 24.982 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18555,7 +18781,7 @@
 			)
 		)
 		(property "Value" "TMC2209_SILENTSTEPSTICK"
-			(at 374.65 33.02 0)
+			(at 354.5602 27.522 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18563,7 +18789,7 @@
 			)
 		)
 		(property "Footprint" "TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18573,7 +18799,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18582,7 +18808,7 @@
 			)
 		)
 		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18592,7 +18818,7 @@
 			)
 		)
 		(property "MF" "Trinamic Motion Control GmbH"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18602,7 +18828,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18612,7 +18838,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18622,7 +18848,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=eda"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18632,7 +18858,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18642,7 +18868,7 @@
 			)
 		)
 		(property "PARTREV" "1.20"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18652,7 +18878,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TMC2209%20SILENTSTEPSTICK/Trinamic+Motion+Control+GmbH/view-part/?ref=snap"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18662,7 +18888,7 @@
 			)
 		)
 		(property "MP" "TMC2209 SILENTSTEPSTICK"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18672,7 +18898,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Trinamic Motion Control GmbH"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18682,7 +18908,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18692,7 +18918,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "TMC2209 SILENTSTEPSTICK"
-			(at 374.65 55.88 0)
+			(at 354.5602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18766,7 +18992,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 375.1694 199.7138 0)
+		(at 378.9748 210.339 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18775,7 +19001,7 @@
 		(dnp no)
 		(uuid "ab575a7f-1b8a-4d4c-b7e2-a12b9183aa6f")
 		(property "Reference" "#PWR047"
-			(at 375.1694 193.3638 0)
+			(at 378.9748 203.989 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18784,7 +19010,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 377.7094 203.5238 90)
+			(at 381.5148 214.149 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18793,7 +19019,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 375.1694 199.7138 0)
+			(at 378.9748 210.339 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18802,7 +19028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 375.1694 199.7138 0)
+			(at 378.9748 210.339 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18811,7 +19037,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 375.1694 199.7138 0)
+			(at 378.9748 210.339 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18833,7 +19059,7 @@
 	)
 	(symbol
 		(lib_id "GCM155R71H104KE02J:GCM155R71H104KE02J")
-		(at 167.1837 90.9304 270)
+		(at 269.694 206.9509 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18842,7 +19068,7 @@
 		(dnp no)
 		(uuid "acd95842-088b-4594-afed-6041b7e4a029")
 		(property "Reference" "C5"
-			(at 172.2637 88.3904 90)
+			(at 274.774 204.4109 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18851,7 +19077,7 @@
 			)
 		)
 		(property "Value" "GCM155R71H104KE02J"
-			(at 191.9487 90.2954 90)
+			(at 294.459 206.3159 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18860,7 +19086,7 @@
 			)
 		)
 		(property "Footprint" "GCM155R71H104KE02J:CAPC1005X55N"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18870,7 +19096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18879,7 +19105,7 @@
 			)
 		)
 		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18889,7 +19115,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-14514-2-ND"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18899,7 +19125,7 @@
 			)
 		)
 		(property "MF" "Murata"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18909,7 +19135,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=597465&manufacturer=Murata&part_name=GCM155R71H104KE02J&search_term=None"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18919,7 +19145,7 @@
 			)
 		)
 		(property "Package" "1005 Taiyo Yuden"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18929,7 +19155,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GCM155R71H104KE02J/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18939,7 +19165,7 @@
 			)
 		)
 		(property "MP" "GCM155R71H104KE02J"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18949,7 +19175,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/GCM155R71H104KE02J/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 167.1837 90.9304 0)
+			(at 269.694 206.9509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18975,7 +19201,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 151.9065 265.2311 0)
+		(at 373.8605 179.7135 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18984,7 +19210,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1ddcc9f-1a54-470a-8b19-2f015426edfc")
 		(property "Reference" "#PWR044"
-			(at 151.9065 271.5811 0)
+			(at 373.8605 186.0635 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18993,7 +19219,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 151.9065 269.6761 0)
+			(at 373.8605 184.1585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19001,7 +19227,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.9065 265.2311 0)
+			(at 373.8605 179.7135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19010,7 +19236,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.9065 265.2311 0)
+			(at 373.8605 179.7135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19019,7 +19245,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 151.9065 265.2311 0)
+			(at 373.8605 179.7135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19041,7 +19267,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 186.8245 167.8048 90)
+		(at 237.391 251.8544 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19049,7 +19275,7 @@
 		(dnp no)
 		(uuid "b8260132-5df7-498d-8f32-417fe573e82c")
 		(property "Reference" "FAN3"
-			(at 189.3645 160.1848 90)
+			(at 239.931 244.2344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19058,7 +19284,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 189.3645 162.7248 90)
+			(at 239.931 246.7744 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19067,7 +19293,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19077,7 +19303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19086,7 +19312,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19096,7 +19322,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19106,7 +19332,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19116,7 +19342,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19126,7 +19352,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19136,7 +19362,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19146,7 +19372,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19156,7 +19382,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19166,7 +19392,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19176,7 +19402,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19186,7 +19412,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 186.8245 167.8048 0)
+			(at 237.391 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19212,7 +19438,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 312.4677 39.8689 270)
+		(at 292.3779 34.3709 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19220,7 +19446,7 @@
 		(dnp no)
 		(uuid "baf30d17-f192-4dd8-abc0-c36c771a6704")
 		(property "Reference" "#PWR037"
-			(at 308.6577 39.8689 0)
+			(at 288.5679 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19229,7 +19455,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 315.6427 39.8689 90)
+			(at 295.5529 34.3709 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19238,7 +19464,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.4677 39.8689 0)
+			(at 292.3779 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19247,7 +19473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.4677 39.8689 0)
+			(at 292.3779 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19256,7 +19482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.4677 39.8689 0)
+			(at 292.3779 34.3709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19278,7 +19504,7 @@
 	)
 	(symbol
 		(lib_id "GCM155R71H104KE02J:GCM155R71H104KE02J")
-		(at 167.1837 41.4004 270)
+		(at 269.694 157.4209 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19287,7 +19513,7 @@
 		(dnp no)
 		(uuid "cb4f10e0-7201-4548-993d-4202fbe5596d")
 		(property "Reference" "C7"
-			(at 172.2637 38.8604 90)
+			(at 274.774 154.8809 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19296,7 +19522,7 @@
 			)
 		)
 		(property "Value" "GCM155R71H104KE02J"
-			(at 191.9487 40.7654 90)
+			(at 294.459 156.7859 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19305,7 +19531,7 @@
 			)
 		)
 		(property "Footprint" "GCM155R71H104KE02J:CAPC1005X55N"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19315,7 +19541,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19324,7 +19550,7 @@
 			)
 		)
 		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19334,7 +19560,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-14514-2-ND"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19344,7 +19570,7 @@
 			)
 		)
 		(property "MF" "Murata"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19354,7 +19580,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=597465&manufacturer=Murata&part_name=GCM155R71H104KE02J&search_term=None"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19364,7 +19590,7 @@
 			)
 		)
 		(property "Package" "1005 Taiyo Yuden"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19374,7 +19600,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GCM155R71H104KE02J/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19384,7 +19610,7 @@
 			)
 		)
 		(property "MP" "GCM155R71H104KE02J"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19394,7 +19620,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/GCM155R71H104KE02J/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 167.1837 41.4004 0)
+			(at 269.694 157.4209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19420,7 +19646,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 302.3077 37.3289 270)
+		(at 282.2179 31.8309 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19429,7 +19655,7 @@
 		(fields_autoplaced yes)
 		(uuid "d08c49e1-cb3c-45f7-94a7-d9fe32651b58")
 		(property "Reference" "#PWR013"
-			(at 298.4977 37.3289 0)
+			(at 278.4079 31.8309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19438,7 +19664,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 305.4827 37.3289 90)
+			(at 285.3929 31.8309 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19447,7 +19673,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 302.3077 37.3289 0)
+			(at 282.2179 31.8309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19456,7 +19682,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.3077 37.3289 0)
+			(at 282.2179 31.8309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19465,7 +19691,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 302.3077 37.3289 0)
+			(at 282.2179 31.8309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19487,7 +19713,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 154.4465 241.1011 90)
+		(at 376.4005 155.5835 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19495,7 +19721,7 @@
 		(dnp no)
 		(uuid "d579ba74-f100-4b54-aa44-2fb19e2292ab")
 		(property "Reference" "ABL1"
-			(at 156.9865 233.4811 90)
+			(at 378.9405 147.9635 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19504,7 +19730,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 156.9865 236.0211 90)
+			(at 378.9405 150.5035 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19513,7 +19739,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19523,7 +19749,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19532,7 +19758,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19542,7 +19768,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19552,7 +19778,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19562,7 +19788,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19572,7 +19798,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19582,7 +19808,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19592,7 +19818,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19602,7 +19828,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19612,7 +19838,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19622,7 +19848,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19632,7 +19858,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 154.4465 241.1011 0)
+			(at 376.4005 155.5835 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19658,7 +19884,7 @@
 	)
 	(symbol
 		(lib_id "RC1206JR-134K7L:RC1206JR-134K7L")
-		(at 151.9065 256.9761 270)
+		(at 373.8605 171.4585 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19666,7 +19892,7 @@
 		(dnp no)
 		(uuid "d66542d0-e716-43ef-97ab-766b0702a5ce")
 		(property "Reference" "R5"
-			(at 150.6365 253.8011 90)
+			(at 372.5905 168.2835 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19675,7 +19901,7 @@
 			)
 		)
 		(property "Value" "RC1206JR-134K7L"
-			(at 150.6365 256.3411 90)
+			(at 372.5905 170.8235 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19684,7 +19910,7 @@
 			)
 		)
 		(property "Footprint" "RC1206JR-134K7L:RESC3216X65"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19694,7 +19920,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19703,7 +19929,7 @@
 			)
 		)
 		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19713,7 +19939,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "13-RC1206JR-134K7LTR-ND"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19723,7 +19949,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19733,7 +19959,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1118610&manufacturer=Yageo&part_name=RC1206JR-134K7L&search_term=None"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19743,7 +19969,7 @@
 			)
 		)
 		(property "Package" "SMD-2 Yageo"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19753,7 +19979,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=eda"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19763,7 +19989,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206JR-134K7L/Yageo/view-part/?ref=snap"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19773,7 +19999,7 @@
 			)
 		)
 		(property "MP" "RC1206JR-134K7L"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19783,7 +20009,7 @@
 			)
 		)
 		(property "MANUFACTURER" "YAGEO"
-			(at 151.9065 256.9761 0)
+			(at 373.8605 171.4585 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19809,7 +20035,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 154.4465 255.0711 180)
+		(at 376.4005 169.5535 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19818,7 +20044,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc783a86-d89f-454c-9c48-059d82a8b5ef")
 		(property "Reference" "#PWR043"
-			(at 154.4465 251.2611 0)
+			(at 376.4005 165.7435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19827,7 +20053,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 154.4465 260.1511 0)
+			(at 376.4005 174.6335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19835,7 +20061,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.4465 255.0711 0)
+			(at 376.4005 169.5535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19844,7 +20070,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.4465 255.0711 0)
+			(at 376.4005 169.5535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19853,7 +20079,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 154.4465 255.0711 0)
+			(at 376.4005 169.5535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19875,7 +20101,7 @@
 	)
 	(symbol
 		(lib_id "AO3400A:AO3400A")
-		(at 179.2045 186.2198 270)
+		(at 229.771 270.2694 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19884,7 +20110,7 @@
 		(fields_autoplaced yes)
 		(uuid "df3f1d0c-f104-4f28-82c6-3dad5ccc2121")
 		(property "Reference" "M3"
-			(at 179.2045 193.2048 90)
+			(at 229.771 277.2544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19892,7 +20118,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 179.2045 195.7448 90)
+			(at 229.771 279.7944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19900,7 +20126,7 @@
 			)
 		)
 		(property "Footprint" "AO3400A:SOT95P280X125-3N"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19910,7 +20136,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19919,7 +20145,7 @@
 			)
 		)
 		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19929,7 +20155,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "785-1000-2-ND"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19939,7 +20165,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/AO3400A/Alpha+%2526+Omega+Semiconductor+Inc./view-part/?ref=snap"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19949,7 +20175,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.25 mm"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19959,7 +20185,7 @@
 			)
 		)
 		(property "Package" "SOT-23 Alpha &amp; Omega Semiconductor"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19969,7 +20195,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/AO3400A/Alpha+%2526+Omega+Semiconductor+Inc./view-part/?ref=eda"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19979,7 +20205,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19989,7 +20215,7 @@
 			)
 		)
 		(property "PARTREV" "L"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19999,7 +20225,7 @@
 			)
 		)
 		(property "MF" "Alpha &"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20009,7 +20235,7 @@
 			)
 		)
 		(property "MP" "AO3400A"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20019,7 +20245,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Alpha & Omega Semiconductor"
-			(at 179.2045 186.2198 0)
+			(at 229.771 270.2694 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20048,7 +20274,7 @@
 	)
 	(symbol
 		(lib_id "B4B-XH-A:B4B-XH-A")
-		(at 400.05 55.88 0)
+		(at 379.9602 50.382 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20056,7 +20282,7 @@
 		(dnp no)
 		(uuid "dfc78a0e-5b56-4ccb-ac67-a6514e73a491")
 		(property "Reference" "MOTOR_Y1"
-			(at 400.05 56.515 0)
+			(at 379.9602 51.017 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20065,7 +20291,7 @@
 			)
 		)
 		(property "Value" "B4B-XH-A"
-			(at 400.05 59.055 0)
+			(at 379.9602 53.557 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20074,7 +20300,7 @@
 			)
 		)
 		(property "Footprint" "B4B-XH-A:JST_B4B-XH-A"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20084,7 +20310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20093,7 +20319,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 4 position 0.098 (2.50mm)\n"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20103,7 +20329,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B4B-XH-A-ND"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20113,7 +20339,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20123,7 +20349,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.00 mm"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20133,7 +20359,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20143,7 +20369,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20153,7 +20379,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20163,7 +20389,7 @@
 			)
 		)
 		(property "PARTREV" "7/4/21"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20173,7 +20399,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20183,7 +20409,7 @@
 			)
 		)
 		(property "MP" "B4B-XH-A"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20193,7 +20419,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST"
-			(at 400.05 55.88 0)
+			(at 379.9602 50.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20225,7 +20451,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 402.59 91.44 270)
+		(at 382.5002 85.942 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20233,7 +20459,7 @@
 		(dnp no)
 		(uuid "e2383ef2-e19a-435c-881a-ece5604eb6a5")
 		(property "Reference" "#PWR039"
-			(at 398.78 91.44 0)
+			(at 378.6902 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20242,7 +20468,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 405.765 91.44 90)
+			(at 385.6752 85.942 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20251,7 +20477,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 402.59 91.44 0)
+			(at 382.5002 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20260,7 +20486,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 402.59 91.44 0)
+			(at 382.5002 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20269,7 +20495,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 402.59 91.44 0)
+			(at 382.5002 85.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20291,7 +20517,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 187.4665 241.1011 90)
+		(at 402.4667 156.0007 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20299,7 +20525,7 @@
 		(dnp no)
 		(uuid "e2815433-716e-46f9-95b4-351b654beaf8")
 		(property "Reference" "Z_END"
-			(at 190.0065 233.4811 90)
+			(at 405.0067 148.3807 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20308,7 +20534,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 190.0065 236.0211 90)
+			(at 405.0067 150.9207 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20317,7 +20543,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20327,7 +20553,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20336,7 +20562,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20346,7 +20572,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20356,7 +20582,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20366,7 +20592,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20376,7 +20602,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20386,7 +20612,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20396,7 +20622,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20406,7 +20632,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20416,7 +20642,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20426,7 +20652,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20436,7 +20662,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 187.4665 241.1011 0)
+			(at 402.4667 156.0007 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20462,7 +20688,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 167.1837 85.8504 0)
+		(at 269.694 201.8709 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20471,7 +20697,7 @@
 		(dnp no)
 		(uuid "e5699731-2df8-4d53-bc0a-3ab41ab05cde")
 		(property "Reference" "#PWR033"
-			(at 167.1837 79.5004 0)
+			(at 269.694 195.5209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20480,7 +20706,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 170.9937 81.4054 0)
+			(at 273.504 197.4259 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20489,7 +20715,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.1837 85.8504 0)
+			(at 269.694 201.8709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20498,7 +20724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.1837 85.8504 0)
+			(at 269.694 201.8709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20507,7 +20733,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.1837 85.8504 0)
+			(at 269.694 201.8709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20529,7 +20755,7 @@
 	)
 	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
-		(at 169.0445 167.8048 90)
+		(at 219.611 251.8544 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20537,7 +20763,7 @@
 		(dnp no)
 		(uuid "e5be0922-69cc-47c5-a0ad-f8dd35db8227")
 		(property "Reference" "FAN2"
-			(at 171.5845 160.1848 90)
+			(at 222.151 244.2344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20546,7 +20772,7 @@
 			)
 		)
 		(property "Value" "B2B-XH-A"
-			(at 171.5845 162.7248 90)
+			(at 222.151 246.7744 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20555,7 +20781,7 @@
 			)
 		)
 		(property "Footprint" "B2B-XH-A:JST_B2B-XH-A"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20565,7 +20791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20574,7 +20800,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20584,7 +20810,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B2B-XH-A-ND"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20594,7 +20820,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20604,7 +20830,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7 mm"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20614,7 +20840,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20624,7 +20850,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B2B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20634,7 +20860,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20644,7 +20870,7 @@
 			)
 		)
 		(property "PARTREV" "N/A"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20654,7 +20880,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20664,7 +20890,7 @@
 			)
 		)
 		(property "MP" "B2B-XH-A"
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20674,7 +20900,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST Sales America Inc."
-			(at 169.0445 167.8048 0)
+			(at 219.611 251.8544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20700,7 +20926,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 167.1837 60.4504 0)
+		(at 269.694 176.4709 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20709,7 +20935,7 @@
 		(dnp no)
 		(uuid "eb85e5b0-bd09-494b-a21e-8fbefce73d27")
 		(property "Reference" "#PWR034"
-			(at 167.1837 54.1004 0)
+			(at 269.694 170.1209 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20718,7 +20944,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 170.9937 56.0054 0)
+			(at 273.504 172.0259 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20727,7 +20953,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.1837 60.4504 0)
+			(at 269.694 176.4709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20736,7 +20962,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.1837 60.4504 0)
+			(at 269.694 176.4709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20745,7 +20971,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.1837 60.4504 0)
+			(at 269.694 176.4709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20767,7 +20993,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 302.3077 88.1289 270)
+		(at 282.2179 82.6309 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20776,7 +21002,7 @@
 		(fields_autoplaced yes)
 		(uuid "ec56b5e1-1002-4612-b2bd-af270c349434")
 		(property "Reference" "#PWR016"
-			(at 298.4977 88.1289 0)
+			(at 278.4079 82.6309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20785,7 +21011,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 305.4827 88.1289 90)
+			(at 285.3929 82.6309 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20794,7 +21020,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 302.3077 88.1289 0)
+			(at 282.2179 82.6309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20803,7 +21029,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 302.3077 88.1289 0)
+			(at 282.2179 82.6309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20812,7 +21038,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 302.3077 88.1289 0)
+			(at 282.2179 82.6309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20834,7 +21060,7 @@
 	)
 	(symbol
 		(lib_id "A750MV477M1VAAE018:A750MV477M1VAAE018")
-		(at 304.8477 90.6689 270)
+		(at 284.7579 85.1709 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20843,7 +21069,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0d1969b-0e92-457f-aecb-916f695cb933")
 		(property "Reference" "C3"
-			(at 308.6577 93.2089 90)
+			(at 288.5679 87.7109 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20852,7 +21078,7 @@
 			)
 		)
 		(property "Value" "A750MV477M1VAAE018"
-			(at 308.6577 95.7489 90)
+			(at 288.5679 90.2509 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20861,7 +21087,7 @@
 			)
 		)
 		(property "Footprint" "CAP_A750MV477M1VAAE018_KEM"
-			(at 304.8477 90.6689 0)
+			(at 284.7579 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20871,7 +21097,7 @@
 			)
 		)
 		(property "Datasheet" "A750MV477M1VAAE018"
-			(at 304.8477 90.6689 0)
+			(at 284.7579 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20881,7 +21107,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 304.8477 90.6689 0)
+			(at 284.7579 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20906,7 +21132,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 306.1177 123.6889 90)
+		(at 286.0279 118.1909 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20915,7 +21141,7 @@
 		(fields_autoplaced yes)
 		(uuid "f16d9f49-c22c-4ee8-9ad5-c98503dac4c9")
 		(property "Reference" "#PWR09"
-			(at 312.4677 123.6889 0)
+			(at 292.3779 118.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20924,7 +21150,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 309.2927 123.6889 90)
+			(at 289.2029 118.1909 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20933,7 +21159,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 306.1177 123.6889 0)
+			(at 286.0279 118.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20942,7 +21168,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 306.1177 123.6889 0)
+			(at 286.0279 118.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20951,7 +21177,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 306.1177 123.6889 0)
+			(at 286.0279 118.1909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20973,7 +21199,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 157.6587 65.5304 90)
+		(at 260.169 181.5509 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20982,7 +21208,7 @@
 		(dnp no)
 		(uuid "f3e62e0e-22c9-4d03-aad5-560254238a11")
 		(property "Reference" "#PWR020"
-			(at 164.0087 65.5304 0)
+			(at 266.519 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20991,7 +21217,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 153.8487 69.3404 90)
+			(at 256.359 185.3609 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21000,7 +21226,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.6587 65.5304 0)
+			(at 260.169 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21009,7 +21235,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.6587 65.5304 0)
+			(at 260.169 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21018,7 +21244,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 157.6587 65.5304 0)
+			(at 260.169 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21040,7 +21266,7 @@
 	)
 	(symbol
 		(lib_id "B4B-XH-A:B4B-XH-A")
-		(at 400.05 106.68 0)
+		(at 379.9602 101.182 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21048,7 +21274,7 @@
 		(dnp no)
 		(uuid "f45bfbd2-29dd-43d6-9914-f38aa72abaf2")
 		(property "Reference" "MOTOR_E1"
-			(at 400.05 107.315 0)
+			(at 379.9602 101.817 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21057,7 +21283,7 @@
 			)
 		)
 		(property "Value" "B4B-XH-A"
-			(at 400.05 109.855 0)
+			(at 379.9602 104.357 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21066,7 +21292,7 @@
 			)
 		)
 		(property "Footprint" "B4B-XH-A:JST_B4B-XH-A"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21076,7 +21302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21085,7 +21311,7 @@
 			)
 		)
 		(property "Description" "\nConnector Header Through Hole 4 position 0.098 (2.50mm)\n"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21095,7 +21321,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "455-B4B-XH-A-ND"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21105,7 +21331,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21115,7 +21341,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.00 mm"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21125,7 +21351,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21135,7 +21361,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/B4B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21145,7 +21371,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21155,7 +21381,7 @@
 			)
 		)
 		(property "PARTREV" "7/4/21"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21165,7 +21391,7 @@
 			)
 		)
 		(property "MF" "JST Sales"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21175,7 +21401,7 @@
 			)
 		)
 		(property "MP" "B4B-XH-A"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21185,7 +21411,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST"
-			(at 400.05 106.68 0)
+			(at 379.9602 101.182 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21217,7 +21443,7 @@
 	)
 	(symbol
 		(lib_id "GCM155R71H104KE02J:GCM155R71H104KE02J")
-		(at 167.1837 65.5304 270)
+		(at 269.694 181.5509 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21226,7 +21452,7 @@
 		(dnp no)
 		(uuid "f5f04844-8818-4c97-971d-6d65f4adc8e1")
 		(property "Reference" "C6"
-			(at 172.2637 62.9904 90)
+			(at 274.774 179.0109 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21235,7 +21461,7 @@
 			)
 		)
 		(property "Value" "GCM155R71H104KE02J"
-			(at 191.9487 64.8954 90)
+			(at 294.459 180.9159 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21244,7 +21470,7 @@
 			)
 		)
 		(property "Footprint" "GCM155R71H104KE02J:CAPC1005X55N"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21254,7 +21480,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21263,7 +21489,7 @@
 			)
 		)
 		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21273,7 +21499,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "490-14514-2-ND"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21283,7 +21509,7 @@
 			)
 		)
 		(property "MF" "Murata"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21293,7 +21519,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=597465&manufacturer=Murata&part_name=GCM155R71H104KE02J&search_term=None"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21303,7 +21529,7 @@
 			)
 		)
 		(property "Package" "1005 Taiyo Yuden"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21313,7 +21539,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/GCM155R71H104KE02J/Murata+Electronics+North+America/view-part/?ref=snap"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21323,7 +21549,7 @@
 			)
 		)
 		(property "MP" "GCM155R71H104KE02J"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21333,7 +21559,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/GCM155R71H104KE02J/Murata+Electronics+North+America/view-part/?ref=eda"
-			(at 167.1837 65.5304 0)
+			(at 269.694 181.5509 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21359,7 +21585,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 132.2145 188.7598 0)
+		(at 182.781 272.8094 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21368,7 +21594,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc005737-8bdb-4814-81b2-ef466d30e768")
 		(property "Reference" "#PWR025"
-			(at 132.2145 195.1098 0)
+			(at 182.781 279.1594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21377,7 +21603,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 132.2145 193.2048 0)
+			(at 182.781 277.2544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21385,7 +21611,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.2145 188.7598 0)
+			(at 182.781 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21394,7 +21620,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.2145 188.7598 0)
+			(at 182.781 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21403,7 +21629,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 132.2145 188.7598 0)
+			(at 182.781 272.8094 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21425,7 +21651,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 396.24 124.46 90)
+		(at 376.1502 118.962 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21434,7 +21660,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc3b8538-dc9f-4b4d-93d7-acbe95cc155e")
 		(property "Reference" "#PWR010"
-			(at 402.59 124.46 0)
+			(at 382.5002 118.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21443,7 +21669,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 399.415 124.46 90)
+			(at 379.3252 118.962 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21452,7 +21678,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 396.24 124.46 0)
+			(at 376.1502 118.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21461,7 +21687,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 396.24 124.46 0)
+			(at 376.1502 118.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21470,7 +21696,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 396.24 124.46 0)
+			(at 376.1502 118.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21492,7 +21718,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 312.4677 90.6689 270)
+		(at 292.3779 85.1709 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21500,7 +21726,7 @@
 		(dnp no)
 		(uuid "fd9858b9-cb42-49ca-9bcd-03a59000deba")
 		(property "Reference" "#PWR036"
-			(at 308.6577 90.6689 0)
+			(at 288.5679 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21509,7 +21735,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 315.6427 90.6689 90)
+			(at 295.5529 85.1709 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21518,7 +21744,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.4677 90.6689 0)
+			(at 292.3779 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21527,7 +21753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.4677 90.6689 0)
+			(at 292.3779 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21536,7 +21762,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.4677 90.6689 0)
+			(at 292.3779 85.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
