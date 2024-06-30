@@ -9299,16 +9299,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 130.302) (xy 167.132 130.302)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38e8f17e-6fb7-4ebe-9972-6a7230f6b473")
-	)
-	(wire
-		(pts
 			(xy 373.9186 233.109) (xy 380.9036 233.109)
 		)
 		(stroke
@@ -9389,16 +9379,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.148 132.842) (xy 168.148 132.752)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54063dc9-e2b8-4100-8c21-c9c8fb83f7a0")
-	)
-	(wire
-		(pts
 			(xy 223.4448 262.5594) (xy 219.6348 262.5594)
 		)
 		(stroke
@@ -9466,6 +9446,16 @@
 			(type default)
 		)
 		(uuid "5fcb810b-a8e6-4fbf-8dd9-6670447672c6")
+	)
+	(wire
+		(pts
+			(xy 288.29 251.46) (xy 284.48 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64664d1a-433e-48ae-8901-b4e1bbee4fe7")
 	)
 	(wire
 		(pts
@@ -9589,16 +9579,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.132 132.842) (xy 168.148 132.842)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "75c123f9-e83a-4a36-97c2-e516b34c0541")
-	)
-	(wire
-		(pts
 			(xy 256.3828 157.3309) (xy 260.1928 157.3309)
 		)
 		(stroke
@@ -9659,16 +9639,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.102 130.302) (xy 173.99 130.302)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "836738e6-373f-44c4-a675-430b8ba973d1")
-	)
-	(wire
-		(pts
 			(xy 64.4501 31.6147) (xy 66.9901 31.6147)
 		)
 		(stroke
@@ -9699,7 +9669,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.4005 251.9665) (xy 284.7505 251.9665)
+			(xy 278.13 251.46) (xy 279.4 251.46)
 		)
 		(stroke
 			(width 0)
@@ -10019,7 +9989,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.4005 257.0465) (xy 284.7505 257.0465)
+			(xy 278.13 256.54) (xy 288.29 256.54)
 		)
 		(stroke
 			(width 0)
@@ -10216,16 +10186,6 @@
 			(type default)
 		)
 		(uuid "fa8beb09-1f08-4aa7-bd22-20db8ec8acc1")
-	)
-	(wire
-		(pts
-			(xy 168.148 132.752) (xy 167.9178 132.752)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcb8eeff-960d-4e58-ba48-dcf6226cf2c2")
 	)
 	(rectangle
 		(start 300.0081 202.0785)
@@ -10457,7 +10417,7 @@
 		)
 		(uuid "a40ce73d-7dfa-41db-896e-6a5d90f6ddab")
 	)
-	(text "Power LED\n"
+	(text "Power Jack"
 		(exclude_from_sim no)
 		(at 279.5761 237.059 0)
 		(effects
@@ -12982,71 +12942,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 181.102 130.302 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "236bfc35-c0de-4be7-bc8c-de81e126435c")
-		(property "Reference" "#PWR03"
-			(at 177.292 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 181.102 127.127 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.102 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 181.102 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.102 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "04776522-131e-4e31-b5fe-8fee3e7fc79b")
-		)
-		(instances
-			(project "Project Moonlight Motherboard"
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 274.1628 219.5609 270)
 		(mirror x)
@@ -14823,7 +14718,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 284.7505 251.9665 270)
+		(at 288.29 251.46 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14832,7 +14727,7 @@
 		(fields_autoplaced yes)
 		(uuid "549353b0-cda7-49e3-9dac-e58b190d611c")
 		(property "Reference" "#PWR031"
-			(at 280.9405 251.9665 0)
+			(at 284.48 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14841,7 +14736,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 287.9255 251.9665 90)
+			(at 291.465 251.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14850,7 +14745,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.7505 251.9665 0)
+			(at 288.29 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14859,7 +14754,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.7505 251.9665 0)
+			(at 288.29 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14868,7 +14763,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 284.7505 251.9665 0)
+			(at 288.29 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15127,74 +15022,6 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Fuse_Small")
-		(at 171.45 130.302 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5911a533-4d72-4fd1-a80d-ba391c7ec08e")
-		(property "Reference" "F1"
-			(at 171.45 124.5752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Fuse_Small"
-			(at 171.45 127.1152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 171.45 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 171.45 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fuse, small symbol"
-			(at 171.45 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "606eb617-930d-4af8-a53f-4c32205487ea")
-		)
-		(pin "2"
-			(uuid "a6cad61b-754b-47fd-a6ff-c007fd366ef8")
-		)
-		(instances
-			(project ""
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -15507,72 +15334,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GNDREF")
-		(at 167.9178 132.752 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "684cd76f-734d-4910-a483-8ad7f11bfd13")
-		(property "Reference" "#PWR04"
-			(at 174.2678 132.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDREF"
-			(at 172.3628 128.942 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 167.9178 132.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 167.9178 132.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 167.9178 132.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "34b07ce7-f8ae-4866-a0d3-4f7ddb03d242")
-		)
-		(instances
-			(project "Project Moonlight Motherboard"
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
 		(at 248.7628 209.4009 0)
 		(mirror y)
@@ -15746,7 +15507,7 @@
 	)
 	(symbol
 		(lib_id "PJ-102B:PJ-102B")
-		(at 273.3205 254.5065 0)
+		(at 273.05 254 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15755,7 +15516,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ae2a00f-f253-45e0-b67e-46fbbcb25455")
 		(property "Reference" "PWR1"
-			(at 270.0847 244.9815 0)
+			(at 269.8142 244.475 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15763,7 +15524,7 @@
 			)
 		)
 		(property "Value" "PJ-102B"
-			(at 270.0847 247.5215 0)
+			(at 269.8142 247.015 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15771,7 +15532,7 @@
 			)
 		)
 		(property "Footprint" "PJ-102B:CUI_PJ-102B"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15781,7 +15542,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15790,7 +15551,7 @@
 			)
 		)
 		(property "Description" "2.5 x 6.5 mm, 2.5 A, Horizontal, Through Hole, Tapered Pins, Dc Power Jack Connector"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15800,7 +15561,7 @@
 			)
 		)
 		(property "DigiKey_Part_Number" "CP-102B-ND"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15810,7 +15571,7 @@
 			)
 		)
 		(property "MF" "CUI Devices"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15820,7 +15581,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=378041&manufacturer=CUI Devices&part_name=PJ-102B&search_term=None"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15830,7 +15591,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15840,7 +15601,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/PJ-102B/CUI+Devices/view-part/?ref=eda"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15850,7 +15611,7 @@
 			)
 		)
 		(property "PART_REV" "1.03"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15860,7 +15621,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer recommendations"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15870,7 +15631,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PJ-102B/CUI+Devices/view-part/?ref=snap"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15880,7 +15641,7 @@
 			)
 		)
 		(property "MP" "PJ-102B"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15890,7 +15651,7 @@
 			)
 		)
 		(property "CUI_purchase_URL" "https://www.cuidevices.com/product/interconnect/connectors/dc-power-connectors/jacks/pj-102b?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15900,7 +15661,7 @@
 			)
 		)
 		(property "MANUFACTURER" "CUI INC"
-			(at 273.3205 254.5065 0)
+			(at 273.05 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15989,167 +15750,6 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "1751248:1751248")
-		(at 156.972 130.302 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6cd4b35b-dd19-4b17-9320-6bdd6823921e")
-		(property "Reference" "PWR_IN"
-			(at 163.957 123.317 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1751248"
-			(at 163.957 125.857 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Phoenix 1751248:PHOENIX_1751248"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DigiKey_Part_Number" "277-5719-ND"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=snap"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1751248/Phoenix+Contact/view-part/?ref=eda"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "03.03.2021"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Phoenix Contact"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1751248"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Phoenix Contact"
-			(at 156.972 130.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "01"
-			(uuid "201351bc-9bb8-4714-9c46-e5b6ffec961b")
-		)
-		(pin "02"
-			(uuid "e1029a77-4b81-4a05-b857-bda71da801e9")
-		)
-		(instances
-			(project "Project Moonlight Motherboard"
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "PWR_IN")
 					(unit 1)
 				)
 			)
@@ -18658,8 +18258,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse_Small")
+		(at 281.94 251.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a47e2a2b-47ba-488f-96c0-8842369fa41c")
+		(property "Reference" "F1"
+			(at 281.94 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Fuse_Small"
+			(at 281.94 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 281.94 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 281.94 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse, small symbol"
+			(at 281.94 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d592702-fe47-43cd-9a0a-ecc7b2e20705")
+		)
+		(pin "2"
+			(uuid "b84c76d9-2dff-49df-ad1d-73b5075f564f")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "F1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDREF")
-		(at 284.7505 257.0465 90)
+		(at 288.29 256.54 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18668,7 +18336,7 @@
 		(fields_autoplaced yes)
 		(uuid "a517b4ba-d5fa-4a68-889b-cb33de172e62")
 		(property "Reference" "#PWR032"
-			(at 291.1005 257.0465 0)
+			(at 294.64 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18677,7 +18345,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 287.9255 257.0465 90)
+			(at 291.465 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18686,7 +18354,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 284.7505 257.0465 0)
+			(at 288.29 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18695,7 +18363,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 284.7505 257.0465 0)
+			(at 288.29 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18704,7 +18372,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 284.7505 257.0465 0)
+			(at 288.29 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20724,7 +20392,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e2815433-716e-46f9-95b4-351b654beaf8")
-		(property "Reference" "Z_END"
+		(property "Reference" "Z_END1"
 			(at 405.0305 148.2907 90)
 			(effects
 				(font
@@ -20880,7 +20548,7 @@
 		(instances
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "Z_END")
+					(reference "Z_END1")
 					(unit 1)
 				)
 			)
