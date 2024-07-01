@@ -42,7 +42,7 @@ function getCode() {
 }
 
 function getEditorContent() {
-	return monaco.editor.getModels()[0].getValue();
-	//return editor.getValue();
+	//return monaco.editor.getModels()[0].getValue();
+	return editor.getValue();
 }
 window.getEditorContent = getEditorContent;

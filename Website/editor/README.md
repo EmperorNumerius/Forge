@@ -18,7 +18,7 @@ kind of like this
 this will be as easy to use as possible
 
 # to run:
-First install all the dependencies:
+First install all the dependencies in the /website directory with npm:
 ## dependencies:
     three.js
     monaco-editor
@@ -27,3 +27,5 @@ First install all the dependencies:
 run npx vite in the terminal assuming its installed
 
 I tried the vscode live-server but the three.js code doesnt run, I would need to change the imports and things
+
+cd into /website/editor and run npx vite and open it on your browser
