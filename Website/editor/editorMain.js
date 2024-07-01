@@ -2,13 +2,20 @@ import { exportSTL } from './openscadMain.js';
 import { returnSTL } from './openscadMain.js';
 import { renderSTL } from './stlViewer.js';
 
-function renderFunction() {
+
+
+async function renderFunction() {
     console.log("Render function is called");
     const code = window.getEditorContent();
     console.log(code);
-    const stl = returnSTL(code);
-    console.log(stl);
-    renderSTL(stl);
+    const stlArrayBuffer = await returnSTL(code); // Ensure this is awaited
+    console.log('STL ArrayBuffer:', stlArrayBuffer);
+
+    if (stlArrayBuffer) {
+        renderSTL(stlArrayBuffer); // Directly pass the ArrayBuffer to renderSTL
+    } else {
+        console.error("Failed to generate STL");
+    }
 }
 
 

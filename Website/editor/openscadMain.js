@@ -43,9 +43,12 @@ export async function returnSTL(codeInput) {
 
         instance.callMain(["/input.scad", "--enable=manifold", "-o", filename]);
         const output = instance.FS.readFile("/" + filename, { encoding: 'binary' });
+        console.log('returnSTL output:', output);
 
-        // Create a Blob from the output and return it
-        return new Blob([output], { type: "application/octet-stream" });
+        // Convert the output to an ArrayBuffer
+        const arrayBuffer = new Uint8Array(output).buffer;
+        console.log('ArrayBuffer:', arrayBuffer);
+        return arrayBuffer;
     } catch (error) {
         console.error("Error exporting STL:", error);
         return null; // Return null to indicate failure

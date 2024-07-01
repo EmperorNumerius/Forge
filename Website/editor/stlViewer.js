@@ -15,10 +15,10 @@ document.body.appendChild( renderer.domElement );
 
 
 // orbit controls setup https://threejs.org/docs/?q=orbit#examples/en/controls/OrbitControls
-const controls = new OrbitControls( camera, renderer.domElement );
-controls.rotateSpeed = 1.5;
+//const controls = new OrbitControls( camera, renderer.domElement );
+//controls.rotateSpeed = 1.5;
 camera.position.set( 5, 6, 0 ); // this seems to be buggy
-controls.update();
+//controls.update();
 
 // lighting
 const ambientLight = new THREE.AmbientLight(0xffffff, 1);
@@ -50,41 +50,81 @@ planeMesh.rotation.x = - Math.PI / 2;
 scene.add( planeMesh );
 
 // Binary files
-const loader = new STLLoader();
-
 const stlMaterial = new THREE.MeshPhongMaterial( { color: 0xAAAA00, specular: 0x000000, shininess: 20 } );
-
-loader.load( './models/test.stl', function ( geometry ) {
-
-    const mesh = new THREE.Mesh( geometry, stlMaterial );
-
-    mesh.position.set( 0, 6, - 0.6 );
-    mesh.rotation.set( - Math.PI / 2, 0, 0 );
-    mesh.scale.set( 2, 2, 2 );
-    
-
-    mesh.castShadow = true;
-    mesh.receiveShadow = true;
-
-    scene.add( mesh );
-
-} );
+//
+//loader.load( './models/test.stl', function ( geometry ) {
+//
+//    const mesh = new THREE.Mesh( geometry, stlMaterial );
+//
+//    mesh.position.set( 0, 6, - 0.6 );
+//    mesh.rotation.set( - Math.PI / 2, 0, 0 );
+//    mesh.scale.set( 2, 2, 2 );
+//    
+//
+//    mesh.castShadow = true;
+//    mesh.receiveShadow = true;
+//
+//    scene.add( mesh );
+//
+//} );
 
 
 camera.position.z = 5;
 
 function animate() {
+    //requestAnimationFrame(animate);
+	//controls.update();
     
-	controls.update();
     
 	renderer.render( scene, camera );
 }
 
-renderer.setAnimationLoop( animate );
+renderer.setAnimationLoop(animate);
 
-export function renderSTL(stl) {
-    loader.load( stl, function ( geometry ) {
-        const mesh = new THREE.Mesh( geometry, stlMaterial );
-        scene.add( mesh );
-    } );
+//export function renderSTL(stl) {
+//    loader.load( stl, function ( geometry ) {
+//        const mesh = new THREE.Mesh( geometry, stlMaterial );
+//        scene.add( mesh );
+//    } );
+//}
+const loader = new STLLoader();
+
+export function renderSTL(stlArrayBuffer) {
+    console.log("renderSTL called with ArrayBuffer:", stlArrayBuffer);
+    try {
+        loader.parse(stlArrayBuffer, function (geometry) {
+            console.log("loader.parse called");
+            console.log('Geometry:', geometry);
+            const mesh = new THREE.Mesh(geometry, stlMaterial);
+            console.log('Mesh:', mesh);
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
+            scene.add(mesh);
+            console.log('Mesh added to scene');
+
+            // Adjust the position and scale if necessary
+            mesh.position.set(0, 0, 0);
+            mesh.scale.set(1, 1, 1);
+            console.log('Mesh position and scale set');
+
+            // Ensure the camera is positioned to view the model
+            camera.position.set(5, 6, 10);
+            camera.lookAt(mesh.position);
+            console.log('Camera position set and looking at mesh');
+
+            // Update controls
+            //controls.update();
+            console.log('Controls updated');
+
+            // Log camera and mesh positions
+            console.log('Camera Position:', camera.position);
+            console.log('Mesh Position:', mesh.position);
+
+            // Render the scene
+            renderer.render(scene, camera);
+            console.log('Scene rendered');
+        });
+    } catch (error) {
+        console.error("Error parsing STL:", error);
+    }
 }
