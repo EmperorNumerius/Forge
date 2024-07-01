@@ -92,41 +92,22 @@ renderer.setAnimationLoop(animate);
 export function renderSTL(stlArrayBuffer) {
     console.log("renderSTL called with ArrayBuffer:", stlArrayBuffer);
     const loader = new STLLoader();
-    try {
-        loader.parse(stlArrayBuffer, function (geometry) {
-            console.log("loader.parse called");
-            console.log('Geometry:', geometry);
-            const mesh = new THREE.Mesh(geometry, stlMaterial);
-            console.log('Mesh:', mesh);
-            mesh.castShadow = true;
-            mesh.receiveShadow = true;
-            scene.add(mesh);
-            console.log('Mesh added to scene');
+    loader.load( stlArrayBuffer, function ( geometry ) {
+        console.log("loader entered")
 
-            // Adjust the position and scale if necessary
-            mesh.position.set(0, 0, 0);
-            mesh.scale.set(1, 1, 1);
-            console.log('Mesh position and scale set');
+        const mesh = new THREE.Mesh( geometry, stlMaterial );
 
-            // Ensure the camera is positioned to view the model
-            camera.position.set(5, 6, 10);
-            camera.lookAt(mesh.position);
-            console.log('Camera position set and looking at mesh');
+        mesh.position.set( 0, 6, - 0.6 );
+        mesh.rotation.set( - Math.PI / 2, 0, 0 );
+        mesh.scale.set( 2, 2, 2 );
 
-            // Update controls
-            //controls.update();
-            console.log('Controls updated');
 
-            // Log camera and mesh positions
-            console.log('Camera Position:', camera.position);
-            console.log('Mesh Position:', mesh.position);
+        mesh.castShadow = true;
+        mesh.receiveShadow = true;
+        camera.lookAt(mesh.position);
+        scene.add( mesh );
+        camera.lookAt(mesh.position);
 
-            // Render the scene
-            renderer.render(scene, camera);
-            console.log('Scene rendered');
-        });
-    } catch (error) {
-        console.error("Error parsing STL:", error);
-    }
+    } );
 }
 
