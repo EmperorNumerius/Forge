@@ -37,22 +37,17 @@ export async function returnSTL(codeInput) {
         const instance = await OpenSCAD({noInitialRun: true});
         if (!instance || !instance.FS) {
             console.error("Failed to initialize OpenSCAD or FS is not available");
-            return;
+            return null; // Return null to indicate failure
         }
         instance.FS.writeFile("/input.scad", codeInput);
 
         instance.callMain(["/input.scad", "--enable=manifold", "-o", filename]);
-        const output = instance.FS.readFile("/" + filename);
+        const output = instance.FS.readFile("/" + filename, { encoding: 'binary' });
 
-        const link = document.createElement("a");
-        link.href = URL.createObjectURL(new Blob([output], { type: "application/octet-stream" }));
-        link.download = filename;
-        document.body.append(link);
-        link.click();
-        link.remove();
+        // Create a Blob from the output and return it
+        return new Blob([output], { type: "application/octet-stream" });
     } catch (error) {
         console.error("Error exporting STL:", error);
+        return null; // Return null to indicate failure
     }
 }
-
-// Credit to https://github.com/hackwin/openscad-wasm-simple-demo hackwin for making a simple demo from which i am able to base this off of for the openscad

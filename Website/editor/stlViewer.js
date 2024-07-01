@@ -58,7 +58,7 @@ loader.load( './models/test.stl', function ( geometry ) {
 
     const mesh = new THREE.Mesh( geometry, stlMaterial );
 
-    mesh.position.set( 0, - 0.37, - 0.6 );
+    mesh.position.set( 0, 6, - 0.6 );
     mesh.rotation.set( - Math.PI / 2, 0, 0 );
     mesh.scale.set( 2, 2, 2 );
     
@@ -81,3 +81,10 @@ function animate() {
 }
 
 renderer.setAnimationLoop( animate );
+
+export function renderSTL(stl) {
+    loader.load( stl, function ( geometry ) {
+        const mesh = new THREE.Mesh( geometry, stlMaterial );
+        scene.add( mesh );
+    } );
+}

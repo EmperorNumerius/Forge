@@ -1,11 +1,14 @@
 import { exportSTL } from './openscadMain.js';
 import { returnSTL } from './openscadMain.js';
+import { renderSTL } from './stlViewer.js';
 
 function renderFunction() {
     console.log("Render function is called");
     const code = window.getEditorContent();
     console.log(code);
-    exportSTL(code);
+    const stl = returnSTL(code);
+    console.log(stl);
+    renderSTL(stl);
 }
 
 
