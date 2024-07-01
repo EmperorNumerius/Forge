@@ -87,10 +87,11 @@ renderer.setAnimationLoop(animate);
 //        scene.add( mesh );
 //    } );
 //}
-const loader = new STLLoader();
+//const loader = new STLLoader();
 
 export function renderSTL(stlArrayBuffer) {
     console.log("renderSTL called with ArrayBuffer:", stlArrayBuffer);
+    const loader = new STLLoader();
     try {
         loader.parse(stlArrayBuffer, function (geometry) {
             console.log("loader.parse called");
@@ -128,3 +129,4 @@ export function renderSTL(stlArrayBuffer) {
         console.error("Error parsing STL:", error);
     }
 }
+

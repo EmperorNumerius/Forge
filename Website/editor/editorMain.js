@@ -8,14 +8,10 @@ async function renderFunction() {
     console.log("Render function is called");
     const code = window.getEditorContent();
     console.log(code);
-    const stlArrayBuffer = await returnSTL(code); // Ensure this is awaited
-    console.log('STL ArrayBuffer:', stlArrayBuffer);
+    const stl = await returnSTL(code); // Ensure this is awaited
+    //console.log('STL ArrayBuffer:', stlArrayBuffer);
+    renderSTL(stl)
 
-    if (stlArrayBuffer) {
-        renderSTL(stlArrayBuffer); // Directly pass the ArrayBuffer to renderSTL
-    } else {
-        console.error("Failed to generate STL");
-    }
 }
 
 
