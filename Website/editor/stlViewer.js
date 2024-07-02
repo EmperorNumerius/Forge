@@ -73,7 +73,7 @@ const stlMaterial = new THREE.MeshPhongMaterial( { color: 0xAAAA00, specular: 0x
 let readyToRender = null;
 
 function animate() {
-    requestAnimationFrame(animate);
+    //requestAnimationFrame(animate);
 	//controls.update();
     renderSTL(readyToRender);
 
