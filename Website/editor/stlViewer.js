@@ -17,7 +17,7 @@ document.body.appendChild( renderer.domElement );
 // orbit controls setup https://threejs.org/docs/?q=orbit#examples/en/controls/OrbitControls
 const controls = new OrbitControls( camera, renderer.domElement );
 //controls.rotateSpeed = 1.5;
-camera.position.set( 20, 20, 0 ); // this seems to be buggy
+camera.position.set( 0, 10, 20 ); // this seems to be buggy
 //controls.update();
 
 // lighting
@@ -118,9 +118,9 @@ function renderSTL(stlArrayBuffer) {
 
             const mesh = new THREE.Mesh(geometry, stlMaterial);
 
-            mesh.position.set(0, 6, -0.6);
+            
             mesh.rotation.set(-Math.PI / 2, 0, 0);
-            mesh.scale.set(2, 2, 2);
+            
 
             mesh.castShadow = true;
             mesh.receiveShadow = true;

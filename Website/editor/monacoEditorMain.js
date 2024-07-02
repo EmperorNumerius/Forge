@@ -36,7 +36,7 @@ require(['vs/editor/editor.main'], function () {
 });
 function getCode() {
 	return [ // starting code
-		'cylinder(d1=50,d2=0,h=10,$fn=1);',
+		'cylinder(d1=5,d2=0,h=5,$fn=10);',
 		''
 	].join('\n');
 }
