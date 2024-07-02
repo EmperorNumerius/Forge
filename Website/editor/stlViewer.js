@@ -124,13 +124,14 @@ function renderSTL(stlArrayBuffer) {
 
             mesh.castShadow = true;
             mesh.receiveShadow = true;
-            camera.lookAt(mesh.position);
+            //camera.lookAt(mesh.position);
             scene.add(mesh);
-            camera.lookAt(mesh.position);
+            //camera.lookAt(mesh.position);
             console.log("mesh added to scene");
 
             // Update the current mesh reference
             currentMesh = mesh;
+
         });
     }
     
