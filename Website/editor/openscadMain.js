@@ -22,6 +22,8 @@ export async function exportSTL(codeInput) {
         const link = document.createElement("a");
         link.href = URL.createObjectURL(new Blob([output], { type: "application/octet-stream" }));
         link.download = filename;
+        console.log(link.href);
+        console.log("filename:",filename);
         document.body.append(link);
         link.click();
         link.remove();
@@ -47,12 +49,10 @@ export async function returnSTL(codeInput) {
         const link = document.createElement("a");
         link.href = URL.createObjectURL(new Blob([output], { type: "application/octet-stream" }));
         link.download = filename;
-        document.body.append(link);
-        link.click();
-        link.remove();
+        console.log(link.href);
+        return link.href;
     } catch (error) {
         console.error("Error exporting STL:", error);
+        return "fail";
     }
 }
-
-// Credit to https://github.com/hackwin/openscad-wasm-simple-demo hackwin for making a simple demo from which i am able to base this off of for the openscad

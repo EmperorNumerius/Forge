@@ -16,9 +16,9 @@ document.body.appendChild( renderer.domElement );
 
 // orbit controls setup https://threejs.org/docs/?q=orbit#examples/en/controls/OrbitControls
 const controls = new OrbitControls( camera, renderer.domElement );
-controls.rotateSpeed = 1.5;
-camera.position.set( 5, 6, 0 ); // this seems to be buggy
-controls.update();
+//controls.rotateSpeed = 1.5;
+camera.position.set( 0, 10, 20 ); // this seems to be buggy
+//controls.update();
 
 // lighting
 const ambientLight = new THREE.AmbientLight(0xffffff, 1);
@@ -50,34 +50,91 @@ planeMesh.rotation.x = - Math.PI / 2;
 scene.add( planeMesh );
 
 // Binary files
-const loader = new STLLoader();
-
 const stlMaterial = new THREE.MeshPhongMaterial( { color: 0xAAAA00, specular: 0x000000, shininess: 20 } );
+//
+//loader.load( './models/test.stl', function ( geometry ) {
+//
+//    const mesh = new THREE.Mesh( geometry, stlMaterial );
+//
+//    mesh.position.set( 0, 6, - 0.6 );
+//    mesh.rotation.set( - Math.PI / 2, 0, 0 );
+//    mesh.scale.set( 2, 2, 2 );
+//    
+//
+//    mesh.castShadow = true;
+//    mesh.receiveShadow = true;
+//
+//    scene.add( mesh );
+//
+//} );
 
-loader.load( './models/test.stl', function ( geometry ) {
 
-    const mesh = new THREE.Mesh( geometry, stlMaterial );
-
-    mesh.position.set( 0, - 0.37, - 0.6 );
-    mesh.rotation.set( - Math.PI / 2, 0, 0 );
-    mesh.scale.set( 2, 2, 2 );
-    
-
-    mesh.castShadow = true;
-    mesh.receiveShadow = true;
-
-    scene.add( mesh );
-
-} );
-
-
-camera.position.z = 5;
+//camera.position.z = 5;
+let readyToRender = null;
 
 function animate() {
-    
-	controls.update();
-    
+    //requestAnimationFrame(animate);
+	//controls.update();
+    renderSTL(readyToRender);
+
 	renderer.render( scene, camera );
+
+}
+//animate();
+renderer.setAnimationLoop(animate);
+
+//export function renderSTL(stl) {
+//    loader.load( stl, function ( geometry ) {
+//        const mesh = new THREE.Mesh( geometry, stlMaterial );
+//        scene.add( mesh );
+//    } );
+//}
+//const loader = new STLLoader();
+
+export function addSTLToQueue(stlArrayBuffer) {
+    readyToRender = stlArrayBuffer;
 }
 
-renderer.setAnimationLoop( animate );
+let currentMesh = null;
+
+function renderSTL(stlArrayBuffer) {
+    if (stlArrayBuffer === null) {
+        //console.log ("stlArrayBuffer is null");
+    } else {
+        //console.log("stlArrayBuffer is not null");
+        readyToRender = null;
+        console.log("renderSTL called with ArrayBuffer:", stlArrayBuffer);
+        const loader = new STLLoader();
+        loader.load( stlArrayBuffer, function ( geometry ) {
+            console.log("loader entered")
+
+            // Remove the previous mesh if it exists
+            if (currentMesh) {
+                scene.remove(currentMesh);
+                currentMesh.geometry.dispose();
+                currentMesh.material.dispose();
+                currentMesh = null;
+            }
+
+            const mesh = new THREE.Mesh(geometry, stlMaterial);
+
+            
+            mesh.rotation.set(-Math.PI / 2, 0, 0);
+            
+
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
+            //camera.lookAt(mesh.position);
+            scene.add(mesh);
+            //camera.lookAt(mesh.position);
+            console.log("mesh added to scene");
+
+            // Update the current mesh reference
+            currentMesh = mesh;
+
+        });
+    }
+    
+}
+
+
