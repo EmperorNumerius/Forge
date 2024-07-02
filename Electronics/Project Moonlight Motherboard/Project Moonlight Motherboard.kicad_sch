@@ -1841,12 +1841,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "top mount dual row SMT receptacle, 24 position, non-shielded, 1300 pcs/reel"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -1861,16 +1862,6 @@
 				)
 			)
 			(property "MF" "JAE Electronics"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "top mount dual row SMT receptacle, 24 position, non-shielded, 1300 pcs/reel"
 				(at 0 0 0)
 				(effects
 					(font
@@ -13017,7 +13008,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1K"
+		(property "Value" "RMCF0805JT5K10"
 			(at 105.41 254.254 90)
 			(effects
 				(font
@@ -13025,7 +13016,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RMCF0805JT5K10:RESC2012X65N"
 			(at 105.41 258.318 90)
 			(effects
 				(font
@@ -17541,7 +17532,7 @@
 				)
 			)
 		)
-		(property "Value" "5.1K"
+		(property "Value" "RMCF0805JT5K10"
 			(at 156.21 254.254 90)
 			(effects
 				(font
@@ -17549,7 +17540,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RMCF0805JT5K10:RESC2012X65N"
 			(at 156.21 258.318 90)
 			(effects
 				(font
