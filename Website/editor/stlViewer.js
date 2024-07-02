@@ -15,7 +15,7 @@ document.body.appendChild( renderer.domElement );
 
 
 // orbit controls setup https://threejs.org/docs/?q=orbit#examples/en/controls/OrbitControls
-//const controls = new OrbitControls( camera, renderer.domElement );
+const controls = new OrbitControls( camera, renderer.domElement );
 //controls.rotateSpeed = 1.5;
 camera.position.set( 20, 20, 0 ); // this seems to be buggy
 //controls.update();
