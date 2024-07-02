@@ -1,7 +1,7 @@
 import { exportSTL } from './openscadMain.js';
 import { returnSTL } from './openscadMain.js';
-import { renderSTL } from './stlViewer.js';
-
+//import { renderSTL } from './stlViewer.js';
+import { addSTLToQueue} from './stlViewer.js';
 
 
 async function renderFunction() {
@@ -10,7 +10,7 @@ async function renderFunction() {
     console.log(code);
     const stl = await returnSTL(code); // Ensure this is awaited
     //console.log('STL ArrayBuffer:', stlArrayBuffer);
-    renderSTL(stl)
+    addSTLToQueue(stl);
 
 }
 

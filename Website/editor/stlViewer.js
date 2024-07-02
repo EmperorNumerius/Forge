@@ -70,11 +70,12 @@ const stlMaterial = new THREE.MeshPhongMaterial( { color: 0xAAAA00, specular: 0x
 
 
 //camera.position.z = 5;
+let readyToRender = null;
 
 function animate() {
     requestAnimationFrame(animate);
 	//controls.update();
-    
+    renderSTL(readyToRender);
 
 	renderer.render( scene, camera );
 
@@ -90,38 +91,49 @@ renderer.setAnimationLoop(animate);
 //}
 //const loader = new STLLoader();
 
+export function addSTLToQueue(stlArrayBuffer) {
+    readyToRender = stlArrayBuffer;
+}
+
 let currentMesh = null;
 
-export function renderSTL(stlArrayBuffer) {
-    console.log("renderSTL called with ArrayBuffer:", stlArrayBuffer);
-    const loader = new STLLoader();
-    loader.load( stlArrayBuffer, function ( geometry ) {
-        console.log("loader entered")
+function renderSTL(stlArrayBuffer) {
+    if (stlArrayBuffer === null) {
+        //console.log ("stlArrayBuffer is null");
+    } else {
+        //console.log("stlArrayBuffer is not null");
+        readyToRender = null;
+        console.log("renderSTL called with ArrayBuffer:", stlArrayBuffer);
+        const loader = new STLLoader();
+        loader.load( stlArrayBuffer, function ( geometry ) {
+            console.log("loader entered")
 
-        // Remove the previous mesh if it exists
-        if (currentMesh) {
-            scene.remove(currentMesh);
-            currentMesh.geometry.dispose();
-            currentMesh.material.dispose();
-            currentMesh = null;
-        }
+            // Remove the previous mesh if it exists
+            if (currentMesh) {
+                scene.remove(currentMesh);
+                currentMesh.geometry.dispose();
+                currentMesh.material.dispose();
+                currentMesh = null;
+            }
 
-        const mesh = new THREE.Mesh(geometry, stlMaterial);
+            const mesh = new THREE.Mesh(geometry, stlMaterial);
 
-        mesh.position.set(0, 6, -0.6);
-        mesh.rotation.set(-Math.PI / 2, 0, 0);
-        mesh.scale.set(2, 2, 2);
+            mesh.position.set(0, 6, -0.6);
+            mesh.rotation.set(-Math.PI / 2, 0, 0);
+            mesh.scale.set(2, 2, 2);
 
-        mesh.castShadow = true;
-        mesh.receiveShadow = true;
-        camera.lookAt(mesh.position);
-        scene.add(mesh);
-        camera.lookAt(mesh.position);
-        console.log("mesh added to scene");
+            mesh.castShadow = true;
+            mesh.receiveShadow = true;
+            camera.lookAt(mesh.position);
+            scene.add(mesh);
+            camera.lookAt(mesh.position);
+            console.log("mesh added to scene");
 
-        // Update the current mesh reference
-        currentMesh = mesh;
-    });
+            // Update the current mesh reference
+            currentMesh = mesh;
+        });
+    }
+    
 }
 
 
