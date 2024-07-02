@@ -17,7 +17,7 @@ document.body.appendChild( renderer.domElement );
 // orbit controls setup https://threejs.org/docs/?q=orbit#examples/en/controls/OrbitControls
 //const controls = new OrbitControls( camera, renderer.domElement );
 //controls.rotateSpeed = 1.5;
-camera.position.set( 5, 6, 0 ); // this seems to be buggy
+camera.position.set( 20, 20, 0 ); // this seems to be buggy
 //controls.update();
 
 // lighting
@@ -69,16 +69,17 @@ const stlMaterial = new THREE.MeshPhongMaterial( { color: 0xAAAA00, specular: 0x
 //} );
 
 
-camera.position.z = 5;
+//camera.position.z = 5;
 
 function animate() {
-    //requestAnimationFrame(animate);
+    requestAnimationFrame(animate);
 	//controls.update();
     
-    
-	renderer.render( scene, camera );
-}
 
+	renderer.render( scene, camera );
+
+}
+//animate();
 renderer.setAnimationLoop(animate);
 
 //export function renderSTL(stl) {
@@ -107,6 +108,8 @@ export function renderSTL(stlArrayBuffer) {
         camera.lookAt(mesh.position);
         scene.add( mesh );
         camera.lookAt(mesh.position);
+        console.log("mesh added to scene")
+        scene.add(mesh);
 
     } );
 }
