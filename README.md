@@ -4,5 +4,5 @@ The goal is to have a working 3d printing platform that is easy to use for beggi
 The 3d printer will be based on a reprap like 3d printer.
 ![
     
-](image.png)
+](cad image of forge.png)
 If you wish to join the development of this project you can join #forge-dev in the hackclub slack!
