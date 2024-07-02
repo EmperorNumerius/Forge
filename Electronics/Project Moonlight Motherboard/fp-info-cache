@@ -1,4 +1,4 @@
-23667863540032422
+23676463619153328
 10118193-0001LF
 AMPHENOL_10118193-0001LF
 
@@ -54662,6 +54662,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DX07S024JJ3R1300
+JAE_DX07S024JJ3R1300
+
+
+0
+26
+26
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -64679,6 +64686,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LM2576S-3.3_NOPB
+VREG_TPS79625KTTR
+
+
+0
+6
+6
 MCU_RaspberryPi_and_Boards
 Crystal_SMD_HC49-US
 SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
@@ -84587,6 +84601,13 @@ PHOENIX_1751248
 0
 2
 2
+PinHeader
+PinHeader_1x04_P2.54mm_Vertical
+
+
+0
+4
+4
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -86743,6 +86764,20 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RMCF0805JT5K10
+RESC2012X65N
+
+
+0
+2
+2
+RUEF900
+FUSRR1015W81L2410T300H2900
+
+
+0
+2
+2
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf

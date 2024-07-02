@@ -1,0 +1,80 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "RMCF0805JT5K10" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "R" (id 0) (at -7.624440625 2.54148125 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "RMCF0805JT5K10" (id 1) (at -7.62996875 -5.086640625 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "RMCF0805JT5K10:RESC2012X65N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DigiKey_Part_Number" "RMCF0805JT5K10TR-ND" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/RMCF0805JT5K10/Stackpole+Electronics+Inc/view-part/?ref=snap" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n5.1 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film\n" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "Stackpole Electronics Inc" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "2012 Stackpole" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/RMCF0805JT5K10/Stackpole+Electronics+Inc/view-part/?ref=eda" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "RMCF0805JT5K10" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "RMCF0805JT5K10_0_0"
+      (polyline
+        (pts (xy -5.08 0.0) (xy -4.445 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 1.905) (xy -3.175 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 -1.905) (xy -1.905 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 1.905) (xy -0.635 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 -1.905) (xy 0.635 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 1.905) (xy 1.905 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 -1.905) (xy 3.175 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 1.905) (xy 4.445 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -1.905) (xy 5.08 0.0)) (stroke (width 0.254))
+      )
+      (pin passive line (at -10.16 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 0.0 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
