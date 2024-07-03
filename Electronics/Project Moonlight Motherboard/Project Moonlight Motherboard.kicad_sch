@@ -2871,6 +2871,270 @@
 				)
 			)
 		)
+		(symbol "GNDREF_1"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GNDREF"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GNDREF_1_0_1"
+				(polyline
+					(pts
+						(xy -0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.127 -2.54) (xy 0.127 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDREF_1_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "GNDREF_2"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GNDREF"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GNDREF_2_0_1"
+				(polyline
+					(pts
+						(xy -0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.127 -2.54) (xy 0.127 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDREF_2_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "IRFH7440TRPBF:IRFH7440TRPBF"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3265,261 +3529,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "LM2576S-3.3_NOPB:LM2576S-3.3_NOPB"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -12.7 8.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "LM2576S-3.3_NOPB"
-				(at -12.7 -11.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "LM2576S-3.3_NOPB:VREG_TPS79625KTTR"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "DigiKey_Part_Number" "LM2576S-3.3-ND"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MF" "Texas Instruments"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1231117&manufacturer=Texas Instruments&part_name=LM2576S-3.3&search_term=None"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Package" "TO-263-6 National Semiconductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/LM2576S-3.3/Texas+Instruments/view-part/?ref=snap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MP" "LM2576S-3.3"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "\nBuck Switching Regulator IC Positive Fixed 3.3V\n"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/LM2576S-3.3/Texas+Instruments/view-part/?ref=eda"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "LM2576S-3.3_NOPB_0_0"
-				(rectangle
-					(start -12.7 -7.62)
-					(end 12.7 7.62)
-					(stroke
-						(width 0.41)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -17.78 2.54 0)
-					(length 5.08)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 17.78 2.54 180)
-					(length 5.08)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 17.78 -2.54 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 17.78 5.08 180)
-					(length 5.08)
-					(name "FB"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -17.78 5.08 0)
-					(length 5.08)
-					(name "ON/OFF"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 17.78 -2.54 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.016 1.016)
 							)
 						)
 					)
@@ -7478,6 +7487,320 @@
 				)
 			)
 		)
+		(symbol "Regulator_Linear:AMS1117-3.3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -3.81 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AMS1117-3.3"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+				(at 2.54 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "linear regulator ldo fixed positive"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?223*TabPin2*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AMS1117-3.3_0_1"
+				(rectangle
+					(start -5.08 -5.08)
+					(end 5.08 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "AMS1117-3.3_1_1"
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "VO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "VI"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Regulator_Switching:LM2576HVS-5"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -10.16 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "LM2576HVS-5"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2576.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "5V 3A, SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-263"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Step-Down Voltage Regulator 5V 3A High Voltage"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO?263*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LM2576HVS-5_0_1"
+				(rectangle
+					(start -10.16 5.08)
+					(end 10.16 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "LM2576HVS-5_1_1"
+				(pin power_in line
+					(at -12.7 2.54 0)
+					(length 2.54)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -2.54 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 2.54 180)
+					(length 2.54)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 -2.54 0)
+					(length 2.54)
+					(name "~{ON}/OFF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SSD1306-128x64_OLED:SSD1306"
 			(pin_names
 				(offset 1.016)
@@ -8136,6 +8459,308 @@
 				)
 			)
 		)
+		(symbol "UWT1V101MCL1GS:UWT1V101MCL1GS"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at -5.08 3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "UWT1V101MCL1GS"
+				(at -5.08 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "UWT1V101MCL1GS:CAPAE830X1000N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Nichicon"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "7.7mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "Radial Nichicon"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "IPC-7351B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "CAT.8100L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "UWT1V101MCL1GS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=576928&manufacturer=Nichicon&part_name=UWT1V101MCL1GS&search_term=uwt1v101mcl1gs"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\nCapacitor Aluminum Electrolytic, 1000h 6.3 (Dia.) x 7.7mm, 100uF, 35V, WT Series | Nichicon UWT1V101MCL1GS\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Nichicon"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SNAPEDA_PN" "UWT1V101MCL1GS"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "UWT1V101MCL1GS_0_0"
+				(rectangle
+					(start -3.713 -1.532)
+					(end -2.824 -1.405)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -3.332 -1.913)
+					(end -3.205 -1.024)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -0.254 2.54)
+					(mid -1.0549 0)
+					(end -0.254 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -2.032 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 2.54) (xy -2.032 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_names
@@ -8654,6 +9279,18 @@
 		(uuid "22df5898-846b-4243-af6e-fd01e24c91d1")
 	)
 	(junction
+		(at 134.112 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23c0fe5f-2180-4483-859e-87361ceafd96")
+	)
+	(junction
+		(at 210.566 139.954)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "293b462e-3b89-4d44-b820-6b4c916a6bef")
+	)
+	(junction
 		(at 399.9505 164.1657)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8684,6 +9321,12 @@
 		(uuid "4cda4b10-8add-4738-a3c4-0558e07d9bac")
 	)
 	(junction
+		(at 217.678 132.334)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "521b8584-d12b-49d8-8768-989883458a17")
+	)
+	(junction
 		(at 374.904 35.052)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8694,6 +9337,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63b638f4-4643-4c0c-8e06-9a2b1d244b01")
+	)
+	(junction
+		(at 153.162 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c447c03-8199-4baf-95ac-6e7a3d9d5cfb")
 	)
 	(junction
 		(at 374.904 85.852)
@@ -8730,6 +9379,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "935ed511-4da5-419c-ac51-2947b38a239c")
+	)
+	(junction
+		(at 121.412 129.286)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "946c607d-241f-4d4c-8eeb-8a2a6de7d1a0")
 	)
 	(junction
 		(at 317.146 174.4729)
@@ -8821,15 +9476,11 @@
 		(color 0 0 0 0)
 		(uuid "fb4fe49d-bced-4e10-8399-7ae51c67022d")
 	)
-	(wire
-		(pts
-			(xy 223.52 128.27) (xy 223.52 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0045212b-fbbd-4592-a787-6915f702a161")
+	(junction
+		(at 114.3 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc9906e6-b51d-4a02-85b3-47f5b1d3c888")
 	)
 	(wire
 		(pts
@@ -8850,6 +9501,16 @@
 			(type default)
 		)
 		(uuid "024da5a3-a688-493c-8107-a71a9901f874")
+	)
+	(wire
+		(pts
+			(xy 192.532 132.334) (xy 196.596 132.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0629b4cc-6748-4da9-86bf-955552519df0")
 	)
 	(wire
 		(pts
@@ -8903,16 +9564,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 143.51) (xy 226.06 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20f3da68-59d6-4f8e-a4b9-d225189b7b95")
-	)
-	(wire
-		(pts
 			(xy 307.621 174.4729) (xy 307.621 177.0129)
 		)
 		(stroke
@@ -8930,6 +9581,16 @@
 			(type default)
 		)
 		(uuid "22abda6d-dc69-4211-9a00-8917423be112")
+	)
+	(wire
+		(pts
+			(xy 121.412 129.286) (xy 134.112 129.286)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "289ef567-26ab-4bbf-83f5-6d18fff79915")
 	)
 	(wire
 		(pts
@@ -9133,6 +9794,26 @@
 	)
 	(wire
 		(pts
+			(xy 134.112 129.286) (xy 134.112 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e500b3a-beb2-496a-836a-be8551225dd7")
+	)
+	(wire
+		(pts
+			(xy 211.836 132.334) (xy 217.678 132.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f0220a3-43a7-4386-afe6-588eebf9b76e")
+	)
+	(wire
+		(pts
 			(xy 223.4448 262.5594) (xy 219.6348 262.5594)
 		)
 		(stroke
@@ -9193,6 +9874,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.162 119.38) (xy 153.162 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5eb03052-2b19-437b-b14b-5ebd24ed1d11")
+	)
+	(wire
+		(pts
 			(xy 256.3828 181.4609) (xy 260.1928 181.4609)
 		)
 		(stroke
@@ -9223,16 +9914,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 140.97) (xy 186.69 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "631399a2-d5b7-4375-a7ad-38a1cd3683be")
-	)
-	(wire
-		(pts
 			(xy 288.29 251.46) (xy 284.48 251.46)
 		)
 		(stroke
@@ -9243,16 +9924,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 135.89) (xy 222.25 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66449104-5fc2-4331-9b8c-550b40085f91")
-	)
-	(wire
-		(pts
 			(xy 282.2417 34.2809) (xy 284.7817 34.2809)
 		)
 		(stroke
@@ -9260,6 +9931,26 @@
 			(type default)
 		)
 		(uuid "6924e9da-f390-41ff-bb97-15d619de7076")
+	)
+	(wire
+		(pts
+			(xy 153.162 121.92) (xy 156.718 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69de432b-af53-4b1f-877b-03ad96ae7b79")
+	)
+	(wire
+		(pts
+			(xy 134.112 129.54) (xy 153.162 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ae0c8a7-9331-41cf-bb3d-23b8c3a0bdff")
 	)
 	(wire
 		(pts
@@ -9280,6 +9971,16 @@
 			(type default)
 		)
 		(uuid "6b32d119-ea29-41d4-950a-e5d56efced6f")
+	)
+	(wire
+		(pts
+			(xy 121.412 124.46) (xy 121.412 129.286)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b67d990-65b8-46c2-89b7-23c58f32223d")
 	)
 	(wire
 		(pts
@@ -9373,6 +10074,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 121.92) (xy 153.162 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "788a9036-721e-4ec4-8314-8480862b4be1")
+	)
+	(wire
+		(pts
 			(xy 327.941 177.0129) (xy 327.941 179.5529)
 		)
 		(stroke
@@ -9390,6 +10101,16 @@
 			(type default)
 		)
 		(uuid "7cd9e883-5ef0-48eb-b988-ba81f2bd6604")
+	)
+	(wire
+		(pts
+			(xy 210.566 139.954) (xy 210.566 141.732)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "801aef23-cadd-4742-9eb9-a0e658be54f7")
 	)
 	(wire
 		(pts
@@ -9513,16 +10234,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 140.97) (xy 222.25 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95cfa5c6-3d5d-48a1-9cc3-be06d014d751")
-	)
-	(wire
-		(pts
 			(xy 373.8843 164.3835) (xy 373.8843 163.7485)
 		)
 		(stroke
@@ -9613,6 +10324,26 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 124.46) (xy 147.32 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6534fe3-0de5-4bc7-aca8-11b3bb0f6b98")
+	)
+	(wire
+		(pts
+			(xy 222.758 128.016) (xy 222.758 132.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7845ec7-df5a-4db5-8bc4-ebfda8225d72")
+	)
+	(wire
+		(pts
 			(xy 376.4243 169.4635) (xy 376.4243 163.1135)
 		)
 		(stroke
@@ -9693,6 +10424,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 127) (xy 114.3 129.286)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd87c9f6-b091-47dd-8859-dda2ba05a33b")
+	)
+	(wire
+		(pts
 			(xy 284.7817 95.8759) (xy 282.8767 95.8759)
 		)
 		(stroke
@@ -9723,6 +10464,26 @@
 	)
 	(wire
 		(pts
+			(xy 204.216 139.954) (xy 210.566 139.954)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1023f89-02d2-4be3-ab39-ffea15b0c455")
+	)
+	(wire
+		(pts
+			(xy 146.812 124.46) (xy 147.32 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4a5ff20-1c8f-434f-a39f-669a7877b27c")
+	)
+	(wire
+		(pts
 			(xy 399.9505 164.1657) (xy 394.8705 164.1657)
 		)
 		(stroke
@@ -9733,6 +10494,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.566 139.954) (xy 217.678 139.954)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6d7dedc-7a98-4362-9d1d-c3f3e70d28fc")
+	)
+	(wire
+		(pts
 			(xy 274.1628 159.8709) (xy 269.7178 159.8709)
 		)
 		(stroke
@@ -9740,6 +10511,16 @@
 			(type default)
 		)
 		(uuid "c88b05fc-612d-422d-a5c3-8382192130b8")
+	)
+	(wire
+		(pts
+			(xy 114.3 119.38) (xy 121.412 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9bfb612-a0b5-4270-83b7-e04d6164c87e")
 	)
 	(wire
 		(pts
@@ -9803,6 +10584,16 @@
 	)
 	(wire
 		(pts
+			(xy 192.532 135.382) (xy 192.532 132.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5fe4eea-f53d-4a7d-9507-3fe72cd13e29")
+	)
+	(wire
+		(pts
 			(xy 269.7178 209.4009) (xy 256.3828 209.4009)
 		)
 		(stroke
@@ -9860,6 +10651,16 @@
 			(type default)
 		)
 		(uuid "da18e98e-8ddf-4b9c-811e-42a622912bc6")
+	)
+	(wire
+		(pts
+			(xy 222.758 132.334) (xy 217.678 132.334)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc625c39-4a5f-4f6a-8711-29d7d0b4661b")
 	)
 	(wire
 		(pts
@@ -9933,6 +10734,26 @@
 	)
 	(wire
 		(pts
+			(xy 146.812 119.38) (xy 153.162 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9bffa1b-d870-42fe-a54b-e0cb254dca38")
+	)
+	(wire
+		(pts
+			(xy 114.3 129.286) (xy 121.412 129.286)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee01c31f-ad79-4bfd-b989-f75aa94f1a76")
+	)
+	(wire
+		(pts
 			(xy 372.364 68.072) (xy 372.999 68.072)
 		)
 		(stroke
@@ -9980,6 +10801,16 @@
 			(type default)
 		)
 		(uuid "fa8beb09-1f08-4aa7-bd22-20db8ec8acc1")
+	)
+	(wire
+		(pts
+			(xy 134.112 129.54) (xy 134.112 134.874)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb956b2a-b8e2-4815-aaa6-8ec2982d54aa")
 	)
 	(rectangle
 		(start 86.995 231.775)
@@ -12060,6 +12891,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Regulator_Switching:LM2576HVS-5")
+		(at 134.112 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02b0b170-e9a1-4102-a4d9-70f4fdd1aaf0")
+		(property "Reference" "U6"
+			(at 134.112 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM2576HVS-5"
+			(at 134.112 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3"
+			(at 134.112 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2576.pdf"
+			(at 134.112 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "5V 3A, SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-263"
+			(at 134.112 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "abffa3c7-f3bd-45e1-999a-c0c8514c1526")
+		)
+		(pin "5"
+			(uuid "1d4f65a5-b2bf-48e7-8cce-cf60ef5ae098")
+		)
+		(pin "4"
+			(uuid "995ec72d-2824-427e-96ef-184280b9354b")
+		)
+		(pin "1"
+			(uuid "121c3799-03d4-40c2-bbe0-463a672854ec")
+		)
+		(pin "3"
+			(uuid "f7b72290-25dd-4b17-acf3-8a7d768272b5")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDREF")
 		(at 260.1928 206.8609 90)
 		(mirror x)
@@ -13059,6 +13969,77 @@
 		)
 	)
 	(symbol
+		(lib_id "Regulator_Linear:AMS1117-3.3")
+		(at 204.216 132.334 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28f4d0b5-5f55-48e9-9a17-9b7bee7c2aa0")
+		(property "Reference" "U1"
+			(at 204.216 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AMS1117-3.3"
+			(at 204.216 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+			(at 204.216 127.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.advanced-monolithic.com/pdf/ds1117.pdf"
+			(at 206.756 138.684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
+			(at 204.216 132.334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2592599f-38c7-4ea6-8f99-c7af0d661847")
+		)
+		(pin "3"
+			(uuid "bd4f6908-f55c-42ab-b9cb-96e10935dd58")
+		)
+		(pin "2"
+			(uuid "c2ffa452-35a0-4cc8-ac55-428eecfc1988")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 274.1628 219.5609 270)
 		(mirror x)
@@ -13497,167 +14478,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LM2576S-3.3_NOPB:LM2576S-3.3_NOPB")
-		(at 204.47 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "310f1c00-dad8-46f0-b3c7-9f80e6444c0b")
-		(property "Reference" "U1"
-			(at 204.47 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LM2576S-3.3_NOPB"
-			(at 204.47 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LM2576S-3.3_NOPB:VREG_TPS79625KTTR"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey_Part_Number" "LM2576S-3.3-ND"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MF" "Texas Instruments"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1231117&manufacturer=Texas Instruments&part_name=LM2576S-3.3&search_term=None"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "TO-263-6 National Semiconductor"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LM2576S-3.3/Texas+Instruments/view-part/?ref=snap"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "LM2576S-3.3"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nBuck Switching Regulator IC Positive Fixed 3.3V\n"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/LM2576S-3.3/Texas+Instruments/view-part/?ref=eda"
-			(at 204.47 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "c77ff665-60f2-40b4-8e3e-0a42eae0c4b1")
-		)
-		(pin "3"
-			(uuid "66038ffa-ef12-45cd-9569-5832d4df3016")
-		)
-		(pin "4"
-			(uuid "677ac7c6-c6eb-4fd0-9d4e-cfb87c8ac227")
-		)
-		(pin "2"
-			(uuid "79ec74c2-1c91-4546-b525-347ce8b428d1")
-		)
-		(pin "6"
-			(uuid "889c94b3-2aea-4274-a8b4-0ad4fe571bb1")
-		)
-		(pin "1"
-			(uuid "dd09a92d-f9d1-417b-8b9a-28190416ec23")
-		)
-		(instances
-			(project ""
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "TMC2209_SILENTSTEPSTICK:TMC2209_SILENTSTEPSTICK")
 		(at 264.4617 100.3209 0)
 		(unit 1)
@@ -13880,6 +14700,217 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UWT1V101MCL1GS:UWT1V101MCL1GS")
+		(at 153.162 127 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33021ec3-62fe-4ac1-b16f-27617d8948c9")
+		(property "Reference" "C9"
+			(at 157.48 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "UWT1V331MNL1GS"
+			(at 157.48 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UWT1V331MNL1GS:CAPAE830X1000N"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Nichicon"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.7mm"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Nichicon"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=eda"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "CAT.8100L"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=snap"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "UWT1V101MCL1GS"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=576928&manufacturer=Nichicon&part_name=UWT1V101MCL1GS&search_term=uwt1v101mcl1gs"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nCapacitor Aluminum Electrolytic, 1000h 6.3 (Dia.) x 7.7mm, 100uF, 35V, WT Series | Nichicon UWT1V101MCL1GS\n"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Nichicon"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "UWT1V101MCL1GS"
+			(at 153.162 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3dfe9c76-38ee-4bd5-8f06-32bcaf9fd85c")
+		)
+		(pin "2"
+			(uuid "7d35989e-b0dd-4a8d-ba1e-5cbacb73ec67")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -14572,6 +15603,73 @@
 		)
 	)
 	(symbol
+		(lib_name "GNDREF_2")
+		(lib_id "power:GNDREF")
+		(at 134.112 134.874 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "440e1620-3752-42dd-bc38-b73e41c26a81")
+		(property "Reference" "#PWR056"
+			(at 134.112 141.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 134.112 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.112 134.874 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.112 134.874 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 134.112 134.874 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1211b29f-8516-4682-862e-686b77f6cf0a")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 372.364 32.512 270)
 		(unit 1)
@@ -15197,7 +16295,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 226.06 143.51 0)
+		(at 210.566 141.732 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15205,7 +16303,7 @@
 		(dnp no)
 		(uuid "55778af9-37ca-4bcd-806d-377721dd4402")
 		(property "Reference" "#PWR05"
-			(at 226.06 149.86 0)
+			(at 210.566 148.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15214,7 +16312,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 228.346 138.938 0)
+			(at 212.852 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15223,7 +16321,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 143.51 0)
+			(at 210.566 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15232,7 +16330,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 143.51 0)
+			(at 210.566 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15241,7 +16339,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.06 143.51 0)
+			(at 210.566 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15812,6 +16910,74 @@
 		)
 	)
 	(symbol
+		(lib_name "GNDREF_1")
+		(lib_id "power:GNDREF")
+		(at 148.59 271.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62a65b24-25d3-4738-82ec-f1417bba2bad")
+		(property "Reference" "#PWR055"
+			(at 154.94 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 152.146 271.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 148.59 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "682813e0-f37d-4140-b853-db2ee2a315e0")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "B2B-XH-A:B2B-XH-A")
 		(at 248.7628 209.4009 0)
 		(mirror y)
@@ -15978,6 +17144,217 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "THM1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "UWT1V101MCL1GS:UWT1V101MCL1GS")
+		(at 114.3 124.46 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ad7c91f-e702-409f-bbbb-645a39cd3350")
+		(property "Reference" "C8"
+			(at 118.11 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "UWT1V101MCL1GS"
+			(at 118.11 124.4599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UWT1V101MCL1GS:CAPAE830X1000N"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Nichicon"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.7mm"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Nichicon"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=eda"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "CAT.8100L"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=snap"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "UWT1V101MCL1GS"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=576928&manufacturer=Nichicon&part_name=UWT1V101MCL1GS&search_term=uwt1v101mcl1gs"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nCapacitor Aluminum Electrolytic, 1000h 6.3 (Dia.) x 7.7mm, 100uF, 35V, WT Series | Nichicon UWT1V101MCL1GS\n"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Nichicon"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "UWT1V101MCL1GS"
+			(at 114.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8932b863-1c8e-49a7-bc39-58b552d2890c")
+		)
+		(pin "1"
+			(uuid "dc03d1b6-9e92-4b77-b23f-bd72b995ba6b")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -16804,6 +18181,217 @@
 		)
 	)
 	(symbol
+		(lib_id "UWT1V101MCL1GS:UWT1V101MCL1GS")
+		(at 217.678 137.414 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75b838b7-68d8-43f6-bfcb-36ddf2c6a6f2")
+		(property "Reference" "C10"
+			(at 221.488 134.8739 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "UWT1V221MNL1GS"
+			(at 221.488 137.4139 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UWT1V221MNL1GS"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Nichicon"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.7mm"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Nichicon"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=eda"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "CAT.8100L"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=snap"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "UWT1V221MNL1GS"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=576928&manufacturer=Nichicon&part_name=UWT1V101MCL1GS&search_term=uwt1v101mcl1gs"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nCapacitor Aluminum Electrolytic, 1000h 6.3 (Dia.) x 7.7mm, 100uF, 35V, WT Series | Nichicon UWT1V101MCL1GS\n"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Nichicon"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PN" "UWT1V221MNL1GS"
+			(at 217.678 137.414 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bee4b66-5072-45c0-9390-9a07d6d80d47")
+		)
+		(pin "2"
+			(uuid "0a234c1c-7c23-4151-a0ad-ca9a07ba9f09")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "A750MV477M1VAAE018:A750MV477M1VAAE018")
 		(at 284.7817 34.2809 270)
 		(unit 1)
@@ -16870,6 +18458,72 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 114.3 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a336c10-0178-4854-9f45-e40f8f68ba78")
+		(property "Reference" "#PWR058"
+			(at 114.3 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 114.3 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 114.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "68a98500-7928-4ca9-833d-f46b6069fe2a")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -19512,7 +21166,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 186.69 140.97 180)
+		(at 192.532 135.382 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19521,7 +21175,7 @@
 		(fields_autoplaced yes)
 		(uuid "b725e4b2-9acf-4328-a18a-a1f947e4e2af")
 		(property "Reference" "#PWR08"
-			(at 186.69 137.16 0)
+			(at 192.532 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19530,7 +21184,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 186.69 146.05 0)
+			(at 192.532 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19538,7 +21192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 140.97 0)
+			(at 192.532 135.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19547,7 +21201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 140.97 0)
+			(at 192.532 135.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19556,7 +21210,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 140.97 0)
+			(at 192.532 135.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19808,6 +21462,73 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GNDREF_1")
+		(lib_id "power:GNDREF")
+		(at 148.59 276.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bfbad509-3de2-4b53-b2d5-6d57c04a4149")
+		(property "Reference" "#PWR054"
+			(at 148.59 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 148.59 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 148.59 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4719a9b8-20c4-4072-83e5-c4daa6d9ff64")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -20353,7 +22074,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 223.52 128.27 0)
+		(at 222.758 128.016 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20361,7 +22082,7 @@
 		(dnp no)
 		(uuid "ccf1cc7a-0fab-46b8-a9fd-1683dae04a62")
 		(property "Reference" "#PWR07"
-			(at 223.52 132.08 0)
+			(at 222.758 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20370,7 +22091,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 220.472 124.968 0)
+			(at 219.71 124.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20379,7 +22100,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 223.52 128.27 0)
+			(at 222.758 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20388,7 +22109,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 128.27 0)
+			(at 222.758 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20397,7 +22118,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 128.27 0)
+			(at 222.758 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21960,6 +23681,73 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 156.718 121.92 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eec83d80-2a44-43c6-ba6c-f620a865d3f4")
+		(property "Reference" "#PWR057"
+			(at 152.908 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 160.02 121.9199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 156.718 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.718 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 156.718 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a5e960c7-b854-40d6-a10c-4a62163ed726")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
