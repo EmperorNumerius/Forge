@@ -8,7 +8,7 @@
     <script src="openscad.js" type="module"></script>
 </head>
 <body>
-    <header>Header</header>
+    <header><h1 style="color:orangered">Forge<h1></header>
 
     <!-- MONACO EDITOR CODE -->
 	<div class="editor" id="container"></div>
@@ -20,7 +20,9 @@
     <button id="exportBtn">Export</button>
 
     <!-- STL VIEWER CODE -->
+    <div id="viewer" class="stl-viewer">
     <canvas id="bg"></canvas>
+    </div>
     <script type="module" src="stlViewer.js"></script>
 
 </body>
