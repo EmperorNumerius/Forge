@@ -44,11 +44,25 @@ canvas {
 .stl-viewer {
     width: 100%;
     height: 50vh;
-    border-bottom: 3px solid white;
+    /*position: relative;*/
 }
 .container {
     display: flex; /* This enables flex layout */
     align-items: start; /* Align items at the start of the container */
     height:100%;
     width: 100%;
+}
+
+.view-buttons {
+    
+    justify-content: space-between;
+    width: 10%;
+    padding: 10px;
+    background-color: #0E0E0E;
+    color: white;
+    
+    position: absolute;
+    margin-top: 50vh;
+    
+    
 }

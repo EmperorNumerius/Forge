@@ -51,7 +51,7 @@ scene.add( gridHelper );
 
 // shadowplane
 var planeMaterial = new THREE.ShadowMaterial();
-planeMaterial.opacity = .25;
+planeMaterial.opacity = .5; // darkness of the shadow
 var newPlaneGeometry = new THREE.PlaneGeometry( 100, 100 );
 var planeMesh = new THREE.Mesh( newPlaneGeometry, planeMaterial );
 planeMesh.receiveShadow = true;
