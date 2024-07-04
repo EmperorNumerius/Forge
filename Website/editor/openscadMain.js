@@ -60,19 +60,21 @@ export async function returnSTL(codeInput) {
 
         if (stderrMessages.length > 0) {
             console.error("OpenSCAD stderr output:", stderrMessages.join("\n"));
+            
         }
-
+        
         return link.href;
     } catch (error) {
         console.error("Error rendering model:", error);
         if (stderrMessages.length > 0) {
             console.error("Additional details:", stderrMessages.join("\n"));
+            document.getElementById("console").innerHTML = stderrMessages.join("\n");
         }
         let userFriendlyMessage = "An error occurred while rendering the model.";
         if (error.errno === 44) { // Example of handling a specific error code
             userFriendlyMessage += " This is a file system error.";
         }
-        window.alert(userFriendlyMessage);
+           
         return "fail";
     }
 }

@@ -5,6 +5,7 @@ html, body {
 }
 body {
     background-color: #151515;
+    font-family: "IBM Plex Mono", monospace;
 }
 header {
     position: fixed;
@@ -64,5 +65,20 @@ canvas {
     position: absolute;
     margin-top: 50vh;
     
+    
+}
+.console {
+    position: absolute;
+    color: white;
+    background-color: black;
+    margin-top: 53vh;
+    margin-left: 10px;
+    width: 40vw;
+    height: 35vh;
+}
+
+.console-text {
+    margin-left: 10px;
+    margin-top: 15px
     
 }
