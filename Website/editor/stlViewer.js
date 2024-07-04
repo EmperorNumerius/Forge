@@ -43,7 +43,7 @@ directionalLight2.position.set(0, -10, -10);
 scene.add(directionalLight2);
 
 // background
-scene.background = new THREE.Color(0xaaaaaa);
+scene.background = new THREE.Color(0x151515);
 
 // guides
 const gridHelper = new THREE.GridHelper( 10, 10 );
@@ -66,7 +66,7 @@ let readyToRender = null;
 function animate() {
 	//controls.update();
     renderSTL(readyToRender);
-    if (divWidth !== myDiv.clientWidth || divHeight !== myDiv.clientHeight) {
+    /*if (divWidth !== myDiv.clientWidth || divHeight !== myDiv.clientHeight) {
         // Get the dimensions of the div
         const divWidth = myDiv.clientWidth;
         const divHeight = myDiv.clientHeight;
@@ -77,7 +77,7 @@ function animate() {
         // Update the camera's aspect ratio to match the new size
         camera.aspect = divWidth / divHeight;
         camera.updateProjectionMatrix();
-    }
+    }*/
 	renderer.render( scene, camera );
 
 }

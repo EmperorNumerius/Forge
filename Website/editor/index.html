@@ -9,19 +9,22 @@
 </head>
 <body>
     <header><h1 style="color:orangered">Forge<h1></header>
-
-    <!-- MONACO EDITOR CODE -->
-	<div class="editor" id="container"></div>
-	<script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
-	<script src="monacoEditorMain.js"></script>
-    <script src="editorMain.js" type="module"></script>
-
-    <button id="renderBtn">Render</button>
-    <button id="exportBtn">Export</button>
-
-    <!-- STL VIEWER CODE -->
-    <div id="viewer" class="stl-viewer">
-    <canvas id="bg"></canvas>
+    
+    <div class="container">
+        <!-- MONACO EDITOR CODE -->
+    	<div class="editor" id="container"></div>
+    	<script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
+    	<script src="monacoEditorMain.js"></script>
+        <script src="editorMain.js" type="module"></script>
+<!--
+        <button id="renderBtn">Render</button>
+        <button id="exportBtn">Export</button>
+-->
+        <!-- STL VIEWER CODE -->
+        <div id="viewer" class="stl-viewer">
+        <canvas id="bg"></canvas>
+        <!--<iframe src="documentation.html" width="100%" height="600px" title="Documentation"></iframe>-->
+        </div>
     </div>
     <script type="module" src="stlViewer.js"></script>
 
