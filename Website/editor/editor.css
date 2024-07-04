@@ -21,7 +21,6 @@ header {
     padding: 0 20px;
 }
 .editor {
-    /*box-sizing: content-box;*/
     box-sizing: border-box;
     margin-top: 3.5%;
     margin-left: 20px;
