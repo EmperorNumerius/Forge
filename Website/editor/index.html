@@ -15,15 +15,15 @@
 <body>
     <header><h1 style="color:orangered">Forge<h1></header>
 
-    <table class="layout">
+    <table class="layout" border="1"> <!-- Added border for visual clarity -->
     <tr>
-    <td>
-        <!-- MONACO EDITOR CODE -->
+    <td rowspan="2">
+    <!-- MONACO EDITOR CODE -->
     <div class="editor" id="container"></div>
     <script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
     <script src="monacoEditorMain.js"></script>
     <script src="editorMain.js" type="module"></script>
-    </td>
+    </td> <!-- rowspan="2" makes this cell span two rows -->
     <td>
     <!-- STL VIEWER CODE -->
     <div id="viewer" class="stl-viewer">
@@ -31,18 +31,14 @@
     </td>
     </tr>
     <tr>
-        <!-- 
     <td>
-    <button style="margin-left:20px" class="view-buttons" id="renderBtn">Render</button>
-    <button style="margin-left: 12%" class="view-buttons" id="exportBtn">Export</button>
-    </td>-->
-    <td>
+    <!-- CONSOLE CODE -->
     <div class="console">
     <p class="console-text" id="console"></p>
-    </div>
     </td>
     </tr>
     </table>
+
    
 
     <script type="module" src="stlViewer.js"></script>
