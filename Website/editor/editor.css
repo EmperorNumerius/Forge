@@ -4,7 +4,8 @@ html, body {
     margin: 0; /* Removes default margin */
 }
 body {
-    background-color: #151515;
+    /*background-color: #151515;*/
+    background-color: #2D2D30;
     font-family: "IBM Plex Mono", monospace;
 }
 header {
@@ -26,6 +27,7 @@ header {
     margin-left: 20px;
     width: 140vw;
     height: 95%;
+    margin-right: 20px;
     
 }
 
@@ -72,7 +74,8 @@ canvas {
     background-color: black;
     margin-top: 53vh;
     margin-left: 10px;
-    width: 40vw;
+    width: 400px;
+
     height: 35vh;
 }
 
