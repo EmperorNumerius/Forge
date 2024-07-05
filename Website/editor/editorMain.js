@@ -3,6 +3,7 @@ import { returnSTL } from './openscadMain.js';
 //import { renderSTL } from './stlViewer.js';
 import { addSTLToQueue} from './stlViewer.js';
 
+document.getElementById("console").innerHTML = "No errors yet!";
 
 async function renderFunction() {
     console.log("Render function is called");
