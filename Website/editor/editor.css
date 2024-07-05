@@ -44,7 +44,7 @@ canvas {
 }
 
 .stl-viewer {
-    width: 100%;
+    width: 50%;
     height: 50vh;
     /*position: relative;*/
 }
