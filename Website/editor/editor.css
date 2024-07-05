@@ -22,11 +22,13 @@ header {
     padding: 0 20px;
 } 
 .editor {
+    float: left;
     box-sizing: border-box;
     margin-top: 3.5%;
     margin-left: 20px;
-    width: 140vw;
-    height: 95%;
+    /*width: 140vw;*/
+    height: 800px;
+    width: 500px;
     margin-right: 20px;
     
 }
@@ -44,9 +46,8 @@ canvas {
 }
 
 .stl-viewer {
-    width: 50%;
-    height: 50vh;
-    /*position: relative;*/
+    height: 500px;
+    width: 50vw;
 }
 .container {
     display: flex; /* This enables flex layout */
@@ -57,30 +58,39 @@ canvas {
 
 .view-buttons {
     
-    justify-content: space-between;
-    width: 10%;
+    
+    width: 30%;
     padding: 10px;
     background-color: #0E0E0E;
     color: white;
     
-    position: absolute;
-    margin-top: 50vh;
+    /*position: absolute;
+    margin-top: 50vh;*/
     
     
 }
 .console {
-    position: absolute;
+    /*position: absolute;*/
     color: white;
     background-color: black;
-    margin-top: 53vh;
+    /*margin-top: 53vh;
     margin-left: 10px;
     width: 400px;
 
-    height: 35vh;
+    height: 35vh;*/
 }
 
 .console-text {
     margin-left: 10px;
     margin-top: 15px
     
+}
+.table {
+    width: 100%; /* Adjust width to 100% of the container */
+    height: auto; /* Adjust height automatically based on content */
+    border-collapse: collapse; /* Optional: removes space between cells */
+}
+.table td {
+    width: 50%; /* Example: Makes each cell take up 50% of the table's width */
+    /* Adjust height or leave it to auto */
 }
