@@ -12,7 +12,7 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    height: 5%;
+    height: 5.5%;
     background-color: #0E0E0E;
     color: white;
     display: flex;
@@ -23,21 +23,26 @@ header {
 .editor {
     float: left;
     box-sizing: border-box;
-    margin-top: 3.5%;
-    margin-left: 20px;
+    
+    
     /*width: 140vw;*/
-    height: 800px;
-    width: 500px;
+    height: 100%;
+    width: 100%;
     margin-right: 20px;
     
 }
 canvas {
     height: 1px;
-    width: 1px;
-}
+    width: 100%;
+} 
 .stl-viewer {
-    height: 500px;
-    width: 50vw;
+    height: 60vh;
+    width: 100%;
+    /*background-color: aqua; #151515;*/
+    background-color: #151515;
+    float: right;
+    margin-bottom: 20px;
+    
 }
 .view-buttons {
     width: 30%;
@@ -49,6 +54,7 @@ canvas {
     color: white;
     background-color: black;
     height: 30vh;
+    padding-top: 10px;
 
 }
 .console-text {
@@ -60,6 +66,7 @@ canvas {
     width: 100%; 
     height: 100%; 
     border-collapse: collapse; /* Optional: removes space between cells */
+    table-layout: fixed;
 }
 .table td {
     width: 50%;
