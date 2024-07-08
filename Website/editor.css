@@ -2,10 +2,14 @@ html, body {
     height: 95%;
     margin: 0; /* Removes default margin */
 }
+.medievalsharp-regular {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+}  
 body {
     /*background-color: #151515;*/
     background-color: #2D2D30;
-    font-family: "IBM Plex Mono", monospace;
 }
 header {
     position: fixed;
