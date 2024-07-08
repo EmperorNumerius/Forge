@@ -45,7 +45,7 @@ canvas {
     
 }
 .view-buttons {
-    width: 30%;
+    width: 49%;
     padding: 10px;
     background-color: #0E0E0E;
     color: white;
@@ -73,4 +73,20 @@ canvas {
 }
 table tr {
     height: 50%;
+}
+.logo {
+    height: 80px;
+    width: 7%;
+
+    display: flex; /* This will lay out the .logo's children (the <h1> and <img>) in a row */
+    align-items: center; /* This will vertically center the children in the .logo container */
+    justify-content: start; /* This aligns the children to the start of the .logo container */
+    
+}
+.btn-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    width: 10%;
+    margin-right: 41%;
 }

@@ -68,7 +68,7 @@ export async function returnSTL(codeInput) {
         console.error("Error rendering model:", error);
         if (stderrMessages.length > 0) {
             console.error("Additional details:", stderrMessages.join("\n"));
-            document.getElementById("console").innerHTML = stderrMessages.join("\n");
+            log(stderrMessages.join("\n"));
         }
         let userFriendlyMessage = "An error occurred while rendering the model.";
         if (error.errno === 44) { // Example of handling a specific error code
@@ -77,4 +77,18 @@ export async function returnSTL(codeInput) {
            
         return "fail";
     }
+}
+function log(error) {
+    // example:
+    /*
+    Could not initialize localization. ERROR: Parser error: syntax error in file input.scad, line 3 Can't parse file '/input.scad'!
+    */
+    let errorBuffer = error;
+    errorBuffer = errorBuffer.replace(/line (\d+)/, function(match, lineNumber) {
+        let newLineNumber = parseInt(lineNumber, 10) - 1;
+        return "line " + newLineNumber;
+    });
+
+
+    document.getElementById("console").innerHTML = errorBuffer;
 }

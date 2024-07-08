@@ -13,7 +13,19 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header><h1 style="color:orangered">Forge<h1></header>
+    <header>
+
+        <div class="logo">
+        <h1 style="color:#F95E1D; width: 200px; margin:0;">Forge<h1>
+        <img style="height:110%; width:110%;" src="forgeLogo.png" alt="Forge Logo">
+        </div>
+
+        <div class="btn-div">
+        <button class="view-buttons" id="renderBtn">Render</button>
+        <button style="margin-left: 1%" class="view-buttons" id="exportBtn">Export</button>
+        </div>
+
+    </header>
 
     <table class="layout"> <!-- Added border for visual clarity border="1" -->
     <tr>
@@ -39,9 +51,6 @@
     </tr>
     </table>
 
-   
-
     <script type="module" src="stlViewer.js"></script>
-
 </body>
 </html>
