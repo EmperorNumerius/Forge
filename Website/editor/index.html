@@ -13,29 +13,44 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header><h1 style="color:orangered">Forge<h1></header>
-    
-    <div class="container">
-        <!-- MONACO EDITOR CODE -->
-    	<div class="editor" id="container"></div>
-    	<script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
-    	<script src="monacoEditorMain.js"></script>
-        <script src="editorMain.js" type="module"></script>
+    <header>
 
-        
+        <div class="logo">
+        <h1 style="color:#F95E1D; width: 200px; margin:0;">Forge<h1>
+        <img style="height:110%; width:110%;" src="forgeLogo.png" alt="Forge Logo">
+        </div>
 
-        <!-- STL VIEWER CODE -->
-        <div id="viewer" class="stl-viewer">
-        <canvas id="bg"></canvas>
-        <!--<iframe src="documentation.html" width="100%" height="600px" title="Documentation"></iframe>-->
+        <div class="btn-div">
         <button class="view-buttons" id="renderBtn">Render</button>
-        <button style="margin-left: 12%" class="view-buttons" id="exportBtn">Export</button>
-        <div class="console">
-            <p class="console-text" id="console"></p>
+        <button style="margin-left: 1%" class="view-buttons" id="exportBtn">Export</button>
         </div>
-        </div>
-    </div>
-    <script type="module" src="stlViewer.js"></script>
 
+    </header>
+
+    <table class="layout"> <!-- Added border for visual clarity border="1" -->
+    <tr>
+    <td rowspan="2">
+    <!-- MONACO EDITOR CODE -->
+    <div class="editor" id="container"></div>
+    <script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
+    <script src="monacoEditorMain.js"></script>
+    <script src="editorMain.js" type="module"></script>
+    </td> <!-- rowspan="2" makes this cell span two rows -->
+    <td>
+    <!-- STL VIEWER CODE -->
+    <div id="viewer" class="stl-viewer">
+    <canvas id="bg"></canvas>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <!-- CONSOLE CODE -->
+    <div class="console">
+    <p class="console-text" id="console"></p>
+    </td>
+    </tr>
+    </table>
+
+    <script type="module" src="stlViewer.js"></script>
 </body>
 </html>
