@@ -17,10 +17,12 @@ require(['vs/editor/editor.main'], function () {
 		}
 	});
 	// Define a new theme that constains only rules that match this language
-	monaco.editor.defineTheme('myCoolTheme', {
-		colors: {},
-		base: 'vs',
-		inherit: false,
+	monaco.editor.defineTheme('editorTheme', {
+		colors: {
+			'editor.background': '#151515',
+		},
+		base: 'vs-dark',
+		inherit: true,
 		rules: [
 			{ token: 'custom-info', foreground: '808080' },
 			{ token: 'custom-error', foreground: 'ff0000', fontStyle: 'bold' },
@@ -29,9 +31,9 @@ require(['vs/editor/editor.main'], function () {
 		]
 	});
 	var editor = monaco.editor.create(document.getElementById('container'), {
-		theme: 'myCoolTheme',
+		theme: 'editorTheme',
 		value: getCode(),
-		language: 'myCustomLanguage'
+		language: 'c'
 	});
 });
 function getCode() {

@@ -34,12 +34,19 @@ export async function exportSTL(codeInput) {
 
 export async function returnSTL(codeInput) {
     let filename = "tetrahedron.stl";
+    let stderrMessages = []; // Initialize an array to store stderr messages
+
     try {
-        // Await the asynchronous initialization of OpenSCAD
-        const instance = await OpenSCAD({noInitialRun: true});
+        const instance = await OpenSCAD({
+            noInitialRun: true,
+            printErr: function(message) { // Custom function to capture stderr messages
+                stderrMessages.push(message);
+            }
+        });
+
         if (!instance || !instance.FS) {
             console.error("Failed to initialize OpenSCAD or FS is not available");
-            return;
+            return "Initialization failed";
         }
         instance.FS.writeFile("/input.scad", codeInput);
 
@@ -50,9 +57,38 @@ export async function returnSTL(codeInput) {
         link.href = URL.createObjectURL(new Blob([output], { type: "application/octet-stream" }));
         link.download = filename;
         console.log(link.href);
+
+        if (stderrMessages.length > 0) {
+            console.error("OpenSCAD stderr output:", stderrMessages.join("\n"));
+            
+        }
+        
         return link.href;
     } catch (error) {
-        console.error("Error exporting STL:", error);
+        console.error("Error rendering model:", error);
+        if (stderrMessages.length > 0) {
+            console.error("Additional details:", stderrMessages.join("\n"));
+            log(stderrMessages.join("\n"));
+        }
+        let userFriendlyMessage = "An error occurred while rendering the model.";
+        if (error.errno === 44) { // Example of handling a specific error code
+            userFriendlyMessage += " This is a file system error.";
+        }
+           
         return "fail";
     }
+}
+function log(error) {
+    // example:
+    /*
+    Could not initialize localization. ERROR: Parser error: syntax error in file input.scad, line 3 Can't parse file '/input.scad'!
+    */
+    let errorBuffer = error;
+    errorBuffer = errorBuffer.replace(/line (\d+)/, function(match, lineNumber) {
+        let newLineNumber = parseInt(lineNumber, 10) - 1;
+        return "line " + newLineNumber;
+    });
+
+
+    document.getElementById("console").innerHTML = errorBuffer;
 }
