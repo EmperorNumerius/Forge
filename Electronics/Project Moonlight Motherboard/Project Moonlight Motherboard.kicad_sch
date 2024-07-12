@@ -11638,7 +11638,7 @@
 	)
 	(global_label "USB_DP"
 		(shape input)
-		(at 81.28 257.81 180)
+		(at 113.03 251.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11648,7 +11648,7 @@
 		)
 		(uuid "43cb8606-d5d6-4051-a78f-62f43e778f16")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.9772 257.81 0)
+			(at 102.7272 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11786,6 +11786,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_DM"
+		(shape input)
+		(at 148.59 254 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59004a33-4283-4b55-99cd-d095f3284ecc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.0742 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12802,6 +12824,28 @@
 			)
 		)
 	)
+	(global_label "USB_DP"
+		(shape input)
+		(at 148.59 251.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f72a3f08-af9c-4790-b710-3db84b7d1afc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.8928 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BED"
 		(shape input)
 		(at 85.09 91.44 0)
@@ -12826,7 +12870,7 @@
 	)
 	(global_label "USB_DM"
 		(shape input)
-		(at 81.28 261.62 180)
+		(at 113.03 254 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12836,7 +12880,7 @@
 		)
 		(uuid "f833e5dc-2f66-4302-9b66-29be04ade640")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.7958 261.62 0)
+			(at 102.5458 254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19858,6 +19902,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 192.532 135.382 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8cd0e238-3a89-48ad-b6c2-f5d983468a4c")
+		(property "Reference" "#PWR08"
+			(at 192.532 131.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 192.532 140.716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 192.532 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 192.532 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 192.532 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3b39ab0-79c7-439f-917b-4df059f9c194")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDREF")
 		(at 327.941 182.0929 0)
 		(unit 1)
@@ -21159,72 +21269,6 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR044")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 192.532 135.382 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b725e4b2-9acf-4328-a18a-a1f947e4e2af")
-		(property "Reference" "#PWR08"
-			(at 192.532 131.572 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 192.532 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 192.532 135.382 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 192.532 135.382 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 192.532 135.382 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2b61f254-05d5-4d2d-adbf-549231c00b1e")
-		)
-		(instances
-			(project "Project Moonlight Motherboard"
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
