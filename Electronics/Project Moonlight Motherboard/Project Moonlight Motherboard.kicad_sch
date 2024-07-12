@@ -1208,6 +1208,341 @@
 				)
 			)
 		)
+		(symbol "B3B-XH-A:B3B-XH-A"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -2.54 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "B3B-XH-A"
+				(at -2.54 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "B3B-XH-A:JST_B3B-XH-A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "JST Sales"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "7.00 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/B3B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "7/4/21"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "B3B-XH-A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\nConnector Header Through Hole 3 position 0.098 (2.50mm)\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "JST Sales America Inc."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "B3B-XH-A_0_0"
+				(rectangle
+					(start -3.175 -2.8575)
+					(end -1.5875 -2.2225)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -3.175 -0.3175)
+					(end -1.5875 0.3175)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -3.175 2.2225)
+					(end -1.5875 2.8575)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 -3.81) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -2.54 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -5.08) (xy 3.81 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -5.08) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 5.08) (xy -2.54 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "B4B-XH-A:B4B-XH-A"
 			(pin_names
 				(offset 1.016)
@@ -3526,6 +3861,296 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LED:WS2812"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 5.08 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right bottom)
+				)
+			)
+			(property "Value" "WS2812"
+				(at 1.27 -5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm"
+				(at 1.27 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812.pdf"
+				(at 2.54 -9.525 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "RGB LED with integrated controller"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "RGB LED NeoPixel addressable"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED*WS2812*PLCC*5.0x5.0mm*P1.6mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "WS2812_0_0"
+				(text "RGB"
+					(at 2.286 -4.191 0)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(symbol "WS2812_0_1"
+				(polyline
+					(pts
+						(xy 1.27 -3.556) (xy 1.778 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.778 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.699 -3.556) (xy 2.667 -3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -2.54) (xy 1.27 -3.556) (xy 1.27 -3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.524) (xy 1.27 -2.54) (xy 1.27 -2.032)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.683 -1.016) (xy 3.683 -3.556) (xy 3.683 -4.064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.699 -1.524) (xy 2.667 -1.524) (xy 3.683 -3.556) (xy 4.699 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 5.08)
+					(end -5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "WS2812_1_1"
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "DOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 5.08 2.54 180)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 7.62 270)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "VSS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9255,6 +9880,12 @@
 		)
 	)
 	(junction
+		(at 141.986 182.372)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01cad545-af95-4c17-989f-c8cef5264f1b")
+	)
+	(junction
 		(at 52.07 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9265,6 +9896,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "132185a6-0a3f-4732-89ec-d4d3d98d6f43")
+	)
+	(junction
+		(at 139.446 167.132)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1cb55be3-3833-4b38-bea9-01e3f328f93e")
 	)
 	(junction
 		(at 372.999 68.072)
@@ -9301,6 +9938,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38ba8d46-c20c-4f70-a9ff-146c94ef2ae7")
+	)
+	(junction
+		(at 118.364 167.132)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a262823-2b53-4abc-9bc2-b595d92ebfbc")
 	)
 	(junction
 		(at 327.941 179.5529)
@@ -9391,6 +10034,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0138059-49f6-43cf-b293-183a8af3ca0e")
+	)
+	(junction
+		(at 160.528 167.132)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae65e9ec-1bcf-4daa-bd94-d6e8dbb1d7e5")
 	)
 	(junction
 		(at 269.7178 159.8709)
@@ -9524,6 +10173,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.904 182.372) (xy 141.986 182.372)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aede289-20cc-44d4-a62b-2c0d56dfe44c")
+	)
+	(wire
+		(pts
 			(xy 374.904 42.672) (xy 374.904 45.847)
 		)
 		(stroke
@@ -9541,6 +10200,26 @@
 			(type default)
 		)
 		(uuid "0c460b8d-89e7-4a8e-9b61-ea047b1dc1d7")
+	)
+	(wire
+		(pts
+			(xy 203.708 181.356) (xy 203.708 184.912)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d2bbbe6-0e1f-4bd7-9318-5abe46cfc723")
+	)
+	(wire
+		(pts
+			(xy 160.528 167.132) (xy 163.068 167.132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1632ce2a-16d2-4584-be34-3eae59c72d91")
 	)
 	(wire
 		(pts
@@ -9584,6 +10263,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.364 163.576) (xy 118.364 167.132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "284e860a-e151-4f07-8fdf-9a3961e2d31f")
+	)
+	(wire
+		(pts
 			(xy 121.412 129.286) (xy 134.112 129.286)
 		)
 		(stroke
@@ -9621,6 +10310,16 @@
 			(type default)
 		)
 		(uuid "2ef59a29-f726-4bf3-99a5-77575b5d4fa2")
+	)
+	(wire
+		(pts
+			(xy 139.446 163.576) (xy 139.446 167.132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "311250fe-0d18-4265-8416-addb5a4624df")
 	)
 	(wire
 		(pts
@@ -9681,6 +10380,16 @@
 			(type default)
 		)
 		(uuid "385c25e0-f2e1-4025-9998-0af225e5c168")
+	)
+	(wire
+		(pts
+			(xy 141.986 182.372) (xy 163.068 182.372)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aaf0f5e-359c-48b2-a6db-9e4230600698")
 	)
 	(wire
 		(pts
@@ -9854,6 +10563,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.524 174.752) (xy 134.366 174.752)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bb9ae25-eb41-436f-b285-8f9bcc85490c")
+	)
+	(wire
+		(pts
 			(xy 374.904 85.852) (xy 382.524 85.852)
 		)
 		(stroke
@@ -9931,6 +10650,16 @@
 			(type default)
 		)
 		(uuid "6924e9da-f390-41ff-bb97-15d619de7076")
+	)
+	(wire
+		(pts
+			(xy 149.606 174.752) (xy 155.448 174.752)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "694d4670-296e-4d9a-bcfd-81ac439eccdb")
 	)
 	(wire
 		(pts
@@ -10141,6 +10870,16 @@
 			(type default)
 		)
 		(uuid "85504d19-7774-42fc-9192-ec3213253ee8")
+	)
+	(wire
+		(pts
+			(xy 206.248 181.356) (xy 206.248 184.912)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "877d0dee-fd39-4723-9fed-3be66eb98794")
 	)
 	(wire
 		(pts
@@ -10361,6 +11100,26 @@
 			(type default)
 		)
 		(uuid "a94eadfd-3509-4e27-be39-9810e3fd694f")
+	)
+	(wire
+		(pts
+			(xy 139.446 167.132) (xy 141.986 167.132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae174e64-7ccc-4665-b96d-3ea1a28094f6")
+	)
+	(wire
+		(pts
+			(xy 208.788 181.356) (xy 208.788 184.912)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6710290-bd76-4c27-a6fc-48d9942b9e7d")
 	)
 	(wire
 		(pts
@@ -10684,6 +11443,16 @@
 	)
 	(wire
 		(pts
+			(xy 141.986 186.436) (xy 141.986 182.372)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5713368-f9a1-4d73-b04f-8af39c805577")
+	)
+	(wire
+		(pts
 			(xy 346.7518 232.2313) (xy 348.6568 232.2313)
 		)
 		(stroke
@@ -10764,6 +11533,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.364 167.132) (xy 120.904 167.132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f598ebc1-a6aa-4a78-8449-d11596af5c9c")
+	)
+	(wire
+		(pts
 			(xy 399.9505 180.0407) (xy 399.9505 174.9607)
 		)
 		(stroke
@@ -10811,6 +11590,16 @@
 			(type default)
 		)
 		(uuid "fb956b2a-b8e2-4815-aaa6-8ec2982d54aa")
+	)
+	(wire
+		(pts
+			(xy 160.528 163.576) (xy 160.528 167.132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe8e289d-323f-4151-8e28-a2ce6667f576")
 	)
 	(rectangle
 		(start 86.995 231.775)
@@ -11834,6 +12623,28 @@
 			)
 		)
 	)
+	(global_label "NEOPIXEL_DOUT"
+		(shape input)
+		(at 170.688 174.752 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5bff63ac-0cb6-478a-b73a-de04941f0432")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 188.6108 174.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "T0"
 		(shape input)
 		(at 274.1628 159.8709 0)
@@ -12450,6 +13261,28 @@
 			)
 		)
 	)
+	(global_label "NEOPIXEL_DIN"
+		(shape input)
+		(at 85.09 203.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc15f404-24f7-4984-a148-d713f1472519")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.3195 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DIR_M4"
 		(shape input)
 		(at 31.75 106.68 180)
@@ -12468,6 +13301,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NEOPIXEL_DOUT"
+		(shape input)
+		(at 206.248 181.356 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bd0b36cf-e3d3-4d17-b44c-6a757b54c8ec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 206.248 163.4332 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12727,6 +13582,28 @@
 		(uuid "dd33f940-f1dd-4a76-add7-5175562ad621")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 236.9232 46.9809 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NEOPIXEL_DIN"
+		(shape input)
+		(at 113.284 174.752 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1d61d0e-e5db-4841-ad05-3156d3834fbb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.0545 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13276,6 +14153,266 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "B3B-XH-A:B3B-XH-A")
+		(at 206.248 192.532 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "12c82231-b4d4-474e-b773-0d88306f6aeb")
+		(property "Reference" "RGB"
+			(at 212.09 191.2619 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B3B-XH-A"
+			(at 212.09 193.8019 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "B3B-XH-A:JST_B3B-XH-A"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "JST Sales"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "7.00 mm"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/B3B-XH-A/JST+Sales+America+Inc./view-part/?ref=eda"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "7/4/21"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B3B-XH-A/JST+Sales+America+Inc./view-part/?ref=snap"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "B3B-XH-A"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nConnector Header Through Hole 3 position 0.098 (2.50mm)\n"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "JST Sales America Inc."
+			(at 206.248 192.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e5f66c7a-180b-400a-bfda-51b21e5ba10e")
+		)
+		(pin "3"
+			(uuid "eb6886fe-170a-459d-a7f4-50d53de63bd4")
+		)
+		(pin "2"
+			(uuid "23f3bf57-b8ac-4dd1-a855-9c34c2f608b8")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "RGB")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 203.708 181.356 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "141263c2-2ce0-4df5-84ff-474a4f275c08")
+		(property "Reference" "#PWR063"
+			(at 203.708 185.166 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 203.708 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 203.708 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.708 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 203.708 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73227e1e-2927-4cd6-933e-43f80c0d93d4")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -16954,6 +18091,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 160.528 163.576 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6040ef90-58b1-485a-b8b2-3560464d0905")
+		(property "Reference" "#PWR061"
+			(at 160.528 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 160.528 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.528 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.528 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 160.528 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84bc0efc-93fc-4254-8ddd-f8b39c2b0a6b")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GNDREF_1")
 		(lib_id "power:GNDREF")
 		(at 148.59 271.78 90)
@@ -18508,6 +19711,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 139.446 163.576 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "790026f7-5a15-49e3-ab5b-38d1362a209b")
+		(property "Reference" "#PWR060"
+			(at 139.446 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 139.446 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.446 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.446 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 139.446 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90914b39-67b3-4ae1-811c-fd381cca8e71")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 114.3 119.38 0)
 		(unit 1)
@@ -19031,6 +20300,88 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:WS2812")
+		(at 120.904 174.752 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "812a0777-d1b3-46a9-b1b3-842525a81fe0")
+		(property "Reference" "D1"
+			(at 130.81 168.4334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812"
+			(at 130.81 170.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm"
+			(at 122.174 182.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812.pdf"
+			(at 123.444 184.277 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 120.904 174.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29b13dd3-9c8a-4763-b0c8-4c5fea676f09")
+		)
+		(pin "5"
+			(uuid "5cebe193-8af1-421a-b8ea-6c044e900f8b")
+		)
+		(pin "3"
+			(uuid "7bff9563-cc8e-4586-a047-6da970dce27a")
+		)
+		(pin "6"
+			(uuid "3da0d3b7-bdfb-4f85-b0b3-5ded1bdcf969")
+		)
+		(pin "2"
+			(uuid "fc166620-fc7e-49c7-a573-21bca9feb628")
+		)
+		(pin "4"
+			(uuid "4cc5cc98-fb3c-4a2f-8543-f3501981d96b")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -20034,6 +21385,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 141.986 186.436 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d491ddb-703a-4a80-b208-c67ec27ef1da")
+		(property "Reference" "#PWR062"
+			(at 141.986 192.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 140.716 186.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 141.986 186.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 141.986 186.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 141.986 186.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a7669d8-fd4e-4e21-b817-6ea768dce541")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Fuse_Small")
 		(at 281.94 251.46 0)
 		(unit 1)
@@ -20629,6 +22046,88 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:WS2812")
+		(at 141.986 174.752 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa0b716d-e61a-4767-b5bc-92d89571dd02")
+		(property "Reference" "D2"
+			(at 151.892 168.4334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812"
+			(at 151.892 170.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm"
+			(at 143.256 182.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812.pdf"
+			(at 144.526 184.277 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 141.986 174.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ac00797-5b08-45e7-8bea-f7304e6c9e38")
+		)
+		(pin "5"
+			(uuid "aab5cc5c-cf3b-4bce-8ffe-12b82f120260")
+		)
+		(pin "3"
+			(uuid "9c64dcf5-d536-468d-a11d-5c80ef94c966")
+		)
+		(pin "6"
+			(uuid "d9a77538-4031-4cd9-bb7a-159d68e70f53")
+		)
+		(pin "2"
+			(uuid "912bcb43-3dc7-40ea-adc6-3bc0d19f3903")
+		)
+		(pin "4"
+			(uuid "f43ef5ab-0a74-44d8-8790-762e9d90e929")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -21269,6 +22768,72 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 118.364 163.576 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1f004fc-dd8e-49b7-82c7-d79237993cc2")
+		(property "Reference" "#PWR059"
+			(at 118.364 167.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 118.364 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.364 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.364 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 118.364 163.576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c2e35c28-ce56-4cf1-8db3-e87e5572b29f")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -22633,6 +24198,74 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GNDREF_2")
+		(lib_id "power:GNDREF")
+		(at 208.788 181.356 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8352491-a1ba-4a1a-a57a-dd78f6afc9b4")
+		(property "Reference" "#PWR064"
+			(at 215.138 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 213.106 181.3559 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 208.788 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 208.788 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 208.788 181.356 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d889919e-4b27-4eb4-b7f4-eb2d2110c990")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -24384,6 +26017,88 @@
 			(project "Project Moonlight Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:WS2812")
+		(at 163.068 174.752 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f94b85be-8b19-4500-94a1-216049eaa684")
+		(property "Reference" "D3"
+			(at 172.974 168.4334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812"
+			(at 172.974 170.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm"
+			(at 164.338 182.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812.pdf"
+			(at 165.608 184.277 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 163.068 174.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6a35b79-4f46-438c-9374-24e111c8d1a8")
+		)
+		(pin "5"
+			(uuid "db552061-d5e8-4424-b0f0-8987a166aa30")
+		)
+		(pin "3"
+			(uuid "e3c72300-ccdb-4aa1-b9da-121d76e400e9")
+		)
+		(pin "6"
+			(uuid "4e0e7b9f-e87b-430f-bc95-59e7330f659d")
+		)
+		(pin "2"
+			(uuid "80e8ce37-ab4b-4e99-9eed-f52a2f13c333")
+		)
+		(pin "4"
+			(uuid "b9abd463-7b76-45da-a737-421d021515d5")
+		)
+		(instances
+			(project "Project Moonlight Motherboard"
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "D3")
 					(unit 1)
 				)
 			)
