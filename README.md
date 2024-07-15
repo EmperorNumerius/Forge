@@ -1,8 +1,8 @@
 # Forge, Hack Club's 3D Printer 
 
-# This is an upcoming Hack Club You Ship, We Ship (YSWS) program. 
-# Things are still under heavy development as the Forge Editor and the Forge Printer are WIP (Work in Progress) projects
-# If you have any questions about the Development of Forge (and are a teen under 18), feel free to visit #forge-dev on the [Hack Club Slack!](https://hackclub.com/arcade/?param=slack)
+## This is an upcoming Hack Club You Ship, We Ship (YSWS) program. 
+## Things are still under heavy development as the Forge Editor and the Forge Printer are WIP (Work in Progress) projects
+## If you have any questions about the Development of Forge (and are a teen under 18), feel free to visit #forge-dev on the [Hack Club Slack!](https://hackclub.com/arcade/?param=slack)
 
 **[Landing Page](https://forge.hackclub.com)** | **[Forge Editor](https://forge.hackclub.com/editor)** | **[Gallery](https://forge.hackclub.com/gallery)**
 
