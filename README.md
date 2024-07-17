@@ -21,9 +21,10 @@ Building a model in the Forge editor is easy to learn, hard to master. You need 
 
 # What is Forge exactly?
 
-The Forge YSWS Project can be considered 2 major sections
+The Forge YSWS Project can be considered 2 major sections:
 * Forge Printer - the fixed-bed cantilevered 3D Printer 
-* Forge Editor - the OpenSCAD-based modeling software and slicer designed for the Forge Printer
+* Forge Editor - the OpenSCAD-based online modeling software and slicer designed for the Forge Printer
+    - Note, exporting to STLs is an option if you want to test your model on another 3D printer before you submit an PR.  
 
 # About the Forge Printer
 
@@ -60,52 +61,35 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
 ## Firmware
 
  Forge runs on custom, open source Forge Firmware
-    - Forge is **not supported by Klipper** Using forge with Klipper will require **replacing the mainboard** with an BigTreeTech SKR Pico and a Raspberry Pi Zero 2W alongside a seperately printed bracket (files will be provided at launch). Additionaly, no Klipper configuration files will be provided at this point. The bracket will still allow the printer to fold properly. 
+* Forge is **not supported by Klipper**
+   - Using forge with Klipper will require **replacing the mainboard** with an BigTreeTech SKR Pico and a Raspberry Pi Zero 2W alongside a seperately printed bracket (files will be provided at launch). Additionaly, no Klipper configuration files will be provided at this point. The bracket will still allow the printer to fold properly. 
 
 ## Additional notes
 
 * The BOM will be on the repo (coming soon!) for a more detailed view. 
-* The estimated value of the Forge Printer is $190-$250.
+* The estimated value of the Forge Printer is $190-$250, bu.
    - However, Forge will be **100% Free for teens 18 and under after designing 5 models and submiting a PR**
-*   Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com)
-*   Forge is designed in [OnShape](https://cad.onshape.com/documents/490fa34c5c188f9b01dad5d1/w/4ce61de39bd6c276033d903d/e/7a262062418efbefd9181a13?renderMode=0&uiState=6696ce6038c5ba5455f5be75)
+*   Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com), a well established supplier of 3D Printing components.
+*   Forge is designed in Onshape. [Check out the 3D model!](https://cad.onshape.com/documents/490fa34c5c188f9b01dad5d1/w/4ce61de39bd6c276033d903d/e/7a262062418efbefd9181a13?renderMode=0&uiState=6696ce6038c5ba5455f5be75)
 
-# How do I get a Forge Printer
+# How do I get a Forge Printer?
 
 ### 1) Find a problem
 
-Look around! Find problems that 3D printing can fix 
+Look around! Find problems that 3D printing can fix. From a carabiner to a phone case!  
 
-### 2) Submit that art to the public gallery.
+### 2) Design a solution
 
-The [submission rules to get a Blot for a PR are here](https://github.com/hackclub/blot/blob/main/docs/GET_A_BLOT.md). **You must be a teenager (or younger to qualify for a free machine)** but anyone can make art and make a PR.
+Using the Forge Editor, follow the turorials (link coming soon!) and program your solutions in OpenSCAD.  
 
-[<img width="500" src="https://github.com/hackclub/blot/assets/27078897/5666011a-089e-44d9-8956-5c283f00ff14"/>](https://blot.hackclub.com/gallery)
+### 3) Submit your design.
 
-### 3) Receive the parts to build your own Blot that can draw that art in real life.
+The submission rules to get a Forge Printer for a PR are (not available, the Forge design guidelines will be accessable at launch). **You must be a teenager (or younger to qualify for a free machine)** but anyone can make a model and make a PR. Currently, we are requiring 5 Blot-level (of quality) models. This may change as the project progresses
 
-The [bill of materials can be found here](/docs/BOM.toml) and an [assembly guide here](/docs/ASSEMBLY.md).
+### 4) Receive the parts to build your own Forge Printer.
 
-<img width="500" alt="all-parts" src="https://github.com/hackclub/blot/assets/27078897/8559466d-fd36-4126-bf9c-45cb913be6da" />
+The bill of materials can be found here (at launch, currently, the BOM is not polished as we communicate with Siboor) and an assembly guide here (coming soon!).
 
-<img width="500" alt="drawing" src="https://github.com/hackclub/blot/assets/27078897/87f7e5b3-1aee-4082-8ae5-36006ec1ab0d" />
-
-<!-- <img height="341" alt="drawing" src="https://github.com/hackclub/blot/assets/27078897/2f7c9c17-3b67-4674-b2ca-2a4dbd26a3d1" /> -->
-
-# Blot is...
-
-**A custom CNC drawing machine** designed from scratch to introduce you to digital fabrication. 
-It's made of 6 unique 3D printed parts with a custom control board and easy to understand firmware, which can be interfaced with through JavaScript in the browser.
-Blot is designed in OnShape. Check out the [3D model of the project](https://cad.onshape.com/documents/0bcd2f50d2614ea26189f43b/w/23913e7defc94fc29f7833e6/e/72ea852bfc1822955e506e37?renderMode=0&uiState=6538235d42737a70b1996741).
-You can find the [bill of materials here](https://blot.hackclub.com/assembly) and, if you'd like to 3D print your Blot, [the parts are here](https://github.com/hackclub/blot/tree/main/hardware/mechanical/drawing-thing-v4). The entire build costs about $150 dollars. If you're a teen we will give you all the parts for a PR with your an art piece you coded yourself.
-
-**A web based editor for programmatic art** that we designed specifically for pen plotting with a [custom geometry library](/docs/DOCUMENTATION.md).
-We practiced programmatic pen plotting with [some](https://github.com/LingDong-) [amazing artists](https://static1.squarespace.com/static/63fbc39db5b01b5fa30423db/t/649b424d33b2ce3e0d5b63a5/1687896656015/June+Cohort+Zine.pdf). 
-There is so much to learn and explore on the programming and the aesthetic side. 
-
-<img width="300" alt="parts" src="https://github.com/hackclub/blot/assets/27078897/04ab7345-03fa-4b60-9870-64a99327e8cd">
-
-<img width="300" src="https://github.com/hackclub/blot/assets/27078897/0ffc0ca8-516b-4f9a-b34e-4f09218e41cd"/>
 
 
 
