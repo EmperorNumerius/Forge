@@ -91,7 +91,9 @@ The submission rules to get a Forge Printer for a PR are (not available, the For
  * Don't copy OpenSCAD code from other websites/generate code with AI (ChatGPT)
         - Doing so is considered plagirism. Anyone submitting fradulent code will be ineligible for a Forge Printer and may result in a violation of the Hack Club Code of Conduct
  * Don't build your model in Parametric CAD software (Fusion, OnShape, Shapr3D, ect)
- *   
+ * Your model should be both functional and have some asthetic quality.
+    - TL:DR, make it look nice
+ * Your model should have effort (roughly 8 hours per model)
  
 
 ### 4) Receive the parts to build your own Forge Printer.
