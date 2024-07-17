@@ -84,7 +84,15 @@ Using the Forge Editor, follow the turorials (link coming soon!) and program you
 
 ### 3) Submit your design.
 
-The submission rules to get a Forge Printer for a PR are (not available, the Forge design guidelines will be accessable at launch). **You must be a teenager (or younger to qualify for a free machine)** but anyone can make a model and make a PR. Currently, we are requiring 5 Blot-level (of quality) models. This may change as the project progresses
+The submission rules to get a Forge Printer for a PR are (not available, the Forge design guidelines will be accessable at launch). **You must be a teenager (or younger to qualify for a free machine)** but anyone can make a model and make a PR. Currently, we are requiring 5 Blot-level (of quality) models. This may change as the project progresses. While the full guidelines are not accessable, here's the basics of what you should(n't) do with your Forge project:
+
+#### Dos and Don'ts
+ * A PR should have a .scad and .stl file
+ * Don't copy OpenSCAD code from other websites/generate code with AI (ChatGPT)
+        - Doing so is considered plagirism. Anyone submitting fradulent code will be ineligible for a Forge Printer and may result in a violation of the Hack Club Code of Conduct
+ * Don't build your model in Parametric CAD software (Fusion, OnShape, Shapr3D, ect)
+ *   
+ 
 
 ### 4) Receive the parts to build your own Forge Printer.
 
