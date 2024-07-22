@@ -1,34 +1,13 @@
 # Forge editor
 
-This is the forge editor site. 
+This is the forge editor site. Forge is a work in progress 3D printer YSWS(You Ship We Ship) project being worked on by teens at [hackclub](https://hackclub.com). You can find the official forge repository [here](https://github.com/EmperorNumerius/Forge), and if you wish to contribute, you should join the hackclub slack and visit the channel #forge-dev.
 
-Forge is a work in progress 3d printing ysws project being worked on by teens at [hackclub](https://hackclub.com)
-You can find the official forge/project-moonlight repository [here](https://github.com/EmperorNumerius/Project-Moonlight)
+## Goal
 
-If you wish to contribute you can join the hackclub slack and join #forge-dev
+The current plan is to have Microsoft's Monaco Editor with a OpenSCAD program in it, and a viewport that renders the current model. This is what has been implemented in the website already.
 
-# Goal
-The current plan is top have an openscad editor on the left that uses microsoft's monaco-editor and have a viewport on the right that lets
-you see what your current openscad program looks like.
+It is intended to look kind of like [this](https://ochafik.com/openscad2/).
 
-[openscad playground][https://ochafik.com/openscad2/]
+## Run instructions
 
-kind of like this 
-
-this will be as easy to use as possible
-
-# to run:
-First install all the dependencies in the /website directory with npm:
-## dependencies:
-    three.js
-    monaco-editor
-## to run the server:
-
-run npx vite in the terminal assuming its installed
-
-I tried the vscode live-server but the three.js code doesnt run, I would need to change the imports and things
-
-cd into /website/editor and run npx vite and open it on your browser
-
-if you run into the issue where it seems like hitting render doesnt do anything even though it logs things in
-the browser console as if normal you might need to restart vite i have no idea why it does that
+First off, cd into the website's directory(the website directory in the repository root), and run `npm install` to install all dependencies. After that, you can just run `npx vite` to properly run everything. Note that other servers(including the live server extension to VS Code) won't work for whatever reason. Also, apparently sometimes rendering doesn't work and you need to restart vite.
