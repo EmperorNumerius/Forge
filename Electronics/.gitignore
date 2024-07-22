@@ -26,7 +26,7 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
+#*.csv # We do actually want the BOM
 
 # Local settings and the such
 \#auto_saved_files\#
