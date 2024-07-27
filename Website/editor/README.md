@@ -32,3 +32,7 @@ cd into /website/editor and run npx vite and open it on your browser
 
 if you run into the issue where it seems like hitting render doesnt do anything even though it logs things in
 the browser console as if normal you might need to restart vite i have no idea why it does that
+
+$ Forge/Website$ ls
+should give:
+$ editor  node_modules  package.json  package-lock.json  Website.txt

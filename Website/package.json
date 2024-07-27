@@ -8,9 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "monaco-editor": "^0.50.0",
-    "three": "^0.166.0"
-  }
+    "three": "^0.166.1"
+  },
+  "description": ""
 }
