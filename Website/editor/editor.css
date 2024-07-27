@@ -80,7 +80,7 @@ table tr {
 
     display: flex; /* This will lay out the .logo's children (the <h1> and <img>) in a row */
     align-items: center; /* This will vertically center the children in the .logo container */
-    justify-content: start; /* This aligns the children to the start of the .logo container */
+    justify-content: start; /* This aligns the children to the start of the .logo container  */
     
 }
 .btn-div {
