@@ -16,7 +16,7 @@ require(['vs/editor/editor.main'], function () {
 			]
 		}
 	});
-	// Define a new theme that constains only rules that match this language
+	// Define a new theme that constains only rules that match this language 
 	monaco.editor.defineTheme('editorTheme', {
 		colors: {
 			'editor.background': '#151515',
