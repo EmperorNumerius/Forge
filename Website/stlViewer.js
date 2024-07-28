@@ -18,7 +18,7 @@ renderer.setSize(divWidth, divHeight);
 // Update the camera's aspect ratio to match the new size
 camera.aspect = divWidth / divHeight;
 camera.updateProjectionMatrix();
-// Append the renderer's DOM element to the div instead of document.body
+// Append the renderer's DOM element to the div instead of document.body 
 myDiv.appendChild(renderer.domElement);
 
 
