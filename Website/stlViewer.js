@@ -6,7 +6,7 @@ import { STLLoader } from 'three/examples/jsm/loaders/STLLoader.js';
 
 // camera
 const scene = new THREE.Scene();
-const camera = new THREE.PerspectiveCamera( 60, 1, 0.1, 1000 ); // ratio is 1 and first is fov
+const camera = new THREE.PerspectiveCamera( 60, 1, 0.1, 1000 ); // ratio is 1 and first is fov 
 const renderer = new THREE.WebGLRenderer();
 // Assuming there's a div with id="myDiv"
 const myDiv = document.getElementById('viewer');
