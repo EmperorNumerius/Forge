@@ -18,8 +18,9 @@
   },
   "author": "Forge Team",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EmperorNumerius/Forge/issues"
-  },
-  "homepage": "https://github.com/EmperorNumerius/Forge#readme"
+  "description": "",
+  "dependencies": {
+    "monaco-editor": "^0.50.0",
+    "three": "^0.166.0"
+  }
 }

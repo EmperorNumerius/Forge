@@ -6,7 +6,7 @@ import { addMCAD } from "./openscad.mcad.js";
 
 // cylinder(d1=50,d2=0,h=10,$fn=1); use it as a test
 export async function exportSTL(codeInput) {
-    let filename = "tetrahedron.stl";
+    let filename = "model.stl";
     try {
         // Await the asynchronous initialization of OpenSCAD
         const instance = await OpenSCAD({noInitialRun: true});
