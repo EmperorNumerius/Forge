@@ -1,6 +1,6 @@
-import * as THREE from 'three';
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-import { STLLoader } from 'three/examples/jsm/loaders/STLLoader.js';
+import * as THREE from 'node_modules/three/src/Three.js';
+import { OrbitControls } from 'node_modules/three/examples/jsm/controls/OrbitControls.js';
+import { STLLoader } from 'node_modules/three/examples/jsm/loaders/STLLoader.js';
 
 // three js docs https://threejs.org/docs/
 
