@@ -1,26 +1,18 @@
 {
-  "dependencies": {
-    "monaco-editor": "^0.50.0",
-    "three": "^0.166.0"
+  "name": "website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.3.2"
+    "vite": "^5.3.4"
   },
-  "name": "forge-editor",
-  "description": "This is the forge editor site.",
-  "version": "0.1.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EmperorNumerius/Forge.git"
-  },
-  "author": "Forge Team",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "monaco-editor": "^0.50.0",
-    "three": "^0.166.0"
+    "three": "^0.167.0"
   }
 }

@@ -1,70 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <title>Forge editor</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <link rel="stylesheet" href="editor.css">
-    <script src="openscad.js" type="module"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="editor.css" />
+    <link rel="icon" type="image/x-icon" href="./public/forgeLogo.png" />
 
     <!-- FONTS -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
-</head>
-<body>
-    <header>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
 
-        <div class="logo">
-        <a href="forge.hackclub.com" style="text-decoration: none;"><h1 style="color:#F95E1D; width: 200px; margin:0;">Forge<h1></a>
-        <img style="height:110%; width:110%;" src="forgeLogo.png" alt="Forge Logo">
-        </div>
-        
+  <body>
+    <header class="w-full bg-[#0E0E0E] text-[#EEE] flex justify-between	items-center pl-6">
+      <div class="logo flex justify-center">
+        <img class="w-8 mx-2" src="./public/forgeLogo.png" alt="Forge Logo" />
 
-        <div class="btn-div">
+        <a
+          href="forge.hackclub.com"
+          class="decoration-0 text-[#F95E1D] text-3xl font-bold"
+        >
+          Forge
+        </a>
+      </div>
+
+      <div class="btn-div">
         <button class="view-buttons" id="renderBtn">Render</button>
-        <button style="margin-left: 2%" class="view-buttons" id="exportBtn">Export</button>
-        <button style="margin-left: 2%" class="view-buttons" id="downloadBtn">Download</button>
-        </div>
+        <button style="margin-left: 2%" class="view-buttons" id="exportBtn">
+          Export
+        </button>
+        <button style="margin-left: 2%" class="view-buttons" id="downloadBtn">
+          Download
+        </button>
+      </div>
 
-        <div class="dropdown">
-            <button class="dropbtn">Resources</button>
-            <div class="dropdown-content">
-            <a href="https://openscad.org/documentation.html" target="_blank">Docs</a>
-            <a href="https://github.com/EmperorNumerius/Forge/issues" target="_blank">Bug report</a>
-            <a href="https://github.com/EmperorNumerius/Forge" target="_blank">Github</a>
-            <a href="https://hackclub.slack.com/archives/C07DCR48HRU" target="_blank">Contribute</a>
-            <a href="https://hackclub.com/" target="_blank">Hack Club</a>
-            </div>
+      <div class="dropdown">
+        <button class="dropbtn">Resources</button>
+        <div class="dropdown-content">
+          <a href="https://openscad.org/documentation.html" target="_blank"
+            >Docs</a
+          >
+          <a
+            href="https://github.com/EmperorNumerius/Forge/issues"
+            target="_blank"
+            >Bug report</a
+          >
+          <a href="https://github.com/EmperorNumerius/Forge" target="_blank"
+            >Github</a
+          >
+          <a
+            href="https://hackclub.slack.com/archives/C07DCR48HRU"
+            target="_blank"
+            >Contribute</a
+          >
+          <a href="https://hackclub.com/" target="_blank">Hack Club</a>
         </div>
-
-    
+      </div>
     </header>
 
-    <table class="layout"> <!-- Added border for visual clarity border="1" -->
-    <tr>
-    <td rowspan="2">
-    <!-- MONACO EDITOR CODE -->
-    <div class="editor" id="container"></div>
+    <div class="flex flex-row w-full h-full">
+      <div class="w-1/2">
+        <div class="editor" id="container"></div>
+      </div>
+      <div class="flex flex-col w-1/2">
+        <div id="viewer" class="stl-viewer">
+          <canvas id="bg"></canvas>
+        </div>
+        <div class="console">
+          <p class="console-text" id="console"></p>
+        </div>
+      </div>
+    </div>
+
     <script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
     <script src="monacoEditorMain.js"></script>
     <script src="editorMain.js" type="module"></script>
-    </td> <!-- rowspan="2" makes this cell span two rows -->
-    <td>
-    <!-- STL VIEWER CODE -->
-    <div id="viewer" class="stl-viewer">
-    <canvas id="bg"></canvas>
-    </td>
-    </tr>
-    <tr>
-    <td>
-    <!-- CONSOLE CODE -->
-    <div class="console">
-    <p class="console-text" id="console"></p>
-    </td>
-    </tr>
-    </table>
 
-    <script type="module" src="stlViewer.js"></script>
-</body>
+    <script src="openscad.js" type="module"></script>
+    <script src="stlViewer.js" type="module"></script>
+  </body>
 </html>
