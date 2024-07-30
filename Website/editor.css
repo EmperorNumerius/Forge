@@ -1,6 +1,8 @@
 html, body {
-    height: 95%;
+    height: 100%;
     margin: 0; /* Removes default margin */
+    overflow: hidden;
+    box-sizing: border-box;
 }
 .medievalsharp-regular {
     font-family: "MedievalSharp", cursive;
@@ -11,37 +13,17 @@ body {
     /*background-color: #151515;*/
     background-color: #2D2D30;
 }
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 5.5%;
-    background-color: #0E0E0E;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-} 
+
 .editor {
-    float: left;
-    box-sizing: border-box;
-    
-    
     /*width: 140vw;*/
-    height: 100%;
-    width: 100%;
-    margin-right: 20px;
+    height:100%;
     
 }
 canvas {
     height: 1px;
-    width: 100%;
 } 
 .stl-viewer {
     height: 60vh;
-    width: 100%;
     /*background-color: aqua; #151515;*/
     background-color: #151515;
     float: right;
@@ -49,10 +31,13 @@ canvas {
     
 }
 .view-buttons {
-    width: 49%;
     padding: 10px;
     background-color: #0E0E0E;
     color: white;
+    transition: .2s ease;
+}
+.view-buttons:hover {
+    color:#AAA;
 }
 .console {
     color: white;
@@ -71,21 +56,6 @@ canvas {
     height: 100%; 
     border-collapse: collapse; /* Optional: removes space between cells */
     table-layout: fixed;
-}
-.table td {
-    width: 50%;
-}
-table tr {
-    height: 50%;
-}
-.logo {
-    height: 80px;
-    width: 7%;
-
-    display: flex; /* This will lay out the .logo's children (the <h1> and <img>) in a row */
-    align-items: center; /* This will vertically center the children in the .logo container */
-    justify-content: start; /* This aligns the children to the start of the .logo container  */
-    
 }
 .btn-div {
     display: flex;
