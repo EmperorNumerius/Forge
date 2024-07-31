@@ -16,7 +16,15 @@ export async function exportSTL(codeInput) {
         }
         instance.FS.writeFile("/input.scad", codeInput);
 
-        instance.callMain(["/input.scad", "--enable=manifold", "-o", filename]);
+        let commandArguments = document.getElementById('openscad-command-input').value.split(" ");
+        if (commandArguments[0].trim() === "") {
+            commandArguments = ["--enable=manifold -o"].split(" ");
+        }
+
+        console.log("commandArguments: ", commandArguments);
+        
+        instance.callMain(["/input.scad", commandArguments, filename]);
+
         const output = instance.FS.readFile("/" + filename);
 
         const link = document.createElement("a");
@@ -29,6 +37,7 @@ export async function exportSTL(codeInput) {
         link.remove();
     } catch (error) {
         console.error("Error exporting STL:", error);
+        log(error);
     }
 }
 
@@ -50,7 +59,14 @@ export async function returnSTL(codeInput) {
         }
         instance.FS.writeFile("/input.scad", codeInput);
 
-        instance.callMain(["/input.scad", "--enable=manifold", "-o", filename]);
+        let commandArguments = document.getElementById('openscad-command-input').value.split(" ");
+        if (commandArguments[0].trim() === "") {
+            commandArguments = "--enable=manifold -o".split(" ");
+        }
+        console.log("commandArguments: ", commandArguments);
+        
+        instance.callMain(generateCommandArguments(filename));
+
         const output = instance.FS.readFile("/" + filename);
 
         const link = document.createElement("a");
@@ -70,6 +86,7 @@ export async function returnSTL(codeInput) {
         
     } catch (error) {
         console.error("Error rendering model:", error);
+        //log(error);
         if (stderrMessages.length > 0) {
             console.error("Additional details:", stderrMessages.join("\n"));
             log(stderrMessages.join("\n"));
@@ -117,4 +134,20 @@ function log(error, notAnError) { // for logging things to the builtin console
 
 
     document.getElementById("console").innerHTML = errorBuffer;
+}
+
+function generateCommandArguments(filename) {
+    let userCommandArguments = document.getElementById('openscad-command-input').value.split(" ");
+    if (userCommandArguments[0].trim() === "") {
+        userCommandArguments = "--enable=manifold".split(" ");
+    }
+    let commandArguments = ["/input.scad"].concat(userCommandArguments, ["-o", filename]);
+    console.log ("user command arguments: ", userCommandArguments);
+
+
+
+    console.log("commandArguments: ", commandArguments);
+
+    return commandArguments;
+
 }

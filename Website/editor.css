@@ -10,8 +10,8 @@ html, body {
     font-style: normal;
 }  
 body {
-    /*background-color: #151515;*/
-    background-color: #2D2D30;
+    background-color: #151515;
+    /*background-color: #2D2D30;*/
 }
 
 .editor {
@@ -42,7 +42,7 @@ canvas {
 .console {
     color: white;
     background-color: black;
-    height: 30vh;
+    height: 27vh;
     padding-top: 10px;
 
 }
@@ -110,4 +110,17 @@ canvas {
   .dropdown-content a:hover {
     background-color: #f1f1f1;
     color: black;
+}
+
+.openscad-command-input-field {
+    width: 100%;
+    height: 100%;
+    background-color: #0E0E0E;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    
+    resize: none;
+    outline: none;
 }
