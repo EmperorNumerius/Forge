@@ -64,20 +64,9 @@ const stlMaterial = new THREE.MeshPhongMaterial( { color: 0xAAAA00, specular: 0x
 let readyToRender = null;
 
 function animate() {
-	//controls.update();
+	
     renderSTL(readyToRender);
-    /*if (divWidth !== myDiv.clientWidth || divHeight !== myDiv.clientHeight) {
-        // Get the dimensions of the div
-        const divWidth = myDiv.clientWidth;
-        const divHeight = myDiv.clientHeight;
-
-        // Set the renderer size to match the div's dimensions
-        renderer.setSize(divWidth, divHeight);
-
-        // Update the camera's aspect ratio to match the new size
-        camera.aspect = divWidth / divHeight;
-        camera.updateProjectionMatrix();
-    }*/
+    
 	renderer.render( scene, camera );
 
 }
