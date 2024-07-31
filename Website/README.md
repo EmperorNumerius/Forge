@@ -10,4 +10,10 @@ It is intended to look kind of like [this](https://ochafik.com/openscad2/).
 
 ## Run instructions
 
-First off, cd into the website's directory(the website directory in the repository root), and run `npm install` to install all dependencies. After that, you can just run `npx vite` to properly run everything. Note that other servers(including the live server extension to VS Code) won't work for whatever reason. Also, apparently sometimes rendering doesn't work and you need to restart vite.
+To run it, in your terminal:
+Open the Website folder ```cd Website```
+Reinstall all the packages ```npm i```
+Run ```npm run dev```
+
+#### Note from Malav:
+The project will look something like this: (For those updating thier own repos, certain older deployments via vercel will be broken as they aren't configured correctly with the new changes) (edited) 
