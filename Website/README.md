@@ -16,4 +16,4 @@ Reinstall all the packages ```npm i```
 Run ```npm run dev```
 
 #### Note from Malav:
-The project will look something like this: (For those updating thier own repos, certain older deployments via vercel will be broken as they aren't configured correctly with the new changes) (edited) 
+The project will look something like this: (For those updating thier own repos, certain older deployments via vercel will be broken as they aren't configured correctly with the new changes)
