@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="editor.css" />
     <link rel="icon" type="image/x-icon" href="./public/forgeLogo.png" />
 
+    <!-- Load Monaco Editor CSS -->
+    <link rel="stylesheet" data-name="vs/editor/editor.main" href="https://unpkg.com/monaco-editor@latest/min/vs/editor/editor.main.css">
+
     <!-- FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -75,14 +78,23 @@
         <div class="console">
           <p class="console-text" id="console"></p>
         </div>
+        <div class="openscad-command-div">
+          <input type="text" id="openscad-command-input" placeholder="--enable=manifold" class="openscad-command-input-field">
+        </div>
       </div>
     </div>
 
-    <script src="../node_modules/monaco-editor/min/vs/loader.js"></script>
-    <script src="monacoEditorMain.js"></script>
+    <script src="monacoEditorMain.js" type="module"></script>
     <script src="editorMain.js" type="module"></script>
 
     <script src="openscad.js" type="module"></script>
     <script src="stlViewer.js" type="module"></script>
+
+    <script src="https://unpkg.com/monaco-editor@latest/min/vs/loader.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/controls/OrbitControls.js"></script>
   </body>
+</html>
+
+
 </html>

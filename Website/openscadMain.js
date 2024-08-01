@@ -16,7 +16,15 @@ export async function exportSTL(codeInput) {
         }
         instance.FS.writeFile("/input.scad", codeInput);
 
-        instance.callMain(["/input.scad", "--enable=manifold", "-o", filename]);
+        let commandArguments = document.getElementById('openscad-command-input').value.split(" ");
+        if (commandArguments[0].trim() === "") {
+            commandArguments = ["--enable=manifold -o"].split(" ");
+        }
+
+        console.log("commandArguments: ", commandArguments);
+        
+        instance.callMain(["/input.scad", commandArguments, filename]);
+
         const output = instance.FS.readFile("/" + filename);
 
         const link = document.createElement("a");
@@ -29,6 +37,7 @@ export async function exportSTL(codeInput) {
         link.remove();
     } catch (error) {
         console.error("Error exporting STL:", error);
+        log(error);
     }
 }
 
@@ -50,7 +59,14 @@ export async function returnSTL(codeInput) {
         }
         instance.FS.writeFile("/input.scad", codeInput);
 
-        instance.callMain(["/input.scad", "--enable=manifold", "-o", filename]);
+        let commandArguments = document.getElementById('openscad-command-input').value.split(" ");
+        if (commandArguments[0].trim() === "") {
+            commandArguments = "--enable=manifold -o".split(" ");
+        }
+        console.log("commandArguments: ", commandArguments);
+        
+        instance.callMain(generateCommandArguments(filename));
+
         const output = instance.FS.readFile("/" + filename);
 
         const link = document.createElement("a");
@@ -58,14 +74,19 @@ export async function returnSTL(codeInput) {
         link.download = filename;
         console.log(link.href);
 
+        /* if uncommented it will always throw the same error
         if (stderrMessages.length > 0) {
             console.error("OpenSCAD stderr output:", stderrMessages.join("\n"));
             
         }
-        
+        */
+
+        log("No errors yet!")
         return link.href;
+        
     } catch (error) {
         console.error("Error rendering model:", error);
+        //log(error);
         if (stderrMessages.length > 0) {
             console.error("Additional details:", stderrMessages.join("\n"));
             log(stderrMessages.join("\n"));
@@ -78,17 +99,55 @@ export async function returnSTL(codeInput) {
         return "fail";
     }
 }
-function log(error) {
+function log(error, notAnError) { // for logging things to the builtin console
     // example:
     /*
     Could not initialize localization. ERROR: Parser error: syntax error in file input.scad, line 3 Can't parse file '/input.scad'!
     */
     let errorBuffer = error;
+
     errorBuffer = errorBuffer.replace(/line (\d+)/, function(match, lineNumber) {
-        let newLineNumber = parseInt(lineNumber, 10) - 1;
+
+        let offsetLineNumber = parseInt(lineNumber, 10) - 1;
+
+        // we also have to correct because if the error is on line one but there are 7 lines after that then it will be on line 8
+        
+        const code = window.getEditorContent();
+        console.log(code);
+        const lines = code.split("\n");
+        console.log("lines: ", lines);
+        let newLineNumber = offsetLineNumber;
+
+        console.log("line: ", offsetLineNumber);
+        console.log(lines[newLineNumber]);
+
+        while (lines[newLineNumber -1].trim() === "") {
+            console.log("line: ", newLineNumber -1);
+            newLineNumber--;
+        }
+
         return "line " + newLineNumber;
     });
 
+    errorBuffer = errorBuffer.replace(" '/input.scad'", '');
+    errorBuffer = errorBuffer.replace("input.scad", '');
+
 
     document.getElementById("console").innerHTML = errorBuffer;
+}
+
+function generateCommandArguments(filename) {
+    let userCommandArguments = document.getElementById('openscad-command-input').value.split(" ");
+    if (userCommandArguments[0].trim() === "") {
+        userCommandArguments = "--enable=manifold".split(" ");
+    }
+    let commandArguments = ["/input.scad"].concat(userCommandArguments, ["-o", filename]);
+    console.log ("user command arguments: ", userCommandArguments);
+
+
+
+    console.log("commandArguments: ", commandArguments);
+
+    return commandArguments;
+
 }

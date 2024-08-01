@@ -1,8 +1,7 @@
-// Load the monaco editor
 
-
-require.config({ paths: { vs: '../node_modules/monaco-editor/min/vs' } });
+require.config({ paths: { vs: 'https://unpkg.com/monaco-editor@latest/min/vs' } });
 require(['vs/editor/editor.main'], function () {
+
 	monaco.languages.register({
 		id: 'myCustomLanguage'
 	});
@@ -16,7 +15,7 @@ require(['vs/editor/editor.main'], function () {
 			]
 		}
 	});
-	// Define a new theme that constains only rules that match this language
+	// Define a new theme that constains only rules that match this language 
 	monaco.editor.defineTheme('editorTheme', {
 		colors: {
 			'editor.background': '#151515',
@@ -36,6 +35,7 @@ require(['vs/editor/editor.main'], function () {
 		language: 'c'
 	});
 });
+
 function getCode() {
 	return [ // starting code
 		'cylinder(d1=5,d2=0,h=5,$fn=10);',
