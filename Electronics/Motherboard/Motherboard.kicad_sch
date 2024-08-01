@@ -14168,7 +14168,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12c82231-b4d4-474e-b773-0d88306f6aeb")
-		(property "Reference" "RGB"
+		(property "Reference" "RGB1"
 			(at 212.09 191.2619 90)
 			(effects
 				(font
@@ -14346,7 +14346,7 @@
 		(instances
 			(project ""
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "RGB")
+					(reference "RGB1")
 					(unit 1)
 				)
 			)
