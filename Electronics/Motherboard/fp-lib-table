@@ -19,4 +19,7 @@
   (lib (name "RUEF900")(type "KiCad")(uri "${KIPRJMOD}/Modules/RUEF900")(options "")(descr ""))
   (lib (name "RMCF0805JT5K10")(type "KiCad")(uri "${KIPRJMOD}/Modules/RMCF0805JT5K10")(options "")(descr ""))
   (lib (name "DX07S024JJ3R1300")(type "KiCad")(uri "${KIPRJMOD}/Modules/DX07S024JJ3R1300")(options "")(descr ""))
+  (lib (name "UWT1V101MCL1GS")(type "KiCad")(uri "${KIPRJMOD}/Modules/UWT1V101MCL1GS")(options "")(descr ""))
+  (lib (name "UWT1V221MNL1GS")(type "KiCad")(uri "${KIPRJMOD}/Modules/UWT1V221MNL1GS")(options "")(descr ""))
+  (lib (name "B3B-XH-A")(type "KiCad")(uri "${KIPRJMOD}/Modules/B3B-XH-A")(options "")(descr ""))
 )

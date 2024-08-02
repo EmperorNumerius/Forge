@@ -14186,7 +14186,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "B3B-XH-A:JST_B3B-XH-A"
+		(property "Footprint" "B3B-XH-A:JST_B3B-XH-A_LF__SN_"
 			(at 206.248 192.532 0)
 			(effects
 				(font
@@ -19455,7 +19455,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UWT1V221MNL1GS"
+		(property "Footprint" "UWT1V221MNL1GS:CAPAE1030X1080N_UWT1H221MNL1GS"
 			(at 217.678 137.414 0)
 			(effects
 				(font
