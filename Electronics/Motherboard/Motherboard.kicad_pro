@@ -504,7 +504,7 @@
       "netlist": "",
       "plot": "../../../../../Downloads/gerber/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../../../Downloads/Motherboard.dsn",
       "step": "mobo_v2.step",
       "svg": "",
       "vrml": ""
