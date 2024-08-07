@@ -13029,28 +13029,6 @@
 			)
 		)
 	)
-	(global_label "DIR_M2"
-		(shape input)
-		(at 85.09 175.26 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "04b0c71e-765f-4979-b85c-c5758a66deb3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 94.8485 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "FAN3"
 		(shape input)
 		(at 227.33 267.716 90)
@@ -13064,28 +13042,6 @@
 		(uuid "0570c9f4-5fe9-4941-957d-46627a55e27b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 227.33 260.0136 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EN_M1"
-		(shape input)
-		(at 85.09 165.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "05e28edc-8c4e-4202-9737-a9f7150570b2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 94.1832 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13579,6 +13535,28 @@
 			)
 		)
 	)
+	(global_label "STEP_M1"
+		(shape input)
+		(at 39.37 203.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4a942872-d389-4c23-ba10-a3c16784706c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.1602 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_DM"
 		(shape input)
 		(at 85.09 109.22 0)
@@ -13953,6 +13931,28 @@
 			)
 		)
 	)
+	(global_label "DIAG_M1"
+		(shape input)
+		(at 39.37 198.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73585718-2d6d-4e0d-a142-390ffd322ca3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.5229 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PF2"
 		(shape input)
 		(at 39.37 91.44 180)
@@ -14103,6 +14103,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIR_M1"
+		(shape input)
+		(at 39.37 200.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "835fe365-85e4-46ad-b2d8-d2b2e2618cdc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.6115 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIR_M2"
+		(shape input)
+		(at 39.37 195.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "84758de2-2bcf-4b1f-a48b-7a21b6f5f806")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.6115 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -14283,9 +14327,9 @@
 			)
 		)
 	)
-	(global_label "DIAG_M1"
+	(global_label "NEOPIXEL_DIN"
 		(shape input)
-		(at 85.09 172.72 0)
+		(at 85.09 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14293,9 +14337,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9890d6bb-6649-4ab2-b84c-74043b5430b9")
+		(uuid "955883bc-ed0e-4cdd-a23f-5dbf86647467")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.9371 172.72 0)
+			(at 101.3195 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14459,28 +14503,6 @@
 			)
 		)
 	)
-	(global_label "DIR_M1"
-		(shape input)
-		(at 85.09 170.18 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b1ce91a9-9fe1-447f-9ebc-798f3628596e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 94.8485 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "EN_BTN"
 		(shape input)
 		(at 39.37 152.4 180)
@@ -14538,28 +14560,6 @@
 		(uuid "ba9a113d-ffeb-4dd3-a8f2-b0af310df7d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 383.2111 93.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "NEOPIXEL_DIN"
-		(shape input)
-		(at 85.09 203.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "bc15f404-24f7-4984-a148-d713f1472519")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.3195 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14745,6 +14745,28 @@
 			)
 		)
 	)
+	(global_label "EN_M1"
+		(shape input)
+		(at 39.37 205.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d089e865-a4c7-4185-a821-2ea2222d430d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.2768 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_DP"
 		(shape input)
 		(at 85.09 111.76 0)
@@ -14824,28 +14846,6 @@
 		(uuid "d9a715d8-ceab-41a0-a0cb-5001b5b02ee9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 293.0411 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP_M1"
-		(shape input)
-		(at 85.09 167.64 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "da23010f-3ee8-4de7-94ef-2718c646d690")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.2998 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
