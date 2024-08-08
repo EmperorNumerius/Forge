@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.6,
+          "width": 0.3
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -278,7 +278,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "GNDREF"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
