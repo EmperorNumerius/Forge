@@ -10780,7 +10780,7 @@
 		(uuid "2370347f-8e80-4dba-be68-e0a44e787de3")
 	)
 	(junction
-		(at 134.112 129.54)
+		(at 186.182 102.616)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23c0fe5f-2180-4483-859e-87361ceafd96")
@@ -10846,7 +10846,7 @@
 		(uuid "6a2433f7-b309-40e4-ab7f-3ebb9571e1e5")
 	)
 	(junction
-		(at 153.162 121.92)
+		(at 205.232 94.996)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c447c03-8199-4baf-95ac-6e7a3d9d5cfb")
@@ -10870,7 +10870,7 @@
 		(uuid "7a16f7fa-4031-4505-9bbd-9fcdfa8499d8")
 	)
 	(junction
-		(at 121.412 129.286)
+		(at 173.482 102.362)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "946c607d-241f-4d4c-8eeb-8a2a6de7d1a0")
@@ -11002,7 +11002,7 @@
 		(uuid "fb4fe49d-bced-4e10-8399-7ae51c67022d")
 	)
 	(junction
-		(at 114.3 119.38)
+		(at 166.37 92.456)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc9906e6-b51d-4a02-85b3-47f5b1d3c888")
@@ -11199,7 +11199,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.412 129.286) (xy 134.112 129.286)
+			(xy 173.482 102.362) (xy 186.182 102.362)
 		)
 		(stroke
 			(width 0)
@@ -11489,7 +11489,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.112 129.286) (xy 134.112 129.54)
+			(xy 186.182 102.362) (xy 186.182 102.616)
 		)
 		(stroke
 			(width 0)
@@ -11589,7 +11589,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.162 119.38) (xy 153.162 121.92)
+			(xy 205.232 92.456) (xy 205.232 94.996)
 		)
 		(stroke
 			(width 0)
@@ -11669,7 +11669,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.162 121.92) (xy 156.718 121.92)
+			(xy 205.232 94.996) (xy 208.788 94.996)
 		)
 		(stroke
 			(width 0)
@@ -11679,7 +11679,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.112 129.54) (xy 153.162 129.54)
+			(xy 186.182 102.616) (xy 205.232 102.616)
 		)
 		(stroke
 			(width 0)
@@ -11699,7 +11699,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.412 124.46) (xy 121.412 129.286)
+			(xy 173.482 97.536) (xy 173.482 102.362)
 		)
 		(stroke
 			(width 0)
@@ -11849,7 +11849,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 121.92) (xy 153.162 121.92)
+			(xy 199.39 94.996) (xy 205.232 94.996)
 		)
 		(stroke
 			(width 0)
@@ -12179,7 +12179,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 124.46) (xy 147.32 121.92)
+			(xy 199.39 97.536) (xy 199.39 94.996)
 		)
 		(stroke
 			(width 0)
@@ -12319,7 +12319,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 127) (xy 114.3 129.286)
+			(xy 166.37 100.076) (xy 166.37 102.362)
 		)
 		(stroke
 			(width 0)
@@ -12379,7 +12379,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.812 124.46) (xy 147.32 124.46)
+			(xy 198.882 97.536) (xy 199.39 97.536)
 		)
 		(stroke
 			(width 0)
@@ -12439,7 +12439,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 119.38) (xy 121.412 119.38)
+			(xy 166.37 92.456) (xy 173.482 92.456)
 		)
 		(stroke
 			(width 0)
@@ -12709,7 +12709,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.812 119.38) (xy 153.162 119.38)
+			(xy 198.882 92.456) (xy 205.232 92.456)
 		)
 		(stroke
 			(width 0)
@@ -12729,7 +12729,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 129.286) (xy 121.412 129.286)
+			(xy 166.37 102.362) (xy 173.482 102.362)
 		)
 		(stroke
 			(width 0)
@@ -12799,7 +12799,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.112 129.54) (xy 134.112 134.874)
+			(xy 186.182 102.616) (xy 186.182 107.95)
 		)
 		(stroke
 			(width 0)
@@ -12984,6 +12984,18 @@
 		(uuid 822910cb-3e42-4df5-a6d3-e05ddeb5b516)
 	)
 	(rectangle
+		(start 159.258 82.042)
+		(end 228.6 115.062)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8d613fe8-7d30-44a7-a655-e65566f1ca1f)
+	)
+	(rectangle
 		(start 176.53 207.645)
 		(end 228.6 231.775)
 		(stroke
@@ -13079,6 +13091,18 @@
 		)
 		(uuid ecbd9c52-1e23-43b6-ba7d-373f41f86d06)
 	)
+	(rectangle
+		(start 159.258 72.644)
+		(end 228.6 82.042)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f2a04cba-02d2-4bea-ae0e-4ef77b81d5e6)
+	)
 	(text "I2C Display and Encoder\n"
 		(exclude_from_sim no)
 		(at 354.838 198.374 0)
@@ -13089,7 +13113,7 @@
 		)
 		(uuid "297022bb-06e8-47c8-8d7f-2440c67d83c0")
 	)
-	(text "Voltage Regulator\n"
+	(text "Voltage Reg 3.3v"
 		(exclude_from_sim no)
 		(at 202.946 119.888 0)
 		(effects
@@ -13108,6 +13132,16 @@
 			)
 		)
 		(uuid "3aa46123-fa94-4dcf-9ac8-86b009e474dd")
+	)
+	(text "Voltage Reg. 5v\n"
+		(exclude_from_sim no)
+		(at 191.262 77.978 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "421e43ac-0cca-468f-8a17-cd9288bab4ed")
 	)
 	(text "Auto Bed Leveling\n"
 		(exclude_from_sim no)
@@ -13233,6 +13267,28 @@
 			)
 		)
 	)
+	(global_label "STEP_M3"
+		(shape input)
+		(at 39.37 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "04809fc3-3b78-4445-845e-1620a9ba314c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.1602 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "FAN3"
 		(shape input)
 		(at 227.33 267.716 90)
@@ -13290,6 +13346,28 @@
 		(uuid "0f2f73cd-dbe6-4647-ab5e-a90d3b969e72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 383.2111 42.672 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EN_BTN"
+		(shape input)
+		(at 85.09 167.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "10b45902-902a-40e1-9675-bd56ea4f042d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.0904 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13471,6 +13549,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EN_FOR"
+		(shape input)
+		(at 85.09 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33dce0c5-8d3f-45dd-a4b7-edb73a9acf53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.2114 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -13673,28 +13773,6 @@
 			)
 		)
 	)
-	(global_label "DIAG_M3"
-		(shape input)
-		(at 85.09 193.04 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "440662a5-6ca0-43fe-a0be-2d6bfd51ba0b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.9371 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "DIR_M3"
 		(shape input)
 		(at 336.804 47.752 180)
@@ -13730,28 +13808,6 @@
 		(uuid "4a4a3c37-78ce-47ab-88d6-facef0814046")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 145.0847 204.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP_M1"
-		(shape input)
-		(at 39.37 203.2 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4a942872-d389-4c23-ba10-a3c16784706c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.1602 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13818,28 +13874,6 @@
 		(uuid "4d51c616-e4b6-4ca2-84dc-0aa28e726026")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 32.8167 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EN_FOR"
-		(shape input)
-		(at 39.37 157.48 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4dd1833c-9cfd-45a8-8566-ddb1bad03d33")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.2486 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13928,28 +13962,6 @@
 		(uuid "59004a33-4283-4b55-99cd-d095f3284ecc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 159.0742 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP_M2"
-		(shape input)
-		(at 85.09 177.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5bcf553c-97a1-4cd0-8c47-5b4ce57a53b6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.2998 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14065,50 +14077,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EN_REV"
-		(shape input)
-		(at 39.37 154.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "68337e40-af66-4293-9b74-197397d88593")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.4301 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "STEP_M3"
-		(shape input)
-		(at 85.09 195.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6b0350b1-c18b-4041-9a55-454f2b75ef3d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.2998 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -14267,6 +14235,28 @@
 			)
 		)
 	)
+	(global_label "EN_M1"
+		(shape input)
+		(at 39.37 167.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b251b54-1145-4050-9d62-a78458c813f7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.2768 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "EN_M2"
 		(shape input)
 		(at 246.634 90.17 180)
@@ -14285,28 +14275,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EN_M3"
-		(shape input)
-		(at 85.09 190.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7ceda6f1-f0c5-4191-90aa-fea9151b97cb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 94.1832 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -14707,9 +14675,31 @@
 			)
 		)
 	)
-	(global_label "EN_BTN"
+	(global_label "DIR_M4"
 		(shape input)
-		(at 39.37 152.4 180)
+		(at 85.09 187.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b0fa889a-6026-47fe-b3c6-1ca7104f0d65")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.8485 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "STEP_M1"
+		(shape input)
+		(at 39.37 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14717,9 +14707,9 @@
 			)
 			(justify right)
 		)
-		(uuid "b4ef0a91-7e49-4d44-81a9-4d927bedee7a")
+		(uuid "b31bbfbe-d32c-4b7f-8a79-cfcbaa30d425")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.3696 152.4 0)
+			(at 28.1602 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14769,28 +14759,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DIR_M4"
-		(shape input)
-		(at 39.37 106.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bc5e7c50-346a-4ecf-a5f0-6138b56f3e41")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.6115 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -14949,9 +14917,9 @@
 			)
 		)
 	)
-	(global_label "EN_M1"
+	(global_label "STEP_M2"
 		(shape input)
-		(at 39.37 205.74 180)
+		(at 39.37 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14959,14 +14927,36 @@
 			)
 			(justify right)
 		)
-		(uuid "d089e865-a4c7-4185-a821-2ea2222d430d")
+		(uuid "d27819d5-5fe0-4f8b-94d9-fb303b5665a0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 30.2768 205.74 0)
+			(at 28.1602 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EN_M3"
+		(shape input)
+		(at 85.09 190.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2ac71b6-51d0-4bb6-82cd-92de26197cf6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.1832 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -15138,6 +15128,50 @@
 		(uuid "dd33f940-f1dd-4a76-add7-5175562ad621")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 236.8755 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EN_REV"
+		(shape input)
+		(at 85.09 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0a0b614-20a9-47b1-8030-1e308be65d95")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.0299 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DIAG_M3"
+		(shape input)
+		(at 39.37 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e0d0f57c-98ce-4972-ade2-10675fb08908")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.5229 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15391,7 +15425,7 @@
 	)
 	(symbol
 		(lib_id "Regulator_Switching:LM2576HVS-5")
-		(at 134.112 121.92 0)
+		(at 186.182 94.996 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15400,7 +15434,7 @@
 		(fields_autoplaced yes)
 		(uuid "02b0b170-e9a1-4102-a4d9-70f4fdd1aaf0")
 		(property "Reference" "U6"
-			(at 134.112 111.76 0)
+			(at 186.182 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15408,7 +15442,7 @@
 			)
 		)
 		(property "Value" "LM2576HVS-5"
-			(at 134.112 114.3 0)
+			(at 186.182 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15416,7 +15450,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:TO-263-5_TabPin3"
-			(at 134.112 128.27 0)
+			(at 186.182 101.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15427,7 +15461,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2576.pdf"
-			(at 134.112 121.92 0)
+			(at 186.182 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15436,7 +15470,7 @@
 			)
 		)
 		(property "Description" "5V 3A, SIMPLE SWITCHER® Step-Down Voltage Regulator, High Voltage Input, TO-263"
-			(at 134.112 121.92 0)
+			(at 186.182 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17728,7 +17762,7 @@
 	)
 	(symbol
 		(lib_id "UWT1V101MCL1GS:UWT1V101MCL1GS")
-		(at 153.162 127 270)
+		(at 205.232 100.076 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17737,7 +17771,7 @@
 		(fields_autoplaced yes)
 		(uuid "33021ec3-62fe-4ac1-b16f-27617d8948c9")
 		(property "Reference" "C9"
-			(at 157.48 124.4599 90)
+			(at 209.55 97.5359 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17746,7 +17780,7 @@
 			)
 		)
 		(property "Value" "UWT1V331MNL1GS"
-			(at 157.48 126.9999 90)
+			(at 209.55 100.0759 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17755,7 +17789,7 @@
 			)
 		)
 		(property "Footprint" "UWT1V101MCL1GS:CAPAE830X1000N"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17765,7 +17799,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17774,7 +17808,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17783,7 +17817,7 @@
 			)
 		)
 		(property "MF" "Nichicon"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17793,7 +17827,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.7mm"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17803,7 +17837,7 @@
 			)
 		)
 		(property "Package" "Radial Nichicon"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17813,7 +17847,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17823,7 +17857,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=eda"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17833,7 +17867,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17843,7 +17877,7 @@
 			)
 		)
 		(property "PARTREV" "CAT.8100L"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17853,7 +17887,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=snap"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17863,7 +17897,7 @@
 			)
 		)
 		(property "MP" "UWT1V101MCL1GS"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17873,7 +17907,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=576928&manufacturer=Nichicon&part_name=UWT1V101MCL1GS&search_term=uwt1v101mcl1gs"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17883,7 +17917,7 @@
 			)
 		)
 		(property "Description_1" "\nCapacitor Aluminum Electrolytic, 1000h 6.3 (Dia.) x 7.7mm, 100uF, 35V, WT Series | Nichicon UWT1V101MCL1GS\n"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17893,7 +17927,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Nichicon"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17903,7 +17937,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17913,7 +17947,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "UWT1V101MCL1GS"
-			(at 153.162 127 0)
+			(at 205.232 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19058,7 +19092,7 @@
 	(symbol
 		(lib_name "GNDREF_2")
 		(lib_id "power:GNDREF")
-		(at 134.112 134.874 0)
+		(at 186.182 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19067,7 +19101,7 @@
 		(fields_autoplaced yes)
 		(uuid "440e1620-3752-42dd-bc38-b73e41c26a81")
 		(property "Reference" "#PWR056"
-			(at 134.112 141.224 0)
+			(at 186.182 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19076,7 +19110,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 134.112 139.7 0)
+			(at 186.182 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19084,7 +19118,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.112 134.874 0)
+			(at 186.182 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19093,7 +19127,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.112 134.874 0)
+			(at 186.182 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19102,7 +19136,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 134.112 134.874 0)
+			(at 186.182 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20866,7 +20900,7 @@
 	)
 	(symbol
 		(lib_id "UWT1V101MCL1GS:UWT1V101MCL1GS")
-		(at 114.3 124.46 270)
+		(at 166.37 97.536 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20875,7 +20909,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ad7c91f-e702-409f-bbbb-645a39cd3350")
 		(property "Reference" "C8"
-			(at 118.11 121.9199 90)
+			(at 170.18 94.9959 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20884,7 +20918,7 @@
 			)
 		)
 		(property "Value" "UWT1V101MCL1GS"
-			(at 118.11 124.4599 90)
+			(at 170.18 97.5359 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20893,7 +20927,7 @@
 			)
 		)
 		(property "Footprint" "UWT1V101MCL1GS:CAPAE830X1000N"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20903,7 +20937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20912,7 +20946,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20921,7 +20955,7 @@
 			)
 		)
 		(property "MF" "Nichicon"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20931,7 +20965,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.7mm"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20941,7 +20975,7 @@
 			)
 		)
 		(property "Package" "Radial Nichicon"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20951,7 +20985,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20961,7 +20995,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=eda"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20971,7 +21005,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20981,7 +21015,7 @@
 			)
 		)
 		(property "PARTREV" "CAT.8100L"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20991,7 +21025,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/UWT1V101MCL1GS/Nichicon/view-part/?ref=snap"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21001,7 +21035,7 @@
 			)
 		)
 		(property "MP" "UWT1V101MCL1GS"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21011,7 +21045,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=576928&manufacturer=Nichicon&part_name=UWT1V101MCL1GS&search_term=uwt1v101mcl1gs"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21021,7 +21055,7 @@
 			)
 		)
 		(property "Description_1" "\nCapacitor Aluminum Electrolytic, 1000h 6.3 (Dia.) x 7.7mm, 100uF, 35V, WT Series | Nichicon UWT1V101MCL1GS\n"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21031,7 +21065,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Nichicon"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21041,7 +21075,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21051,7 +21085,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "UWT1V101MCL1GS"
-			(at 114.3 124.46 0)
+			(at 166.37 97.536 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22164,7 +22198,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 114.3 119.38 0)
+		(at 166.37 92.456 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22173,7 +22207,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a336c10-0178-4854-9f45-e40f8f68ba78")
 		(property "Reference" "#PWR058"
-			(at 114.3 123.19 0)
+			(at 166.37 96.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22182,7 +22216,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 114.3 115.062 0)
+			(at 166.37 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22190,7 +22224,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 114.3 119.38 0)
+			(at 166.37 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22199,7 +22233,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 119.38 0)
+			(at 166.37 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22208,7 +22242,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 119.38 0)
+			(at 166.37 92.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27705,7 +27739,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 156.718 121.92 270)
+		(at 208.788 94.996 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27714,7 +27748,7 @@
 		(fields_autoplaced yes)
 		(uuid "eec83d80-2a44-43c6-ba6c-f620a865d3f4")
 		(property "Reference" "#PWR057"
-			(at 152.908 121.92 0)
+			(at 204.978 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27723,7 +27757,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 160.02 121.9199 90)
+			(at 212.09 94.9959 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27732,7 +27766,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.718 121.92 0)
+			(at 208.788 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27741,7 +27775,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.718 121.92 0)
+			(at 208.788 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27750,7 +27784,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 156.718 121.92 0)
+			(at 208.788 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
