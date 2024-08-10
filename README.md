@@ -29,21 +29,21 @@ The Forge YSWS Project can be considered 2 major sections:
 
 ## About the Forge Printer
 
-The printer is built after the [Flatpack](https://github.com/eponra/flatpack). However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 H5 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, or hackathons.
+The printer is built after the [Flatpack](https://github.com/eponra/flatpack). However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
 
 ## Specifications
 
-**These are Forge's specification as of July 16, 2024. As we begin test manufacturing Forge, these specifications may change.**
+**These are Forge's specification as of August 10, 2024. As we begin test manufacturing Forge, these specifications may change.**
 
-* STM32H563VITX 32-Bit MCU
+* STM32F405RGT6 32-Bit MCU
 * TMC2209 Stepper Drivers
   * Reduced Motor Noise
   * Sensorless XY homing  
 * TZ-E3 Hotend
   * 300°C Maximum Temperature
   * Designed around the Bambu Lab X1C hotend
-  * 33mm³/s max flow rate
-* 120x114x110 Heated Build Plate
+  * 30mm³/s max flow rate
+* 100x110x110 Heated Build Plate
   * Up to 100°C Print Temperature
   * Magnetic Textured PEI Plate
   * A small portion of print area is occupied by the Klicky Probe system
@@ -54,22 +54,22 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
   * Fully Automatic Bed Leveling (ABL)
   * Z offset is currently manual
 * PLA, PETG, TPU capable
-  * ABS and ASA are posssible but require ventilation and an enclosure
+  * ABS and ASA are posssible but require an enclosure
 * Aluminum and 3D Printed ASA frame
-* 250mm/s Tested Print Velocity
-  * This number is an estimate, real print speeds will be updated as Forge's development continues
+* 300mm/s  Print Velocity*
+  * *This number is an estimate, real print speeds will be updated as Forge's development continues
 
 ## Firmware
 
 Forge will run on custom, open source Forge Firmware
 
-* Forge is **not supported by Klipper**
-  * Using forge with Klipper will require **replacing the mainboard** with an BigTreeTech SKR Pico and a Raspberry Pi Zero 2W alongside a seperately printed bracket (files will be provided at launch). Additionaly, no Klipper configuration files will be provided at this point. The bracket will still allow the printer to fold properly.
+* Forge 2 layer PCB is **supported by Klipper**
+  * Using forge with Klipper will be possible! The latest 2 layer PCB version of our motherboard runs a STM32F405 which is fully compatible with klipper! We've also made the [configuration](https://github.com/blazecoding2009/Forge/blob/main/Firmware/klipper) for you! (No macros are there right now as we are in early stages of development) The bracket will still allow the printer to fold properly.
 
 ## Additional notes
 
 * The BOM is at the bottom of this doc, and available as a CSV in `Electronics/Motherboard/billofmaterials.csv` for a more detailed view.
-* The estimated value of the Forge Printer is $190-$250, but this estimate will change over time.
+* The estimated value of the Forge Printer is $200-$250, but this estimate will change over time.
   * However, Forge will be **100% Free for teens 18 and under after designing 5 models and submiting a PR**
 * Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com), a well established supplier of 3D Printing components.
 * Forge is designed in Onshape. [Check out the 3D model!](https://cad.onshape.com/documents/490fa34c5c188f9b01dad5d1/w/4ce61de39bd6c276033d903d/e/7a262062418efbefd9181a13?renderMode=0&uiState=6696ce6038c5ba5455f5be75)
@@ -100,26 +100,5 @@ The submission rules to get a Forge Printer for a PR are (not available, the For
 
 ### 4) Receive the parts to build your own Forge Printer
 
-The bill of materials can be found here and isavailable as a CSV in `Electronics/Motherboard/billofmaterials.csv` and an assembly guide here (coming soon!).
+The bill of materials can be found here and is available as a CSV in `Electronics/Motherboard/billofmaterials.csv` and an assembly guide here (coming soon!).
 Also note that, currently, the BOM is not polished as we communicate with Siboor.
-
-| Reference                                 | Value                   | Datasheet                                                | Footprint                                              | Qty | DNP |
-| ----------------------------------------- | ----------------------- | -------------------------------------------------------- | ------------------------------------------------------ | --- | --- |
-| ABL1,FAN1,FAN2,FAN3,THM1,THM2,THM3,Z_END1 | B2B-XH-A                |                                                          | B2B-XH-A:JST_B2B-XH-A                                  | 8   |     |
-| BED1,HOTEND1                              | 1751248                 |                                                          | Phoenix 1751248:PHOENIX_1751248                        | 2   |     |
-| C1,C2,C3,C4                               | A750MV477M1VAAE018      | A750MV477M1VAAE018                                       | footprints:CAP_A750MV477M1VAAE018_KEM                  | 4   |     |
-| C5,C6,C7                                  | GCM155R71H104KE02J      |                                                          | GCM155R71H104KE02J:CAPC1005X55N                        | 3   |     |
-| DEBUG1                                    | Conn_01x04_Pin          | ~                                                        | PinHeader:PinHeader_1x04_P2.54mm_Vertical              | 1   |     |
-| J1                                        | DX07S024JJ3R1300        |                                                          | DX07S024JJ3R1300:JAE_DX07S024JJ3R1300                  | 1   |     |
-| M1,M2,M3                                  | AO3400A                 |                                                          | AO3400A:SOT95P280X125-3N                               | 3   |     |
-| MCU1                                      | STM32H563VITx           | [https://www.st.com/resource/en/datasheet/stm32h563vi.pdf](https://www.st.com/resource/en/datasheet/stm32h563vi.pdf) | Package_QFP:LQFP-100_14x14mm_P0.5mm                    | 1   |     |
-| MOTOR_E1,MOTOR_X1,MOTOR_Y1,MOTOR_Z1       | B4B-XH-A                |                                                          | B4B-XH-A:JST_B4B-XH-A                                  | 4   |     |
-| PWR1                                      | PJ-102B                 |                                                          | PJ-102B:CUI_PJ-102B                                    | 1   |     |
-| Q1,Q2                                     | IRFH7440TRPBF           |                                                          | IRFH7440TRPBF:TRANS_FDMS86202                          | 2   |     |
-| R1,R2,R3,R4,R5,R6                         | RC1206JR-134K7L         |                                                          | RC1206JR-134K7L:RESC3216X65                            | 6   |     |
-| R7                                        | RC0603FR-131KL          |                                                          | RC0603FR-131KL:0603                                    | 1   |     |
-| R8,R9                                     | RMCF0805JT5K10          | ~                                                        | RMCF0805JT5K10:RESC2012X65N                            | 2   |     |
-| REN1                                      | PEC11H-4015F-S0016      | PEC11H-4015F-S0016                                       | PinHeader:PinHeader_1x04_P2.54mm_Vertical              | 1   |     |
-| SCRN1                                     | SSD1306                 |                                                          | PinHeader:PinHeader_1x04_P2.54mm_Vertical              | 1   |     |
-| U1                                        | LM2576S-3.3_NOPB        |                                                          | LM2576S-3.3_NOPB:VREG_TPS79625KTTR                     | 1   |     |
-| U2,U3,U4,U5                               | TMC2209_SILENTSTEPSTICK |                                                          | TMC2209_SILENTSTEPSTICK:MODULE_TMC2209_SILENTSTEPSTICK | 4   |     |
