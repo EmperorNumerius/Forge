@@ -100,5 +100,5 @@ The submission rules to get a Forge Printer for a PR are (not available, the For
 
 ### 4) Receive the parts to build your own Forge Printer
 
-The bill of materials can be found here and isavailable as a CSV in `Electronics/Motherboard/billofmaterials.csv` and an assembly guide here (coming soon!).
+The bill of materials can be found here and is available as a CSV in `Electronics/Motherboard/billofmaterials.csv` and an assembly guide here (coming soon!).
 Also note that, currently, the BOM is not polished as we communicate with Siboor.
