@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB_C_Receptacle_HRO_TYPE")(type "KiCad")(uri "${KIPRJMOD}/Modules/USB_C_Receptacle_HRO_TYPE.kicad_sym")(options "")(descr ""))
+)
