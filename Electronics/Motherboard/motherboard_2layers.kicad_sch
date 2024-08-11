@@ -15603,7 +15603,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f351ec1-774f-4242-9b5c-e87886aaad92")
-		(property "Reference" "MOTOR_X"
+		(property "Reference" "MOTOR_X1"
 			(at 297.18 55.372 90)
 			(effects
 				(font
@@ -15666,7 +15666,7 @@
 		(instances
 			(project "motherboard_2layers"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "MOTOR_X")
+					(reference "MOTOR_X1")
 					(unit 1)
 				)
 			)
@@ -17059,7 +17059,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "46b47adc-701c-4c65-9480-d672ff06fc51")
-		(property "Reference" "MOTOR_Z"
+		(property "Reference" "MOTOR_Z1"
 			(at 297.18 106.172 90)
 			(effects
 				(font
@@ -17122,7 +17122,7 @@
 		(instances
 			(project "motherboard_2layers"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "MOTOR_Z")
+					(reference "MOTOR_Z1")
 					(unit 1)
 				)
 			)
@@ -22508,7 +22508,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c904e2c9-9025-4919-afb9-793468ea105c")
-		(property "Reference" "MOTOR_Y"
+		(property "Reference" "MOTOR_Y1"
 			(at 384.81 56.642 90)
 			(effects
 				(font
@@ -22571,7 +22571,7 @@
 		(instances
 			(project "motherboard_2layers"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "MOTOR_Y")
+					(reference "MOTOR_Y1")
 					(unit 1)
 				)
 			)
@@ -23923,7 +23923,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f45bfbd2-29dd-43d6-9914-f38aa72abaf2")
-		(property "Reference" "MOTOR_E"
+		(property "Reference" "MOTOR_E1"
 			(at 384.81 107.442 90)
 			(effects
 				(font
@@ -23986,7 +23986,7 @@
 		(instances
 			(project "Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "MOTOR_E")
+					(reference "MOTOR_E1")
 					(unit 1)
 				)
 			)
