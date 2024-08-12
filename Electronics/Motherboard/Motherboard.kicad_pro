@@ -181,9 +181,14 @@
       ],
       "track_widths": [
         0.0,
+        0.0,
         0.1,
         0.25,
-        0.5
+        0.5,
+        1.0,
+        1.5,
+        2.0,
+        2.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -485,16 +490,21 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "USB_DP"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../../../Downloads/gerber/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../../../Downloads/Motherboard.dsn",
       "step": "mobo_v2.step",
       "svg": "",
       "vrml": ""
