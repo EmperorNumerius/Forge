@@ -2,7 +2,8 @@
 
 ## WIP Disclaimers
 
-* This is an upcoming [Hack Club](https://hackclub.com) You Ship, We Ship (YSWS) program.
+* This is an potential upcoming [Hack Club](https://hackclub.com) You Ship, We Ship (YSWS) program.
+      - This project is not currently endorsed by Hack Club. **We're proud to announce that we're in talks with Hack Club to get this project off the ground**
 * Things are still under heavy development as the Forge Editor and the Forge Printer are WIP (Work in Progress) projects
 * All information on this README is subject to change at any moment
 * Submission requirements, images, and links are not final. Websites URLs are placeholders and may not be functional
