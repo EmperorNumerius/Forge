@@ -14629,7 +14629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
+		(property "Description" "PCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248"
 			(at 340.36 149.86 0)
 			(effects
 				(font
@@ -14859,7 +14859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
+		(property "Description" "4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
 			(at 274.32 187.325 0)
 			(effects
 				(font
@@ -15652,7 +15652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 264.16 49.53 0)
 			(effects
 				(font
@@ -15947,7 +15947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 264.16 100.33 0)
 			(effects
 				(font
@@ -16246,7 +16246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
+		(property "Description" "N-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
 			(at 191.77 270.51 0)
 			(effects
 				(font
@@ -16736,7 +16736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 354.33 101.6 0)
 			(effects
 				(font
@@ -17651,7 +17651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
+		(property "Description" "Connector Header Through Hole 2 position 0.098 (2.50mm)"
 			(at 248.92 184.15 0)
 			(effects
 				(font
@@ -17887,7 +17887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
+		(property "Description" "N-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
 			(at 212.09 270.51 0)
 			(effects
 				(font
@@ -18587,7 +18587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
+		(property "Description" "Connector Header Through Hole 2 position 0.098 (2.50mm)"
 			(at 248.92 209.55 0)
 			(effects
 				(font
@@ -19346,7 +19346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
+		(property "Description" "4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
 			(at 274.32 212.725 0)
 			(effects
 				(font
@@ -19717,7 +19717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
+		(property "Description" "4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
 			(at 274.32 163.195 0)
 			(effects
 				(font
@@ -20151,7 +20151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
+		(property "Description" "Connector Header Through Hole 2 position 0.098 (2.50mm)"
 			(at 248.92 160.02 0)
 			(effects
 				(font
@@ -20460,7 +20460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
+		(property "Description" "PCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248"
 			(at 320.04 149.86 0)
 			(effects
 				(font
@@ -21484,7 +21484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 354.33 50.8 0)
 			(effects
 				(font
@@ -21863,7 +21863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 269.24 207.01 0)
 			(effects
 				(font
@@ -22560,7 +22560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 269.24 157.48 0)
 			(effects
 				(font
@@ -23039,7 +23039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
+		(property "Description" "N-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
 			(at 229.87 270.51 0)
 			(effects
 				(font
@@ -23975,7 +23975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 269.24 181.61 0)
 			(effects
 				(font
