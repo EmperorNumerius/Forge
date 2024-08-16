@@ -1535,7 +1535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Bourns_Vertical_PEC12R-3x17F-Sxxxx"
 			(at 158.75 56.896 0)
 			(effects
 				(font
@@ -1614,7 +1614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "ledscreen:128x64OLED"
 			(at 116.84 76.2 0)
 			(effects
 				(font
