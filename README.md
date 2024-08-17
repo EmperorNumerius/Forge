@@ -77,7 +77,7 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
     
 ## Additional notes
 
-* The full Forge Printer and Mainboard BOM will (soon be) at the bottom of this doc. The Forge Printer BOM is not currently available until we begin prototyping. However, the BOM for the Forge Mainbaord will be available as a CSV in `Electronics/Motherboard/billofmaterials.csv`.
+* The full Forge Printer and Mainboard BOM will (soon be) at the bottom of this doc. The Forge Printer BOM is not currently available until we begin prototyping. However, the BOM for the Forge Mainbaord is currently available as a CSV in `Electronics/Motherboard/billofmaterials.csv`.
 * The estimated value of the Forge Printer is $200-$250, but this estimate will change over time.
   * However, Forge will be **100% Free for teens 18 and under after designing 5 models and submiting a PR**
 * Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com), a well established supplier of 3D Printing components.
