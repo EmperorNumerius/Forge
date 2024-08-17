@@ -47,3 +47,7 @@ function getEditorContent() {
 	return monaco.editor.getModels()[0].getValue();
 }
 window.getEditorContent = getEditorContent;
+
+export function setMonacoEditorContent(content) {
+	monaco.editor.getModels()[0].setValue(content);
+}

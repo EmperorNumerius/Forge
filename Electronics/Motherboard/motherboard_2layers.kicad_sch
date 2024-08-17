@@ -9382,12 +9382,6 @@
 		(uuid "22a4e883-55bf-46f6-9001-82586f7e1cfe")
 	)
 	(junction
-		(at 215.9 220.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2370347f-8e80-4dba-be68-e0a44e787de3")
-	)
-	(junction
 		(at 186.69 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9448,12 +9442,6 @@
 		(uuid "63b638f4-4643-4c0c-8e06-9a2b1d244b01")
 	)
 	(junction
-		(at 215.9 218.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "676ee992-04de-4a89-9ef4-8a88372c3337")
-	)
-	(junction
 		(at 375.92 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9494,6 +9482,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83d9f81b-cb6d-433e-a31e-2f7f59164c47")
+	)
+	(junction
+		(at 215.9 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8544bd21-c69c-4088-a64b-e35c7e738dba")
 	)
 	(junction
 		(at 62.23 76.2)
@@ -9568,10 +9562,11 @@
 		(uuid "cf3f3f5a-2841-439b-b4ad-de23cf3efde5")
 	)
 	(junction
-		(at 307.975 179.07)
+
+		(at 203.2 218.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d548ec22-f9c6-4e52-b731-d7ae6081b654")
+		(uuid "d6be1ee1-0300-45d5-a75e-8537107e12d2")
 	)
 	(junction
 		(at 283.21 118.11)
@@ -9626,6 +9621,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc9906e6-b51d-4a02-85b3-47f5b1d3c888")
+	)
+	(junction
+		(at 203.2 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fcef30aa-0b6c-4277-a9dd-33d1cbbb947b")
 	)
 	(wire
 		(pts
@@ -9786,6 +9787,16 @@
 			(type default)
 		)
 		(uuid "1af30232-e08d-4a89-a74d-5f148e742fb5")
+	)
+	(wire
+		(pts
+			(xy 215.9 220.98) (xy 215.9 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af9bbde-4b70-4c56-8563-db2b9c3faccc")
 	)
 	(wire
 		(pts
@@ -10016,16 +10027,6 @@
 			(type default)
 		)
 		(uuid "416e4e94-6df5-40b3-8c91-ab2a760ab0b8")
-	)
-	(wire
-		(pts
-			(xy 203.2 220.98) (xy 203.2 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "417421d6-d5e1-4e65-9950-499dc0f7f725")
 	)
 	(wire
 		(pts
@@ -10289,6 +10290,16 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 218.44) (xy 203.2 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c037a08-cf1a-44fd-9b22-9e892216a30e")
+	)
+	(wire
+		(pts
 			(xy 283.21 41.91) (xy 281.94 41.91)
 		)
 		(stroke
@@ -10416,6 +10427,16 @@
 			(type default)
 		)
 		(uuid "7cd9e883-5ef0-48eb-b988-ba81f2bd6604")
+	)
+	(wire
+		(pts
+			(xy 203.2 220.98) (xy 203.2 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff365f4-56ac-4ed5-b954-6addd013b00e")
 	)
 	(wire
 		(pts
@@ -10719,16 +10740,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 218.44) (xy 215.9 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6a15f8f-2dea-443d-aad3-77cf1edb0954")
-	)
-	(wire
-		(pts
 			(xy 373.38 68.58) (xy 375.92 68.58)
 		)
 		(stroke
@@ -10829,7 +10840,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 218.44) (xy 203.2 220.98)
+			(xy 203.2 215.9) (xy 203.2 218.44)
 		)
 		(stroke
 			(width 0)
@@ -11119,16 +11130,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 220.98) (xy 215.9 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9b68b01-0b8c-4a5a-9e8e-69832a034dc8")
-	)
-	(wire
-		(pts
 			(xy 199.39 92.71) (xy 205.74 92.71)
 		)
 		(stroke
@@ -11136,6 +11137,16 @@
 			(type default)
 		)
 		(uuid "e9bffa1b-d870-42fe-a54b-e0cb254dca38")
+	)
+	(wire
+		(pts
+			(xy 215.9 218.44) (xy 215.9 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb2e24e0-40ea-4239-88ed-28c1903c7e3a")
 	)
 	(wire
 		(pts
@@ -11256,16 +11267,6 @@
 			(type default)
 		)
 		(uuid "fe8e289d-323f-4151-8e28-a2ce6667f576")
-	)
-	(wire
-		(pts
-			(xy 203.2 215.9) (xy 203.2 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff5ee209-7f1c-4b23-971f-8140e8daea7d")
 	)
 	(rectangle
 		(start 86.995 232.41)
@@ -14693,7 +14694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
+		(property "Description" "PCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248"
 			(at 340.36 149.86 0)
 			(effects
 				(font
@@ -14923,7 +14924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
+		(property "Description" "4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
 			(at 274.32 187.325 0)
 			(effects
 				(font
@@ -15716,7 +15717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 264.16 49.53 0)
 			(effects
 				(font
@@ -16011,7 +16012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 264.16 100.33 0)
 			(effects
 				(font
@@ -16310,7 +16311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
+		(property "Description" "N-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
 			(at 191.77 270.51 0)
 			(effects
 				(font
@@ -16800,7 +16801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 354.33 101.6 0)
 			(effects
 				(font
@@ -17715,7 +17716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
+		(property "Description" "Connector Header Through Hole 2 position 0.098 (2.50mm)"
 			(at 248.92 184.15 0)
 			(effects
 				(font
@@ -17951,7 +17952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
+		(property "Description" "N-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
 			(at 212.09 270.51 0)
 			(effects
 				(font
@@ -18651,7 +18652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
+		(property "Description" "Connector Header Through Hole 2 position 0.098 (2.50mm)"
 			(at 248.92 209.55 0)
 			(effects
 				(font
@@ -19410,7 +19411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
+		(property "Description" "4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
 			(at 274.32 212.725 0)
 			(effects
 				(font
@@ -19781,7 +19782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film\n"
+		(property "Description" "4.7 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
 			(at 274.32 163.195 0)
 			(effects
 				(font
@@ -20215,7 +20216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nConnector Header Through Hole 2 position 0.098 (2.50mm)\n"
+		(property "Description" "Connector Header Through Hole 2 position 0.098 (2.50mm)"
 			(at 248.92 160.02 0)
 			(effects
 				(font
@@ -20524,7 +20525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nPCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248\n"
+		(property "Description" "PCB Terminal Screw 3.5mm 16AWG 200V 13.5A 2 Position COMBICON MKDS Series | Phoenix Contact 1751248"
 			(at 320.04 149.86 0)
 			(effects
 				(font
@@ -21548,7 +21549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nTMC2209 Motor Controller/Driver Power Management Evaluation Board\n"
+		(property "Description" "TMC2209 Motor Controller/Driver Power Management Evaluation Board"
 			(at 354.33 50.8 0)
 			(effects
 				(font
@@ -21927,7 +21928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 269.24 207.01 0)
 			(effects
 				(font
@@ -22624,7 +22625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 269.24 157.48 0)
 			(effects
 				(font
@@ -23103,7 +23104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nN-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3\n"
+		(property "Description" "N-Channel 30 V 5.7A (Ta) 1.4W (Ta) Surface Mount SOT-23-3"
 			(at 229.87 270.51 0)
 			(effects
 				(font
@@ -24039,7 +24040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\n0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)\n"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
 			(at 269.24 181.61 0)
 			(effects
 				(font
@@ -24129,6 +24130,128 @@
 			(project "Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
+		(at 208.28 208.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7dfa1e4-0d2f-4cad-ac04-497b8f9757c9")
+		(property "Reference" "J2"
+			(at 209.55 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x10_Odd_Even"
+			(at 209.55 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical"
+			(at 208.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 208.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "400d5f8f-6619-4163-b4c4-900457ccf4e4")
+		)
+		(pin "8"
+			(uuid "2b590ffb-349f-47a1-a859-e027c4f0853b")
+		)
+		(pin "17"
+			(uuid "f90447de-808f-4139-9eae-e1a13a70ebe5")
+		)
+		(pin "7"
+			(uuid "6984b75c-ae1e-495d-86d1-998ece78d8b8")
+		)
+		(pin "9"
+			(uuid "40a736e0-30a8-4cc4-aa73-47e0c7614e09")
+		)
+		(pin "18"
+			(uuid "278145f0-d824-4b90-87db-0a46027c77e9")
+		)
+		(pin "12"
+			(uuid "633112d3-ea71-494f-9834-967e17c3ab86")
+		)
+		(pin "19"
+			(uuid "2092c890-acec-47c1-9cf8-c13f6030ef46")
+		)
+		(pin "6"
+			(uuid "4364676f-44a5-45ab-b4b6-cfdb0ad652c7")
+		)
+		(pin "3"
+			(uuid "48e41761-c011-4669-94d1-06f6b2dc1c70")
+		)
+		(pin "11"
+			(uuid "355abcb6-f54f-457d-867d-7e4ee76ee8a5")
+		)
+		(pin "15"
+			(uuid "b311ddf4-5afb-4e6a-9f81-70eb3a509a38")
+		)
+		(pin "4"
+			(uuid "5ecece09-c9c6-4e5d-82ac-449b1cc47c36")
+		)
+		(pin "1"
+			(uuid "7309f7c9-a3a0-491f-926a-b39e0355b50c")
+		)
+		(pin "5"
+			(uuid "2587688b-c8f5-42cc-be12-666ec7aa0b8c")
+		)
+		(pin "20"
+			(uuid "09fdac28-3cb5-4996-8054-d79aad9cbeca")
+		)
+		(pin "13"
+			(uuid "745f172e-0d3f-432b-9e32-6b4364403bb4")
+		)
+		(pin "16"
+			(uuid "93edcc53-1474-4c3a-b834-5f5d4b4d4d55")
+		)
+		(pin "10"
+			(uuid "7c9be223-c527-49b3-a86c-b25de4342e2f")
+		)
+		(pin "2"
+			(uuid "0244f627-7ff9-470c-8e1a-0f798c9cc9e9")
+		)
+		(instances
+			(project ""
+				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -24477,128 +24600,6 @@
 			(project "Motherboard"
 				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
-		(at 208.28 208.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fda9d512-c6ca-403d-b4ee-be4162fb7917")
-		(property "Reference" "J2"
-			(at 209.55 195.326 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_02x10_Odd_Even"
-			(at 209.55 194.056 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "2x10_tht:PinBox-2.54-02x10-THT"
-			(at 208.28 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 208.28 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 208.28 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "563b2fc9-fc5a-46b3-9c9d-4c9b6438afc8")
-		)
-		(pin "6"
-			(uuid "e017ecf8-5875-43a3-ba2d-118bbe5b08f7")
-		)
-		(pin "17"
-			(uuid "e1fa845f-6825-452f-9e39-b1b838a0d1a6")
-		)
-		(pin "3"
-			(uuid "7980d2b7-701d-4860-afbf-e80c1e26e9fa")
-		)
-		(pin "13"
-			(uuid "264e6c49-dfdb-4dc0-908d-e12dfd7fd028")
-		)
-		(pin "4"
-			(uuid "590f7915-094b-4011-bbf1-3d3aff030999")
-		)
-		(pin "1"
-			(uuid "6914573e-5072-40ae-90b5-29d1eb7ad5b6")
-		)
-		(pin "14"
-			(uuid "064351bb-fc85-492d-bcf8-d0f6d3d21603")
-		)
-		(pin "16"
-			(uuid "24acfa64-4a5a-4625-9690-56199c43e513")
-		)
-		(pin "7"
-			(uuid "16e38d90-5a83-432e-b511-2161ac523006")
-		)
-		(pin "20"
-			(uuid "2f0e4b59-e24c-4f44-acce-43a5cf52739e")
-		)
-		(pin "11"
-			(uuid "83657363-9e74-4653-ac7a-4ee05047ad9f")
-		)
-		(pin "12"
-			(uuid "723c05ab-e5ea-46e8-9a52-80988c9ff44e")
-		)
-		(pin "19"
-			(uuid "784ef0d6-13a6-483d-bbfe-5f88ee9ad948")
-		)
-		(pin "9"
-			(uuid "8e665410-aecd-4c6e-9b05-5a7518800203")
-		)
-		(pin "15"
-			(uuid "c1afe078-9569-41ed-b496-30392a340d20")
-		)
-		(pin "18"
-			(uuid "2a7918ae-e60c-4341-a056-e25ba94d9fde")
-		)
-		(pin "8"
-			(uuid "21c8e834-b1ef-43a4-b16b-00625d3eebeb")
-		)
-		(pin "5"
-			(uuid "2d273c8e-1859-4964-a1d0-cb4a490baba6")
-		)
-		(pin "2"
-			(uuid "09c09746-3b6a-4d29-820c-768a9ca8a88c")
-		)
-		(instances
-			(project ""
-				(path "/9290e430-09f5-4a3f-8744-4071dceedc2e"
-					(reference "J2")
 					(unit 1)
 				)
 			)
