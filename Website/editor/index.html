@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Forge editor</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="editor.css" />
+    <link rel="icon" type="image/x-icon" href="./public/forgeLogo.png" />
+
+    <!-- Load Monaco Editor CSS -->
+    <link rel="stylesheet" data-name="vs/editor/editor.main" href="https://unpkg.com/monaco-editor@latest/min/vs/editor/editor.main.css">
+
+    <!-- FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+
+  <body>
+    <header class="w-full bg-[#0E0E0E] text-[#EEE] flex justify-between	items-center pl-6">
+      <div class="logo flex justify-center">
+        <img class="w-8 mx-2" src=".././public/forgeLogo.png" alt="Forge Logo" />
+
+        <a
+          href="forge.hackclub.com"
+          class="decoration-0 text-[#F95E1D] text-3xl font-bold"
+        >
+          Forge
+        </a>
+      </div>
+
+      <div class="btn-div">
+        <button class="view-buttons" id="renderBtn">Render</button>
+        <button style="margin-left: 2%" class="view-buttons" id="exportBtn">
+          Export
+        </button>
+        <button style="margin-left: 2%" class="view-buttons" id="downloadBtn">
+          Download
+        </button>
+      </div>
+
+      <div class="dropdown">
+        <button class="dropbtn">Resources</button>
+        <div class="dropdown-content">
+          <a href="https://openscad.org/documentation.html" target="_blank"
+            >Docs</a
+          >
+          <a
+            href="https://github.com/EmperorNumerius/Forge/issues"
+            target="_blank"
+            >Bug report</a
+          >
+          <a href="https://github.com/EmperorNumerius/Forge" target="_blank"
+            >Github</a
+          >
+          <a
+            href="https://hackclub.slack.com/archives/C07DCR48HRU"
+            target="_blank"
+            >Contribute</a
+          >
+          <a href="https://hackclub.com/" target="_blank">Hack Club</a>
+        </div>
+      </div>
+    </header>
+
+    <div class="flex flex-row w-full h-full">
+      <div class="w-1/2">
+        <div class="editor" id="container"></div>
+      </div>
+      <div class="flex flex-col w-1/2">
+        <div id="viewer" class="stl-viewer">
+          <canvas id="bg"></canvas>
+        </div>
+        <div class="console">
+          <p class="console-text" id="console"></p>
+        </div>
+        <div class="openscad-command-div">
+          <input type="text" id="openscad-command-input" placeholder="--enable=manifold" class="openscad-command-input-field">
+        </div>
+      </div>
+    </div>
+
+    <script src="monacoEditorMain.js" type="module"></script>
+    <script src="editorMain.js" type="module"></script>
+
+    <script src="openscad.js" type="module"></script>
+    <script src="stlViewer.js" type="module"></script>
+
+    <script src="https://unpkg.com/monaco-editor@latest/min/vs/loader.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/controls/OrbitControls.js"></script>
+  </body>
+</html>
+
+
+</html>
