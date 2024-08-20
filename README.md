@@ -2,7 +2,10 @@
 
 ## WIP Disclaimers
 
-* This is an upcoming [Hack Club](https://hackclub.com) You Ship, We Ship (YSWS) program.
+* This is an potential upcoming [Hack Club](https://hackclub.com) You Ship, We Ship (YSWS) program.
+
+> **This project is not currently endorsed by Hack Club and isn't an offical program.** However, we're currently in talks with Hack Club to get this project off the ground.
+
 * Things are still under heavy development as the Forge Editor and the Forge Printer are WIP (Work in Progress) projects
 * All information on this README is subject to change at any moment
 * Submission requirements, images, and links are not final. Websites URLs are placeholders and may not be functional
@@ -21,19 +24,20 @@ Building a model in the Forge editor is easy to learn, hard to master. You need 
 
 ## What is Forge exactly?
 
-The Forge YSWS Project can be considered 2 major sections:
+The Forge YSWS Project can be considered 4 major sections:
 
 * Forge Printer - the fixed-bed cantilevered 3D Printer
 * Forge Editor - the OpenSCAD-based online modeling software and slicer designed for the Forge Printer
-  * Note that exporting to STLs is an option if you want to test your model on another 3D printer before you submit an PR.  
+* Forge Mainboard - the custom-enginnered control board powered by a STM32F405 and TMC2209s. Also includes the interface board
+* Forge Firmware - The custom-engineered firmware that powers the Forge Mainboard
 
 ## About the Forge Printer
 
-The printer is built after the [Flatpack](https://github.com/eponra/flatpack). However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
+The printer is built around the [Flatpack](https://github.com/eponra/flatpack). However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
 
 ## Specifications
 
-**These are Forge's specification as of August 10, 2024. As we begin test manufacturing Forge, these specifications may change.**
+**These are Forge's specification as of August 17, 2024. As we begin test manufacturing Forge, these specifications may change.**
 
 * STM32F405RGT6 32-Bit MCU
 * TMC2209 Stepper Drivers
@@ -43,10 +47,12 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
   * 300°C Maximum Temperature
   * Designed around the Bambu Lab X1C hotend
   * 30mm³/s max flow rate
-* 100x110x110 Heated Build Plate
-  * Up to 100°C Print Temperature
+* 120x114x110mm Build Volume
+  * Up to 100°C heated bed temperature
   * Magnetic Textured PEI Plate
   * A small portion of print area is occupied by the Klicky Probe system
+* 220x210x75mm Folded Volume
+  * Small enough to fit in a filament box! 
 * MGN9C Linear Rails on all axes
 * OLED and Rotary Encoder interface
 * Sherpa Mini Direct Drive Extruder (DDE)
@@ -54,21 +60,24 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
   * Fully Automatic Bed Leveling (ABL)
   * Z offset is currently manual
 * PLA, PETG, TPU capable
-  * ABS and ASA are posssible but require an enclosure
+  * ABS and ASA are posssible but require an enclosure and active ventilation.
 * Aluminum and 3D Printed ASA frame
-* 300mm/s  Print Velocity*
-  * *This number is an estimate, real print speeds will be updated as Forge's development continues
+* Up to 300mm/s Print Velocity*
+   *This number is an estimate, real print speeds will be updated as Forge's development continues
+* SD1306 1.92" OLED and Rotary Encoder for the interface.
 
 ## Firmware
 
-Forge will run on custom, open source Forge Firmware
+* The Forge Mainbaord will run on custom, open source Forge Firmware (more information coming out soon!)
 
-* Forge 2 layer PCB is **supported by Klipper**
-  * Using forge with Klipper will be possible! The latest 2 layer PCB version of our motherboard runs a STM32F405 which is fully compatible with klipper! We've also made the [configuration](https://github.com/blazecoding2009/Forge/blob/main/Firmware/klipper) for you! (No macros are there right now as we are in early stages of development) The bracket will still allow the printer to fold properly.
-
+* **The Forge Mainboard (2 layer PCB) is supported by Klipper**
+  * Using the Forge Printer with Klipper will be possible! The latest revision of the Forge Mainboard (2 layer PCB version) runs a STM32F405 which is fully compatible with Klipper! Additionally, we'll be providing a Klipper [WiP configuration file](https://github.com/blazecoding2009/Forge/blob/main/Firmware/klipper) and OrcaSlicer profiles (Coming Soon) for you!
+* SBC Info:
+  * **A Raspberry Pi Zero 2W will be required for Klipper. You can also use another SBC (that can run MainSailOS or Fluidd) with the same form factor. However, the Zero W (1st Gen) is highly not recommended due to performance limitations. Larger SBCs like the Raspberry Pi 1/2/3/4/5 boards are not compatible due to size limatations. We'll be providing a Raspberry Pi Zero Bracket available to print that still allows the printer to fold.** The Forge Mainboard connects to the SBC via GPIO to GPIO, thereforem, SPI touchscreens are not recommended.
+    
 ## Additional notes
 
-* The BOM is at the bottom of this doc, and available as a CSV in `Electronics/Motherboard/billofmaterials.csv` for a more detailed view.
+* The full Forge Printer and Mainboard BOM will (soon be) at the bottom of this doc. The Forge Printer BOM is not currently available until we begin prototyping. However, the BOM for the Forge Mainbaord is currently available as a CSV in `Electronics/Motherboard/billofmaterials.csv`.
 * The estimated value of the Forge Printer is $200-$250, but this estimate will change over time.
   * However, Forge will be **100% Free for teens 18 and under after designing 5 models and submiting a PR**
 * Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com), a well established supplier of 3D Printing components.
@@ -87,6 +96,7 @@ Using the Forge Editor, follow the turorials (link coming soon!) and program you
 ### 3) Submit your design
 
 The submission rules to get a Forge Printer for a PR are (not available, the Forge design guidelines will be accessable at launch). **You must be a teenager (or younger to qualify for a free machine)** but anyone can make a model and make a PR. Currently, we are requiring 5 Blot-level (of quality) models. This may change as the project progresses. While the full guidelines are not accessable, here's the basics of what you should(n't) do with your Forge project:
+* Note that exporting your design to an STL is an option if you want to test your model on another 3D printer before you submit an PR.
 
 #### Dos and Don'ts
 
@@ -100,5 +110,5 @@ The submission rules to get a Forge Printer for a PR are (not available, the For
 
 ### 4) Receive the parts to build your own Forge Printer
 
-The bill of materials can be found here and is available as a CSV in `Electronics/Motherboard/billofmaterials.csv` and an assembly guide here (coming soon!).
-Also note that, currently, the BOM is not polished as we communicate with Siboor.
+The bill of materials for the Forge Printer will be coming soon here as we start finalizing the printer. An assembly guide will also be available here (coming soon!).
+Also note that, currently, the BOMs are not polished as we communicate with Siboor and test manufacture.
