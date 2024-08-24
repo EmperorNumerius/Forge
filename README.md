@@ -9,7 +9,7 @@
 * Things are still under heavy development as the Forge Editor and the Forge Printer are WIP (Work in Progress) projects
 * All information on this README is subject to change at any moment
 * Submission requirements, images, and links are not final. Websites URLs are placeholders and may not be functional
-* If you have any questions about the Development of Forge (and are a teen under 18), feel free to visit #forge-dev on the [Hack Club Slack!](https://hackclub.com/arcade/?param=slack)
+* If you have any questions about the Development of Forge (and are a teen under 18), feel free to visit [#forge-dev](https://hackclub.slack.com/archives/C078GBDKC03) on the [Hack Club Slack!](https://hackclub.com/arcade/?param=slack)
 
 **[Landing Page](https://forge.hackclub.com)** | **[Forge Editor](https://forge.hackclub.com/editor)** | **[Gallery](https://forge.hackclub.com/gallery)**
 
@@ -83,6 +83,13 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 * Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com), a well established supplier of 3D Printing components.
 * Forge is designed in Onshape. [Check out the 3D model!](https://cad.onshape.com/documents/490fa34c5c188f9b01dad5d1/w/4ce61de39bd6c276033d903d/e/7a262062418efbefd9181a13?renderMode=0&uiState=6696ce6038c5ba5455f5be75)
 
+## Support the Project!
+
+* Forge's banking is fully transparent: [Check it out now!]()
+* [Donate to the Forge Project](https://hcb.hackclub.com/donations/start/forge), any dollar counts!
+* **Forge is now offically [fiscally sponsored](https://en.wikipedia.org/wiki/Fiscal_sponsorship#:~:text=Fiscal%20sponsorship%20refers%20to%20the,and%20an%20established%20non-profit.)** 
+
+
 ## How do I get a Forge Printer?
 
 ### 1) Find a problem
@@ -112,3 +119,25 @@ The submission rules to get a Forge Printer for a PR are (not available, the For
 
 The bill of materials for the Forge Printer will be coming soon here as we start finalizing the printer. An assembly guide will also be available here (coming soon!).
 Also note that, currently, the BOMs are not polished as we communicate with Siboor and test manufacture.
+
+
+## Forge Printer BOM
+
+| Part | Category | Quantity | Brand | Unit Price | Final Price |
+| --- | --- |
+|  | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
+
+
+## Forge Project Credits:
+* Aaron Wong (@awdev) - Project Lead, Head of Firmware, Secondary Electrical Engineer,
+* Krishna Meda (@Emperor Numerius) - Project Lead, Head of Communications, Head of Forge Editor
+* Arnnav Kudale (@blaze) - Head of Sourcing, Head of Electrical Engineering
+* Michael Panait (@michael) - Head of Design Engineering
+* Brendan Conover (@Bcon) - Design Engineer
+* Malav Patel (@Malav) - Forge Editor/Landing Page Frontend Developer
+* Arthur Beck (@ave) - Forge Firmware Developer
+
+
