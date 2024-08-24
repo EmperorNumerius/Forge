@@ -37,7 +37,7 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 
 ## Specifications
 
-**These are Forge's specification as of August 17, 2024. As we begin test manufacturing Forge, these specifications may change.**
+**These are Forge's specification as of August 24, 2024. As we begin test manufacturing Forge, these specifications may change.**
 
 * STM32F405RGT6 32-Bit MCU
 * TMC2209 Stepper Drivers
