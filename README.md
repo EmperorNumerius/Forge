@@ -127,9 +127,9 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 
 
 ## Forge Project Credits:
-* Aaron Wong (@aaronw-dev) - Project Lead, Head of Firmware, Secondary Electrical Engineer,
+* Aaron Wong (@aaronw-dev) - Project Lead, Head of Firmware, Electrical Engineer
 * Krishna Meda (@EmperorNumerius) - Project Lead, Head of Communications, Head of Forge Editor
-* Arnnav Kudale (@blazecoding2009) - Head of Sourcing, Head of Electrical Engineering
+* Arnnav Kudale (@blazecoding2009) - Head of Sourcing, Head of Electrical Engineering, Forge Firmware/Klipper Config Developer
 * Michael Panait (@mikeymascatu) - Head of Design Engineering
 * Brendan Conover (@AGB556) - Design Engineer
 * Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer
