@@ -1,7 +1,5 @@
 # Forge, Hack Club's 3D Printer
 
-![image](https://github.com/Patcybermind/Project-Moonlight/assets/97562509/da8007c4-607d-4d73-ad87-6afdcd655585)
-
 ## WIP Disclaimers
 
 * This is an potential upcoming [Hack Club](https://hackclub.com) You Ship, We Ship (YSWS) program.
@@ -86,6 +84,8 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 
 ## Licensing
 * **Since Flatpack is GPLV3 (General Public License), the Forge Project is also GPLV3**
+* The design uses a Annex Engineering Sperpa Mini Extruder. In compliance to their guidelines, the CAD models of the Forge Printer will use an Orbiter V2 as a placeholder.
+   - [Sherpa Mini GitHub](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master)
 * Anybody is allowed to freely use, advertise, modify, copy, or distribute any Forge designs or software as needed with the condition that any public distribution or use of Forge software/design must also be open source and use GPL.
 * For more information about this license, check out this [link](https://www.gnu.org/licenses/gpl-3.0.en.html)
   
@@ -132,6 +132,8 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 
 
 ## Forge Project Credits:
+
+### Forge Team:
 * Aaron Wong (@aaronw-dev) - Project Lead, Head of Firmware, Electrical Engineer
 * Krishna Meda (@EmperorNumerius) - Project Lead, Head of Communications, Head of Forge Editor
 * Arnnav Kudale (@blazecoding2009) - Head of Sourcing, Head of Electrical Engineering, Forge Firmware/Klipper Config Developer
@@ -140,4 +142,8 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 * Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer
 * Arthur Beck (@AverseABFun) - Forge Firmware Developer
 
+### CAD Models and reference designs:
+* [Flatpack](https://github.com/eponra/flatpack)
+*
+*
 
