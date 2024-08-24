@@ -33,7 +33,7 @@ The Forge YSWS Project can be considered 4 major sections:
 
 ## About the Forge Printer
 
-The printer is built around the [Flatpack](https://github.com/eponra/flatpack). However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
+The printer is built around the [Flatpack](https://github.com/eponra/flatpack).However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
 
 ## Specifications
 
@@ -84,6 +84,11 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 * Currently, Forge's parts and components are planned to be manufactured by [Siboor](https://www.siboor.com), a well established supplier of 3D Printing components.
 * Forge is designed in Onshape. [Check out the 3D model!](https://cad.onshape.com/documents/490fa34c5c188f9b01dad5d1/w/4ce61de39bd6c276033d903d/e/7a262062418efbefd9181a13?renderMode=0&uiState=6696ce6038c5ba5455f5be75)
 
+## Licensing
+* **Since Flatpack is GPLV3 (General Public License), the Forge Project is also GPLV3**
+* Anybody is allowed to freely use, advertise, modify, copy, or distribute any Forge designs or software as needed with the condition that any public distribution or use of Forge software/design must also be open source and use GPL.
+* For more information about this license, check out this [link](https://www.gnu.org/licenses/gpl-3.0.en.html)
+  
 ## Support the Project!
 
 * Forge's banking is fully transparent: [Check it out now!]()
