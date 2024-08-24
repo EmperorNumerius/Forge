@@ -88,7 +88,7 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 
 * Forge's banking is fully transparent: [Check it out now!]()
 * [Donate to the Forge Project](https://hcb.hackclub.com/donations/start/forge), any dollar counts!
-* **Forge is now offically [fiscally sponsored](https://en.wikipedia.org/wiki/Fiscal_sponsorship#:~:text=Fiscal%20sponsorship%20refers%20to%20the,and%20an%20established%20non-profit.)** 
+* **Forge is now offically [fiscally sponsored](https://en.wikipedia.org/wiki/Fiscal_sponsorship#:~:text=Fiscal%20sponsorship%20refers%20to%20the,and%20an%20established%20non-profit.) by Hack Club (a 501(c)(3) NPO with EIN 81-2908499)!  ** 
 
 
 ## How do I get a Forge Printer?
