@@ -1,10 +1,12 @@
 # Forge, Hack Club's 3D Printer
 
+![image](https://github.com/Patcybermind/Project-Moonlight/assets/97562509/da8007c4-607d-4d73-ad87-6afdcd655585)
+
 ## WIP Disclaimers
 
 * This is an potential upcoming [Hack Club](https://hackclub.com) You Ship, We Ship (YSWS) program.
 
-> **This project is not currently endorsed by Hack Club and isn't an offical program.** However, we're currently in talks with Hack Club to get this project off the ground.
+> **This project is not currently endorsed by Hack Club and isn't an offical program.**
 
 * Things are still under heavy development as the Forge Editor and the Forge Printer are WIP (Work in Progress) projects
 * All information on this README is subject to change at any moment
@@ -14,11 +16,9 @@
 **[Landing Page](https://forge.hackclub.com)** | **[Forge Editor](https://forge.hackclub.com/editor)** | **[Gallery](https://forge.hackclub.com/gallery)**
 
 Find problems in the world and use programatic 3D modeling to solve them. Submit your solutions to the Gallery and get a Forge 3D Printer
-Blot is a **You Ship, We Ship** project from [Hack Club](https://hackclub.com).
+Forge is planned to be a **You Ship, We Ship** project from [Hack Club](https://hackclub.com).
 
-> Forge is **fully open source**. The online editor can be freely used (or modified) by anyone, and we encourage all to submit to the gallery through PRs! However, you must be a teenager or younger to receive a free printer.
-
-![image](https://github.com/Patcybermind/Project-Moonlight/assets/97562509/da8007c4-607d-4d73-ad87-6afdcd655585)
+Forge is **fully open source**. The online editor can be freely used (or modified) by anyone, and we encourage all to submit to the gallery through PRs! However, you must be a teenager or younger to receive a free printer.
 
 Building a model in the Forge editor is easy to learn, hard to master. You need abosultely no CAD or programming knowledge to get started. Since the Forge Editor is based on the [OpenSCAD](https://openscad.org) modeling language, it presents a challenge to even the most experienced parametric modelers.
 
@@ -47,10 +47,10 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
   * 300°C Maximum Temperature
   * Designed around the Bambu Lab X1C hotend
   * 30mm³/s max flow rate
-* 120x114x110mm Build Volume
+* 120x110x110mm Build Volume
   * Up to 100°C heated bed temperature
   * Magnetic Textured PEI Plate
-  * A small portion of print area is occupied by the Klicky Probe system
+  * A small portion of print area is occupied by the Klicky Probe system.
 * 220x210x75mm Folded Volume
   * Small enough to fit in a filament box! 
 * MGN9C Linear Rails on all axes
@@ -60,11 +60,12 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
   * Fully Automatic Bed Leveling (ABL)
   * Z offset is currently manual
 * PLA, PETG, TPU capable
-  * ABS and ASA are posssible but require an enclosure and active ventilation.
+  * ABS and ASA are posssible but require an enclosure and active ventilation
 * Aluminum and 3D Printed ASA frame
+* 3010 Axial Fan for Heatbreak cooling and 4010 "Blower-style" fan for part cooling
 * Up to 300mm/s Print Velocity*
    *This number is an estimate, real print speeds will be updated as Forge's development continues
-* SD1306 1.92" OLED and Rotary Encoder for the interface.
+* SD1306 1.92" OLED and Rotary Encoder for the interface
 
 ## Firmware
 
@@ -122,22 +123,16 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 
 
 ## Forge Printer BOM
-
-| Part | Category | Quantity | Brand | Unit Price | Final Price |
-| --- | --- |
-|  | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-
+* Coming soon! We have the finished BOM for the MK1 Prototype from Siboor which we just need to clean up before posting here! 
 
 
 ## Forge Project Credits:
-* Aaron Wong (@awdev) - Project Lead, Head of Firmware, Secondary Electrical Engineer,
-* Krishna Meda (@Emperor Numerius) - Project Lead, Head of Communications, Head of Forge Editor
-* Arnnav Kudale (@blaze) - Head of Sourcing, Head of Electrical Engineering
-* Michael Panait (@michael) - Head of Design Engineering
-* Brendan Conover (@Bcon) - Design Engineer
-* Malav Patel (@Malav) - Forge Editor/Landing Page Frontend Developer
-* Arthur Beck (@ave) - Forge Firmware Developer
+* Aaron Wong (@aaronw-dev) - Project Lead, Head of Firmware, Secondary Electrical Engineer,
+* Krishna Meda (@EmperorNumerius) - Project Lead, Head of Communications, Head of Forge Editor
+* Arnnav Kudale (@blazecoding2009) - Head of Sourcing, Head of Electrical Engineering
+* Michael Panait (@mikeymascatu) - Head of Design Engineering
+* Brendan Conover (@AGB556) - Design Engineer
+* Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer
+* Arthur Beck (@AverseABFun) - Forge Firmware Developer
 
 
