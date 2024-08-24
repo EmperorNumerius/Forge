@@ -33,7 +33,7 @@ The Forge YSWS Project can be considered 4 major sections:
 
 ## About the Forge Printer
 
-The printer is built around the [Flatpack](https://github.com/eponra/flatpack).However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
+The printer is built around the [Flatpack](https://github.com/eponra/flatpack). However, this printer is signififcantly different internally than the Flatpack. Featuring a STM32 F405 series MCU and TMC2209 drivers on a custom Hack Club-engineered control board. The printer is designed to fit inside a filament box when folded, only taking up 220x210x75mm (not including the power supply or spool holder). Forge is the ultimate tool for competitions, club fairs, and hackathons.
 
 ## Specifications
 
