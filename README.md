@@ -71,8 +71,8 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 
 * **The Forge Mainboard (2 layer PCB) is supported by Klipper**
   * Using the Forge Printer with Klipper will be possible! The latest revision of the Forge Mainboard (2 layer PCB version) runs a STM32F405 which is fully compatible with Klipper! Additionally, we'll be providing a Klipper [WiP configuration file](https://github.com/blazecoding2009/Forge/blob/main/Firmware/klipper) and OrcaSlicer profiles (Coming Soon) for you!
-* SBC Info:
-  * **A Raspberry Pi Zero 2W will be required for Klipper. You can also use another SBC (that can run MainSailOS or Fluidd) with the same form factor. However, the Zero W (1st Gen) is highly not recommended due to performance limitations. Larger SBCs like the Raspberry Pi 1/2/3/4/5 boards are not compatible due to size limatations. We'll be providing a Raspberry Pi Zero Bracket available to print that still allows the printer to fold.** The Forge Mainboard connects to the SBC via GPIO to GPIO, thereforem, SPI touchscreens are not recommended.
+  * SBC Info:
+    * **A Raspberry Pi Zero 2W will be required for *Klipper*. You can also use another SBC (that can run MainSailOS or Fluidd) with the same form factor. However, the Zero W (1st Gen) is highly not recommended due to performance limitations. Larger SBCs like the Raspberry Pi 1/2/3/4/5 boards are not compatible due to size limatations. We'll be providing a Raspberry Pi Zero Bracket available to print that still allows the printer to fold.** The Forge Mainboard connects to the SBC via GPIO to GPIO, thereforem, SPI touchscreens are not recommended.
     
 ## Additional notes
 
