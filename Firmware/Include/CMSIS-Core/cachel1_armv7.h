@@ -31,6 +31,8 @@
 #ifndef ARM_CACHEL1_ARMV7_H
 #define ARM_CACHEL1_ARMV7_H
 
+#include "cmsis_compiler.h"
+
 /**
   \ingroup  CMSIS_Core_FunctionInterface
   \defgroup CMSIS_Core_CacheFunctions Cache Functions
