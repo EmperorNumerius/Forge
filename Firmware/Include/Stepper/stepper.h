@@ -35,7 +35,10 @@ extern "C"
     {
         STEPPER_ERROR_NONE = 0,
         STEPPER_ERROR_REACHED_MAX_HOMING_STEPS,
-        STEPPER_WARNING_UNINITIALIZED
+        STEPPER_WARNING_UNINITIALIZED,
+        STEPPER_REACHED_MAX_POS,
+        STEPPER_REACHED_MIN_POS,
+        STEPPER_INVALID_HOMING_SPEED
     } StepperError;
 
     /**
@@ -62,12 +65,16 @@ extern "C"
         bool dir1IsClockwise;
 
         uint32_t maxHomingSteps; // Stores the maximum number of steps used in homing. See more details at the homeStepper function.
+        uint32_t homingSpeed;
 
         /**
          * @brief Stores the last error caused by one of the stepper functions.
          * @note For functions that don't mention lastError, assume that they reset its value to STEPPER_ERROR_NONE.
          */
         StepperError lastError;
+
+        int32_t minPosition; // Inclusive
+        int32_t maxPosition; // Inclusive
     } StepperConfig;
 
     typedef enum
@@ -77,20 +84,24 @@ extern "C"
     } StepperDirection;
 
     StepperConfig createStepperConfig(GPIO_TypeDef *STEPx,
-                                       uint32_t STEP_Pin,
+                                      uint32_t STEP_Pin,
 
-                                       GPIO_TypeDef *DIRx,
-                                       uint32_t DIR_Pin,
+                                      GPIO_TypeDef *DIRx,
+                                      uint32_t DIR_Pin,
 
-                                       GPIO_TypeDef *Enablex,
-                                       uint32_t Enable_Pin,
+                                      GPIO_TypeDef *Enablex,
+                                      uint32_t Enable_Pin,
 
-                                       GPIO_TypeDef *DIAGx,
-                                       uint32_t DIAG_Pin,
-                                       
-                                       bool dir1IsClockwise,
-                                       
-                                       uint32_t maxHomingSteps);
+                                      GPIO_TypeDef *DIAGx,
+                                      uint32_t DIAG_Pin,
+
+                                      bool dir1IsClockwise,
+
+                                      uint32_t maxHomingSteps,
+                                      uint32_t homingSpeed,
+
+                                      uint32_t minPosition,
+                                      uint32_t maxPosition);
 
     void initStepper(StepperConfig *cfg);
 

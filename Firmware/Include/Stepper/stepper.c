@@ -21,20 +21,24 @@
 #include "../CMSIS-Core/cmsis_compiler.h"
 
 StepperConfig createStepperConfig(GPIO_TypeDef *STEPx,
-                                   uint32_t STEP_Pin,
+                                  uint32_t STEP_Pin,
 
-                                   GPIO_TypeDef *DIRx,
-                                   uint32_t DIR_Pin,
+                                  GPIO_TypeDef *DIRx,
+                                  uint32_t DIR_Pin,
 
-                                   GPIO_TypeDef *Enablex,
-                                   uint32_t Enable_Pin,
+                                  GPIO_TypeDef *Enablex,
+                                  uint32_t Enable_Pin,
 
-                                   GPIO_TypeDef *DIAGx,
-                                   uint32_t DIAG_Pin,
-                                       
-                                   bool dir1IsClockwise,
-                                       
-                                   uint32_t maxHomingSteps)
+                                  GPIO_TypeDef *DIAGx,
+                                  uint32_t DIAG_Pin,
+
+                                  bool dir1IsClockwise,
+
+                                  uint32_t maxHomingSteps,
+                                  uint32_t homingSpeed,
+
+                                  uint32_t minPosition,
+                                  uint32_t maxPosition)
 {
     StepperConfig out;
     out.STEPx = STEPx;
@@ -52,6 +56,10 @@ StepperConfig createStepperConfig(GPIO_TypeDef *STEPx,
     out.dir1IsClockwise = dir1IsClockwise;
 
     out.maxHomingSteps = maxHomingSteps;
+    out.homingSpeed = homingSpeed;
+
+    out.minPosition = minPosition;
+    out.maxPosition = maxPosition;
 
     return out;
 }
@@ -143,10 +151,6 @@ void singleStepStepper(StepperConfig *cfg)
     {
         initStepper(cfg);
     }
-    HAL_GPIO_WritePin(cfg->STEPx, cfg->STEP_Pin, GPIO_PIN_SET);
-    _nopTimes(17); // on a 168mhz clock, this will be at least(likely much more than) 102ns
-    HAL_GPIO_WritePin(cfg->STEPx, cfg->STEP_Pin, GPIO_PIN_RESET);
-    _nopTimes(17); // see note above
     switch (cfg->direction)
     {
     case STEP_DIR_0:
@@ -174,6 +178,20 @@ void singleStepStepper(StepperConfig *cfg)
     default:
         break;
     }
+    if (cfg->currentPosition < cfg->minPosition && (cfg->minPosition != cfg->maxPosition))
+    {
+        cfg->lastError = STEPPER_REACHED_MIN_POS;
+        return;
+    }
+    if (cfg->currentPosition > cfg->maxPosition && (cfg->minPosition != cfg->maxPosition))
+    {
+        cfg->lastError = STEPPER_REACHED_MAX_POS;
+        return;
+    }
+    HAL_GPIO_WritePin(cfg->STEPx, cfg->STEP_Pin, GPIO_PIN_SET);
+    _nopTimes(17); // on a 168mhz clock, this will be at least(likely much more than) 102ns
+    HAL_GPIO_WritePin(cfg->STEPx, cfg->STEP_Pin, GPIO_PIN_RESET);
+    _nopTimes(17); // see note above
     cfg->lastError = STEPPER_ERROR_NONE;
 }
 
@@ -236,6 +254,11 @@ bool hasError(StepperConfig *cfg)
  */
 void homeStepper(StepperConfig *cfg, StepperDirection dir)
 {
+    if (cfg->homingSpeed == 0)
+    {
+        cfg->lastError = STEPPER_INVALID_HOMING_SPEED;
+        return;
+    }
     if (!cfg->_initialized)
     {
         initStepper(cfg);
@@ -249,7 +272,7 @@ void homeStepper(StepperConfig *cfg, StepperDirection dir)
             cfg->lastError = STEPPER_ERROR_REACHED_MAX_HOMING_STEPS;
             return;
         }
-        singleStepStepper(cfg);
+        stepStepper(cfg, cfg->homingSpeed);
         numSteps++;
     }
     resetStepperPosition(cfg);

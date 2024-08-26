@@ -19,15 +19,15 @@ extern "C"
 {
 #endif
 
-uint32_t _getTime()
-{
-    return (uint32_t)TIM2->CNT;
-}
+    uint32_t _getTime()
+    {
+        return (uint32_t)TIM2->CNT;
+    }
 
-void _setupTime()
-{
-    TIM2->PSC = 16000-1;
-}
+    void _setupTime()
+    {
+        TIM2->PSC = 16000 - 1;
+    }
 
 #define MAX_PIXELS 2048
 
@@ -200,7 +200,7 @@ typedef uint8_t neoPixelType; ///< 3rd arg to Adafruit_NeoPixel constructor
     // Constructor: number of LEDs, pin number, LED type
     NeoPixelString createNPS(uint16_t n, GPIO_TypeDef *gpioPort, uint32_t gpioPin,
                              neoPixelType type);
-    
+
     void destroyNPS(NeoPixelString *nps);
 
     void NPbegin(NeoPixelString *nps);
@@ -267,7 +267,7 @@ typedef uint8_t neoPixelType; ///< 3rd arg to Adafruit_NeoPixel constructor
                 responsibility and all that.
     */
     uint8_t *NPgetPixels(NeoPixelString *nps) { return nps->pixels; };
-    uint8_t NPgetBrightness(NeoPixelString *nps) { return nps->brightness-1; };
+    uint8_t NPgetBrightness(NeoPixelString *nps) { return nps->brightness - 1; };
     /*!
     @brief   Retrieve the pin number used for NeoPixel data output.
     @return  Pin number (-1 if not set).
