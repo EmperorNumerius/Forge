@@ -2,7 +2,7 @@
  * @file neopixel.h
  * @brief Interfaces for neopixel support.
  * @author Arthur Beck/@ave (averse.abfun@gmail.com)
- * @note Written ad-hoc for Forge by Arthur Beck
+ * @note Created based on adafruit neopixel library sources
  * @version 1.0
  * @copyright 2024
  */
