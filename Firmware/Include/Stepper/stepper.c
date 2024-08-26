@@ -1,5 +1,5 @@
 /**
- * @file stepper.c 
+ * @file stepper.c
  * @brief Implementation of interface for the TMC2209 stepper driver.
  * @author Arthur Beck/@ave (averse.abfun@gmail.com)
  * @note Written ad-hoc for Forge by Arthur Beck
@@ -19,6 +19,42 @@
 #include "../HAL/stm32f4xx_hal.h"
 #include <stdbool.h>
 #include "../CMSIS-Core/cmsis_compiler.h"
+
+StepperConfig createStepperConfig(GPIO_TypeDef *STEPx,
+                                   uint32_t STEP_Pin,
+
+                                   GPIO_TypeDef *DIRx,
+                                   uint32_t DIR_Pin,
+
+                                   GPIO_TypeDef *Enablex,
+                                   uint32_t Enable_Pin,
+
+                                   GPIO_TypeDef *DIAGx,
+                                   uint32_t DIAG_Pin,
+                                       
+                                   bool dir1IsClockwise,
+                                       
+                                   uint32_t maxHomingSteps)
+{
+    StepperConfig out;
+    out.STEPx = STEPx;
+    out.STEP_Pin = STEP_Pin;
+
+    out.DIRx = DIRx;
+    out.DIR_Pin = DIR_Pin;
+
+    out.Enablex = Enablex;
+    out.Enable_Pin = Enable_Pin;
+
+    out.DIAGx = STEPx;
+    out.DIAG_Pin = STEP_Pin;
+
+    out.dir1IsClockwise = dir1IsClockwise;
+
+    out.maxHomingSteps = maxHomingSteps;
+
+    return out;
+}
 
 static GPIO_InitTypeDef GPIO_InitStruct;
 

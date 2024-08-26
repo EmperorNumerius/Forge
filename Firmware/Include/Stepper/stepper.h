@@ -1,5 +1,5 @@
 /**
- * @file stepper.c 
+ * @file stepper.h
  * @brief Interface to the TMC2209 stepper driver.
  * @author Arthur Beck/@ave (averse.abfun@gmail.com)
  * @note Written ad-hoc for Forge by Arthur Beck
@@ -75,6 +75,22 @@ extern "C"
         STEP_DIR_0 = GPIO_PIN_RESET,
         STEP_DIR_1 = GPIO_PIN_SET
     } StepperDirection;
+
+    StepperConfig createStepperConfig(GPIO_TypeDef *STEPx,
+                                       uint32_t STEP_Pin,
+
+                                       GPIO_TypeDef *DIRx,
+                                       uint32_t DIR_Pin,
+
+                                       GPIO_TypeDef *Enablex,
+                                       uint32_t Enable_Pin,
+
+                                       GPIO_TypeDef *DIAGx,
+                                       uint32_t DIAG_Pin,
+                                       
+                                       bool dir1IsClockwise,
+                                       
+                                       uint32_t maxHomingSteps);
 
     void initStepper(StepperConfig *cfg);
 
