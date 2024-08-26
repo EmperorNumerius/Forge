@@ -49,7 +49,8 @@ void initStepper(StepperConfig *cfg)
     GPIO_InitStruct.Speed = GPIO_SPEED_MEDIUM; // Doesn't really matter, only matters for output
     HAL_GPIO_Init(cfg->DIAGx, &GPIO_InitStruct);
 
-    if (cfg->maxHomingSteps == 0) {
+    if (cfg->maxHomingSteps == 0)
+    {
         cfg->maxHomingSteps = DEFAULT_MAX_HOMING_STEPS;
     }
 
@@ -158,7 +159,9 @@ void disableStepper(StepperConfig *cfg)
     if (!cfg->_initialized)
     {
         cfg->lastError = STEPPER_WARNING_UNINITIALIZED;
-    } else {
+    }
+    else
+    {
         cfg->lastError = STEPPER_ERROR_NONE;
     }
     HAL_GPIO_WritePin(cfg->Enablex, cfg->Enable_Pin, GPIO_PIN_SET);
@@ -198,7 +201,8 @@ void homeStepper(StepperConfig *cfg, StepperDirection dir)
     uint32_t numSteps = 0;
     while (!hasError(cfg))
     {
-        if (numSteps > cfg->maxHomingSteps) {
+        if (numSteps > cfg->maxHomingSteps)
+        {
             cfg->lastError = STEPPER_ERROR_REACHED_MAX_HOMING_STEPS;
             return;
         }
@@ -220,7 +224,9 @@ void resetStepperPosition(StepperConfig *cfg)
     if (!cfg->_initialized)
     {
         cfg->lastError = STEPPER_WARNING_UNINITIALIZED;
-    } else {
+    }
+    else
+    {
         cfg->lastError = STEPPER_ERROR_NONE;
     }
     cfg->currentPosition = 0;
