@@ -1,4 +1,11 @@
-// Written ad-hoc for Forge by Arthur Beck/@ave
+/**
+ * @file stepper.c 
+ * @brief Implementation of interface for the TMC2209 stepper driver.
+ * @author Arthur Beck/@ave (averse.abfun@gmail.com)
+ * @note Written ad-hoc for Forge by Arthur Beck
+ * @version 1.0
+ * @copyright 2024
+ */
 
 /** @addtogroup Forge
  * @{
