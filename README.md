@@ -141,9 +141,8 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 * Brendan Conover (@AGB556) - Design Engineer
 * Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer
 * Arthur Beck (@AverseABFun) - Forge Firmware Developer
+* Patricio (@Patcybermind) - Forge Editor Developer
 
 ### CAD Models and reference designs:
 * [Flatpack](https://github.com/eponra/flatpack)
-*
-*
 
