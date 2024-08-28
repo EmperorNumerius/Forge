@@ -36,36 +36,46 @@ extern "C"
         300};
 
     static const float32_t _TemperatureValueTable[61] = { // To regenerate, cd to this directory and `node tableparser.mjs`
-        332.4000000, 257.6900000, 201.2700000, 158.3400000, 125.4200000,
-        100.0000000, 80.2390000, 64.7760000, 52.5980000, 42.9500000,
-        35.2620000, 29.1000000, 24.1360000, 20.1140000, 16.8410000,
-        14.1640000, 11.9630000, 10.1470000, 8.6407000, 7.3867000,
-        6.3383000, 5.4584000, 4.7170000, 4.0901000, 3.5581000,
-        3.1050000, 2.7179000, 2.3861000, 2.1008000, 1.8548000,
-        1.6419000, 1.4573000, 1.2967000, 1.1566000, 1.0341000,
-        0.9266400, 0.8322400, 0.7490700, 0.6756400, 0.6106400,
-        0.5529900, 0.5017500, 0.4561100, 0.4153700, 0.3789500,
-        0.3463100, 0.3170100, 0.2906700, 0.2669300, 0.2455100,
-        0.2261500, 0.2086200, 0.1927300, 0.1782900, 0.1651600,
-        0.1531900, 0.1422800, 0.1323100, 0.1231900, 0.1148300,
-        0.1071600};
-    
+        332400.0000000, 257690.0000000, 201270.0000000, 158340.0000000, 125420.0000000,
+        100000.0000000, 80239.0000000, 64776.0000000, 52598.0000000, 42950.0000000,
+        35262.0000000, 29100.0000000, 24136.0000000, 20114.0000000, 16841.0000000,
+        14164.0000000, 11963.0000000, 10147.0000000, 8640.7000000, 7386.7000000,
+        6338.3000000, 5458.4000000, 4717.0000000, 4090.1000000, 3558.1000000,
+        3105.0000000, 2717.9000000, 2386.1000000, 2100.8000000, 1854.8000000,
+        1641.9000000, 1457.3000000, 1296.7000000, 1156.6000000, 1034.1000000,
+        926.6400000, 832.2400000, 749.0700000, 675.6400000, 610.6400000,
+        552.9900000, 501.7500000, 456.1100000, 415.3700000, 378.9500000,
+        346.3100000, 317.0100000, 290.6700000, 266.9300000, 245.5100000,
+        226.1500000, 208.6200000, 192.7300000, 178.2900000, 165.1600000,
+        153.1900000, 142.2800000, 132.3100000, 123.1900000, 114.8300000,
+        107.1600000};
+
     typedef enum
     {
         THERM_ERROR_NONE,
-        THERM_ERROR_FAILED_ADC_INIT
+        THERM_ERROR_FAILED_ADC_INIT,
+        THERM_ERROR_FAILED_ADC_CHAN_INIT,
+        THERM_ERROR_FAILED_START_CONV
     } ThermistorError;
+
+    typedef enum
+    {
+        CERTAINTY_HIGHER, // Got this from the datasheet table; likely to be more accurate
+        CERTAINTY_LOWER   // Calculated this using linear interpolation and the two nearest values to the resistance value
+    } ThermistorTempCertainty;
 
     typedef struct
     {
         GPIO_TypeDef *Thermx;
         uint32_t Therm_Pin;
-        ADC_TypeDef Therm_ADC;
+        ADC_TypeDef *Therm_ADC;
         uint32_t Therm_ADC_Channel;
+        __IO uint32_t _uhADCxConvertedValue;
 
         bool _initialized; // NEVER touch this manually, other then to read it. this is set by initThermistor
 
         ThermistorError lastError;
+        ThermistorTempCertainty lastCertainty;
     } ThermistorConfig;
 
     void initThermistor(ThermistorConfig *cfg);
