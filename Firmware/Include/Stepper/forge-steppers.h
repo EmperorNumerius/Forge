@@ -28,7 +28,7 @@ extern "C"
     {
         StepperX1 = createStepperConfig(GPIOA, 7U, GPIOA, 1U, GPIOA, 6U, GPIOA, 0U, true, 0, 50, 0, 200);
 
-        StepperY1 = createStepperConfig(GPIOB, 0U, GPIOA, 2U, GPIOA, 4U, GPIOB, 1U, true, 0, 50, 0, 200);
+        StepperY1 = createStepperConfig(GPIOB, 5U, GPIOA, 2U, GPIOA, 4U, GPIOB, 1U, true, 0, 50, 0, 200);
 
         StepperZ1 = createStepperConfig(GPIOH, 0U, GPIOC, 3U, GPIOC, 0U, GPIOH, 1U, true, 0, 0, 1, 200);
 
