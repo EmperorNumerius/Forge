@@ -84,7 +84,7 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 
 ## Licensing
 * **Since Flatpack is GPLV3 (General Public License), the Forge Project is also GPLV3**
-* The design uses a Annex Engineering Sperpa Mini Extruder. In compliance to their guidelines, the CAD models of the Forge Printer will use an Orbiter V2 as a placeholder.
+* The design uses a Annex Engineering Sperpa Mini Extruder. In compliance to their guidelines, the CAD models of the Forge Printer will use a placeholder provided by Annex Engineering.
    - [Sherpa Mini GitHub](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master)
 * Anybody is allowed to freely use, advertise, modify, copy, or distribute any Forge designs or software as needed with the condition that any public distribution or use of Forge software/design must also be open source and use GPL.
 * For more information about this license, check out this [link](https://www.gnu.org/licenses/gpl-3.0.en.html)
