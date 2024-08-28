@@ -13,6 +13,19 @@
 
 #include "therm.h"
 
+ThermistorConfig createThermistorConfig(GPIO_TypeDef *Thermx,
+                                        uint32_t Therm_Pin,
+                                        ADC_TypeDef *Therm_ADC,
+                                        uint32_t Therm_ADC_Channel)
+{
+    ThermistorConfig out;
+    out.Thermx = Thermx;
+    out.Therm_Pin = Therm_Pin;
+    out.Therm_ADC = Therm_ADC;
+    out.Therm_ADC_Channel = Therm_ADC_Channel;
+    return out;
+}
+
 static GPIO_InitTypeDef GPIO_InitStruct;
 static ADC_HandleTypeDef AdcHandle;
 
@@ -69,7 +82,7 @@ void initThermistor(ThermistorConfig *cfg)
     HAL_Delay(100); // just want to make sure that it's finished converting, this is probably giant overkill
 }
 
-uint16_t readTemperature(ThermistorConfig *cfg)
+float32_t readTemperature(ThermistorConfig *cfg)
 {
     cfg->lastError = THERM_ERROR_NONE;
     if (!cfg->_initialized)

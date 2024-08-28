@@ -78,8 +78,13 @@ extern "C"
         ThermistorTempCertainty lastCertainty;
     } ThermistorConfig;
 
+    ThermistorConfig createThermistorConfig(GPIO_TypeDef *Thermx,
+                                            uint32_t Therm_Pin,
+                                            ADC_TypeDef *Therm_ADC,
+                                            uint32_t Therm_ADC_Channel);
+
     void initThermistor(ThermistorConfig *cfg);
-    uint16_t readTemperature(ThermistorConfig *cfg);
+    float32_t readTemperature(ThermistorConfig *cfg);
 
 #ifdef __cplusplus
 }
