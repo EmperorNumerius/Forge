@@ -84,26 +84,26 @@ uint16_t readTemperature(ThermistorConfig *cfg)
     float32_t closest_low_temp = _TemperatureKeyTable[60];
 
     cfg->lastCertainty = CERTAINTY_HIGHER;
-    
+
     for (uint32_t i = 0; i < 61; i++)
     {
-        if (_TemperatureValueTable[i]>resistance)
+        if (_TemperatureValueTable[i] > resistance)
         {
             closest_high_val = _TemperatureValueTable[i];
             closest_high_temp = _TemperatureKeyTable[i];
         }
-        
-        if (_TemperatureValueTable[i]<resistance)
+
+        if (_TemperatureValueTable[i] < resistance)
         {
             closest_low_val = _TemperatureValueTable[i];
             closest_low_temp = _TemperatureKeyTable[i];
         }
-        
-        if (_TemperatureValueTable[i]==resistance)
+
+        if (_TemperatureValueTable[i] == resistance)
             return _TemperatureKeyTable[i];
     }
 
     cfg->lastCertainty = CERTAINTY_LOWER;
 
-    return closest_low_temp+((closest_high_temp-closest_low_temp)/(closest_high_val-closest_low_val)*(resistance-closest_low_val));
+    return closest_low_temp + ((closest_high_temp - closest_low_temp) / (closest_high_val - closest_low_val) * (resistance - closest_low_val));
 }
