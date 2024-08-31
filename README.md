@@ -147,7 +147,7 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 * Patricio (@Patcybermind) - Former Forge Editor Developer
 * Max Wofford (@maxwofford) - Hack Club HQ Representative, Forge Donator
 * Alex Ren (@qcoral) - Thanks for the help with licensing!
-* Annex Engineering - Thanks for helping with Sherpa Mini copyright! 
+* Annex Engineering (@Annex-Engineering) - Thanks for helping with Sherpa Mini copyright! 
 * Jonathan Dong (@Dongathan-Jong) - Forge Art, Promotional Materials
 * Beenana (@Beenana02) - Promotional Materials
 
