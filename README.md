@@ -134,14 +134,21 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 ## Forge Project Credits:
 
 ### Forge Team:
-* Aaron Wong (@aaronw-dev) - Project Lead, Head of Firmware, Electrical Engineer
-* Krishna Meda (@EmperorNumerius) - Project Lead, Head of Communications, Head of Forge Editor
-* Arnnav Kudale (@blazecoding2009) - Head of Sourcing, Head of Electrical Engineering, Forge Firmware/Klipper Config Developer
-* Michael Panait (@mikeymascatu) - Head of Design Engineering
+* Krishna Meda (@EmperorNumerius) - Project Lead, Head of Communications, Head of Forge Editor, Promotional Materials
+* Arnnav Kudale (@blazecoding2009) - Project Lead, Head of Sourcing, Head of Electrical Engineering, Forge Firmware/Klipper Config Developer
+* Michael Panait (@mikeymascatu) - Head of Design Engineering, Promotional Materials
 * Brendan Conover (@AGB556) - Design Engineer
-* Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer
-* Arthur Beck (@AverseABFun) - Forge Firmware Developer
-* Patricio (@Patcybermind) - Forge Editor Developer
+* Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer, Promotional Materials
+* Arthur Beck (@AverseABFun) - Head of Firmware
+
+### Special Thanks:
+* Aaron Wong (@aaronw-dev) - Former Project Lead, Firmware Dev, Artist, Electrical Engineer
+* Engineering and Sales teams at Siboor - This project wouldn't be possible without them <3
+* Patricio (@Patcybermind) - Former Forge Editor Developer
+* Max Wofford (@maxwofford) - Hack Club HQ Representative, Forge Donator
+* Alex Ren (@qcoral) - Thanks for the help with licensing!
+* Jonathan Dong (@Dongathan-Jong) - Forge Art, Promotional Materials
+* Beenana (@Beenana02) - Promotional Materials
 
 ### CAD Models and reference designs:
 * [Flatpack](https://github.com/eponra/flatpack)
