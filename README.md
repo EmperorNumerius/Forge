@@ -145,7 +145,7 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 * Aaron Wong (@aaronw-dev) - Former Project Lead, Firmware Dev, Artist, Electrical Engineer
 * Engineering and Sales teams at Siboor - This project wouldn't be possible without them <3
 * Patricio (@Patcybermind) - Former Forge Editor Developer
-* Max Wofford (@maxwofford) - Hack Club HQ Representative, Forge Donator
+* Max Wofford (@maxwofford) - Hack Club HQ Representative, Forge Benefactor
 * Alex Ren (@qcoral) - Thanks for the help with licensing!
 * Annex Engineering (@Annex-Engineering) - Thanks for helping with Sherpa Mini copyright! 
 * Jonathan Dong (@Dongathan-Jong) - Forge Art, Promotional Materials
