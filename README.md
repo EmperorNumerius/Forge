@@ -134,12 +134,12 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 ## Forge Project Credits:
 
 ### Forge Team:
-* Krishna Meda (@EmperorNumerius) - Project Lead, Head of Communications, Head of Forge Editor, Promotional Materials
-* Arnnav Kudale (@blazecoding2009) - Project Lead, Head of Sourcing, Head of Electrical Engineering, Forge Firmware/Klipper Config Developer
-* Michael Panait (@mikeymascatu) - Head of Design Engineering, Promotional Materials
-* Brendan Conover (@AGB556) - Design Engineer
+* Krishna Meda (@EmperorNumerius) - Project Lead, Communications, Forge Editor Dev, Promotional Materials
+* Arnnav Kudale (@blazecoding2009) - Project Lead, Sourcing, Electrical Engineering, Forge Firmware/Klipper Config Dev
+* Michael Panait (@mikeymascatu) - Design Engineering, Promotional Materials
+* Brendan Conover (@AGB556) - Design Engineering
 * Malav Patel (@astro-develops) - Forge Editor/Landing Page Frontend Developer, Promotional Materials
-* Arthur Beck (@AverseABFun) - Head of Firmware
+* Arthur Beck (@AverseABFun) - Forge Firmware Dev
 
 ### Special Thanks:
 * Aaron Wong (@aaronw-dev) - Former Project Lead, Firmware Dev, Artist, Electrical Engineer
