@@ -54,13 +54,13 @@
 			"/**",
 			" * @file ${1:file name}",
 			" * @brief ${2:description}",
-			" * @author Arthur Beck/@ave (averse.abfun@gmail.com)",
-			" * @note Written ad-hoc for Forge by Arthur Beck",
+			" * @author ${3:author name}/@${4:slack username} (${5:email})",
+			" * @note Written ad-hoc for Forge by ${3:author name}",
 			" * @version 1.0",
 			" * @copyright 2024",
 			"*/",
 			"",
-			"#include \"${3:header file}\"",
+			"#include \"${6:header file}\"",
 			"",
 			"$0"
 		]
