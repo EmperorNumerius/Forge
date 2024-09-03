@@ -26,13 +26,13 @@ extern "C"
 
     void initForgeSteppers(void)
     {
-        StepperX1 = createStepperConfig(GPIOA, 7U, GPIOA, 1U, GPIOA, 6U, GPIOA, 0U, true, 0, 50, 0, 200);
+        StepperX1 = createStepperConfig(GPIOA, GPIO_PIN_7, GPIOA, GPIO_PIN_1, GPIOA, GPIO_PIN_6, GPIOA, GPIO_PIN_0, true, 0, 50, 0, 200);
 
-        StepperY1 = createStepperConfig(GPIOB, 5U, GPIOA, 2U, GPIOA, 4U, GPIOB, 1U, true, 0, 50, 0, 200);
+        StepperY1 = createStepperConfig(GPIOB, GPIO_PIN_5, GPIOA, GPIO_PIN_2, GPIOA, GPIO_PIN_4, GPIOB, GPIO_PIN_1, true, 0, 50, 0, 200);
 
-        StepperZ1 = createStepperConfig(GPIOH, 0U, GPIOC, 3U, GPIOC, 0U, GPIOH, 1U, true, 0, 0, 1, 200);
+        StepperZ1 = createStepperConfig(GPIOH, GPIO_PIN_0, GPIOC, GPIO_PIN_3, GPIOC, GPIO_PIN_0, GPIOH, GPIO_PIN_1, true, 0, 0, 1, 200);
 
-        StepperE1 = createStepperConfig(GPIOB, 2U, GPIOA, 5U, GPIOB, 11U, GPIOB, 10U, true, 0, 0, 0, 0);
+        StepperE1 = createStepperConfig(GPIOB, GPIO_PIN_2, GPIOA, GPIO_PIN_5, GPIOB, GPIO_PIN_11, GPIOB, GPIO_PIN_10, true, 0, 0, 0, 0);
     }
 
     void homeForge()
