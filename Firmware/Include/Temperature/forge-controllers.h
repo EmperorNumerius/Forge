@@ -12,6 +12,7 @@
 
 #include "control.h"
 #include "forge-thermistors.h"
+#include "tuning.h"
 #include "../CMSIS-Core/cmsis_compiler.h"
 #include "../HAL/stm32f4xx_hal.h"
 
@@ -27,7 +28,15 @@ void initHeaterControllers(void)
 {
     initThermistors();
     HeaterHotend = createController(&T0, GPIOC, GPIO_PIN_11, 22.2f, 1.08f, 114.0f);
-    HeaterBed = createController(&T1, GPIOC, GPIO_PIN_12, 22.2f, 1.08f, 114.0f);
+    HeaterBed = createController(&T1, GPIOC, GPIO_PIN_12, 10.0f, 0.023f, 305.0f);
+}
+
+void tuneHeaters(void)
+{
+    initHeaterControllers();
+    initTuning(&HeaterHotend);
+    tune(&HeaterHotend, 200, 30);
+    tune(&HeaterBed, 60, 30);
 }
 
 #ifdef __cplusplus
