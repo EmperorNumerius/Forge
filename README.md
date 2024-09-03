@@ -50,7 +50,7 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
   * Magnetic Textured PEI Plate
   * A small portion of print area is occupied by the Klicky Probe system.
 * 220x210x75mm Folded Volume
-  * Small enough to fit in a filament box! 
+  * Small enough to fit in a filament box!
 * MGN9C Linear Rails on all axes
 * OLED and Rotary Encoder interface
 * Sherpa Mini Direct Drive Extruder (DDE)
@@ -73,7 +73,7 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
   * Using the Forge Printer with Klipper will be possible! The latest revision of the Forge Mainboard (2 layer PCB version) runs a STM32F405 which is fully compatible with Klipper! Additionally, we'll be providing a Klipper [WiP configuration file](https://github.com/blazecoding2009/Forge/blob/main/Firmware/klipper) and OrcaSlicer profiles (Coming Soon) for you!
   * SBC Info:
     * **A Raspberry Pi Zero 2W will be required for *Klipper*. You can also use another SBC (that can run MainSailOS or Fluidd) with the same form factor. However, the Zero W (1st Gen) is highly not recommended due to performance limitations. Larger SBCs like the Raspberry Pi 1/2/3/4/5 boards are not compatible due to size limatations. We'll be providing a Raspberry Pi Zero Bracket available to print that still allows the printer to fold.** The Forge Mainboard connects to the SBC via GPIO to GPIO, thereforem, SPI touchscreens are not recommended.
-    
+
 ## Additional notes
 
 * The full Forge Printer and Mainboard BOM will (soon be) at the bottom of this doc. The Forge Printer BOM is not currently available until we begin prototyping. However, the BOM for the Forge Mainbaord is currently available as a CSV in `Electronics/Motherboard/billofmaterials.csv`.
@@ -83,18 +83,19 @@ The printer is built around the [Flatpack](https://github.com/eponra/flatpack). 
 * Forge is designed in Onshape. [Check out the 3D model!](https://cad.onshape.com/documents/490fa34c5c188f9b01dad5d1/w/4ce61de39bd6c276033d903d/e/7a262062418efbefd9181a13?renderMode=0&uiState=6696ce6038c5ba5455f5be75)
 
 ## Licensing
+
 * **Since Flatpack is GPLV3 (General Public License), the Forge Project is also GPLV3**
-* The design uses a Annex Engineering Sperpa Mini Extruder. In compliance to their guidelines, the CAD models of the Forge Printer will use a placeholder provided by Annex Engineering.
-   - [Sherpa Mini GitHub](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master)
+* The design uses a Annex Engineering Sperpa Mini Extruder.
+  * In compliance to their guidelines, the CAD models of the Forge Printer will use a placeholder provided by Annex Engineering.
+  * [Sherpa Mini GitHub](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master)
 * Anybody is allowed to freely use, advertise, modify, copy, or distribute any Forge designs or software as needed with the condition that any public distribution or use of Forge software/design must also be open source and use GPL.
 * For more information about this license, check out this [link](https://www.gnu.org/licenses/gpl-3.0.en.html)
   
 ## Support the Project!
 
-* Forge's banking is fully transparent: [Check it out now!]()
+* Forge's banking is fully transparent: [Check it out now!](https://hcb.hackclub.com/forge)
 * [Donate to the Forge Project](https://hcb.hackclub.com/donations/start/forge), any dollar counts!
-* **Forge is now offically [fiscally sponsored](https://en.wikipedia.org/wiki/Fiscal_sponsorship#:~:text=Fiscal%20sponsorship%20refers%20to%20the,and%20an%20established%20non-profit.) by Hack Club (a 501(c)(3) NPO with EIN 81-2908499)!  ** 
-
+* **Forge is now offically [fiscally sponsored](https://en.wikipedia.org/wiki/Fiscal_sponsorship#:~:text=Fiscal%20sponsorship%20refers%20to%20the,and%20an%20established%20non-profit.) by Hack Club (a 501(c)(3) NPO with EIN 81-2908499)!
 
 ## How do I get a Forge Printer?
 
@@ -109,7 +110,8 @@ Using the Forge Editor, follow the turorials (link coming soon!) and program you
 ### 3) Submit your design
 
 The submission rules to get a Forge Printer for a PR are (not available, the Forge design guidelines will be accessable at launch). **You must be a teenager (or younger to qualify for a free machine)** but anyone can make a model and make a PR. Currently, we are requiring 5 Blot-level (of quality) models. This may change as the project progresses. While the full guidelines are not accessable, here's the basics of what you should(n't) do with your Forge project:
-* Note that exporting your design to an STL is an option if you want to test your model on another 3D printer before you submit an PR.
+
+* Exporting your design to an STL is an option if you want to test your model on another 3D printer before you submit an PR.
 
 #### Dos and Don'ts
 
@@ -126,14 +128,14 @@ The submission rules to get a Forge Printer for a PR are (not available, the For
 The bill of materials for the Forge Printer will be coming soon here as we start finalizing the printer. An assembly guide will also be available here (coming soon!).
 Also note that, currently, the BOMs are not polished as we communicate with Siboor and test manufacture.
 
-
 ## Forge Printer BOM
-* Coming soon! We have the finished BOM for the MK1 Prototype from Siboor which we just need to clean up before posting here! 
 
+* Coming soon! We have the finished BOM for the MK1 Prototype from Siboor which we just need to clean up before posting here!
 
 ## Forge Project Credits:
 
 ### Forge Team:
+
 * Krishna Meda (@EmperorNumerius) - Project Lead, Communications, Forge Editor Dev, Promotional Materials
 * Arnnav Kudale (@blazecoding2009) - Project Lead, Sourcing, Electrical Engineering, Forge Firmware/Klipper Config Dev
 * Michael Panait (@mikeymascatu) - Design Engineering, Promotional Materials
@@ -142,15 +144,17 @@ Also note that, currently, the BOMs are not polished as we communicate with Sibo
 * Arthur Beck (@AverseABFun) - Forge Firmware Dev
 
 ### Special Thanks:
+
 * Aaron Wong (@aaronw-dev) - Former Project Lead, Firmware Dev, Artist, Electrical Engineer
 * Engineering and Sales teams at Siboor - This project wouldn't be possible without them <3
 * Patricio (@Patcybermind) - Former Forge Editor Developer
 * Max Wofford (@maxwofford) - Hack Club HQ Representative, Forge Benefactor
 * Alex Ren (@qcoral) - Thanks for the help with licensing!
-* Annex Engineering (@Annex-Engineering) - Thanks for helping with Sherpa Mini copyright! 
+* Annex Engineering (@Annex-Engineering) - Thanks for helping with Sherpa Mini copyright!
 * Jonathan Dong (@Dongathan-Jong) - Forge Art, Promotional Materials
 * Beenana (@Beenana02) - Promotional Materials
 
 ### CAD Models and reference designs:
+
 * [Flatpack](https://github.com/eponra/flatpack)
 * [Sherpa Mini by Annex Engineering](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)

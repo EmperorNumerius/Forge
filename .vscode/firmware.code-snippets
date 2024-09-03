@@ -1,0 +1,88 @@
+{
+	// Place your Forge workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Header template": {
+		"scope": "c",
+		"prefix": "header",
+		"body": [
+			"/**",
+			" * @file ${1:file name}",
+			" * @brief ${2:description}",
+			" * @author ${3:author name}/@${4:slack username} (${5:email})",
+			" * @note Written ad-hoc for Forge by ${3:author name}",
+			" * @version 1.0",
+			" * @copyright 2024",
+			"*/",
+			"",
+			"#ifndef ${6:define name}",
+			"#define $6",
+			"",
+			"// Includes",
+			"",
+			"#ifdef __cplusplus",
+			"extern \"C\"",
+			"{",
+			"#endif",
+			"",
+			"$0",
+			"",
+			"#ifdef __cplusplus",
+			"}",
+			"#endif /* __cplusplus */",
+			"",
+			"#endif /* $6 */"
+		]
+	},
+	"Source template": {
+		"scope": "c",
+		"prefix": "source",
+		"body": [
+			"/**",
+			" * @file ${1:file name}",
+			" * @brief ${2:description}",
+			" * @author Arthur Beck/@ave (averse.abfun@gmail.com)",
+			" * @note Written ad-hoc for Forge by Arthur Beck",
+			" * @version 1.0",
+			" * @copyright 2024",
+			"*/",
+			"",
+			"#include \"${3:header file}\"",
+			"",
+			"$0"
+		]
+	},
+	"Structure": {
+		"scope": "c",
+		"prefix": "typedef struct",
+		"body": [
+			"typedef struct",
+			"{",
+			"\t${0:fields}",
+			"} ${2:name};"
+		]
+	},
+	"Enum": {
+		"scope": "c",
+		"prefix": "typedef enum",
+		"body": [
+			"typedef enum",
+			"{",
+			"\t${0:values}",
+			"} ${2:name};"
+		]
+	}
+}
