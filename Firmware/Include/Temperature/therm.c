@@ -84,9 +84,8 @@ void initThermistor(ThermistorConfig *cfg)
 
 float32_t readTemperature(ThermistorConfig *cfg)
 {
+    initThermistor(cfg);
     cfg->lastError = THERM_ERROR_NONE;
-    if (!cfg->_initialized)
-        initThermistor(cfg);
     float32_t voltage_therm = ((float32_t)cfg->_uhADCxConvertedValue / 4095.0f) * 3.3f;
     float32_t resistance = 4700.0f * ((3.3f - voltage_therm) / voltage_therm);
 

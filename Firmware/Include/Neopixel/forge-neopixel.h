@@ -22,7 +22,7 @@ extern "C"
 
     void initNeopixel(void)
     {
-        neopixels = createNPS(3, GPIOA, 3, NEO_GRB);
+        neopixels = createNPS(3, GPIOA, GPIO_PIN_3, NEO_GRB);
     }
 
 #ifdef __cplusplus
