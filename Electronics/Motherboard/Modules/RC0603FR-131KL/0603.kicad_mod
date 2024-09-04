@@ -1,0 +1,31 @@
+
+(footprint 0603 (layer F.Cu) (tedit 667C48C7)
+  (descr "")
+  (attr smd)
+  (fp_text reference REF** (at 2.541462 -1.270728 0) (layer F.SilkS)
+    (effects (font (size 1.00057480315 1.00057480315) (thickness 0.15)))
+  )
+  (fp_text value 0603 (at 1.90629 1.27086 0) (layer F.Fab)
+    (effects (font (size 1.00067716535 1.00067716535) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at -0.85 0.0) (size 1.1 1.0) (layers F.Cu F.Mask F.Paste) (solder_mask_margin 0.102))
+  (pad 2 smd rect (at 0.85 0.0) (size 1.1 1.0) (layers F.Cu F.Mask F.Paste) (solder_mask_margin 0.102))
+  (fp_line (start -0.356 -0.432) (end 0.356 -0.432) (layer F.Fab) (width 0.1016))
+  (fp_line (start -0.356 0.419) (end 0.356 0.419) (layer F.Fab) (width 0.1016))
+  (fp_poly
+    (pts
+      (xy -0.839347 -0.4801)
+      (xy -0.3381 -0.4801)
+      (xy -0.3381 0.470543)
+      (xy -0.839347 0.470543)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.330365 -0.4801)
+      (xy 0.8303 -0.4801)
+      (xy 0.8303 0.470134)
+      (xy 0.330365 0.470134)
+    ) (layer F.Fab) (width 0.01)
+  )
+)
