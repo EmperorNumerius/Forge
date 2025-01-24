@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css2?family=Grenze:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
+
+body {
+  background: #222222;
+  background-image: linear-gradient(
+    to bottom,
+    #222222f6,
+    #222222f6
+  ), url("https://thumbs.dreamstime.com/b/old-scraped-metal-texture-background-247776150.jpg");
+}
+
+.title {
+  font-family: 'Grenze', sans-serif;
+}
+
+.glow {
+  text-shadow: 0px 0px 15px rgba(249, 94, 29, 0.5);
+  transition: 0.2s all ease;
+}
+
+.glow:hover {
+  text-shadow: 0px 0px 20px rgba(249, 94, 29, 0.6);
+}
+
+.box {
+  box-shadow: 0px 0px 15px rgba(249, 94, 29, 0.2);
+}
+
+.threejs-container {
+  background: #1a1a1a;
+  border-radius: 8px;
+  overflow: hidden;
+}
